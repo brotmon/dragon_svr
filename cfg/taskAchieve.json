@@ -1,0 +1,6410 @@
+{
+  "30720": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30721, 
+    "taskTypeId": 7, 
+    "num": 3600, 
+    "reward": 1, 
+    "id": 30720
+  }, 
+  "30721": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30722, 
+    "taskTypeId": 7, 
+    "num": 4000, 
+    "reward": 1, 
+    "id": 30721
+  }, 
+  "30722": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30723, 
+    "taskTypeId": 7, 
+    "num": 5000, 
+    "reward": 1, 
+    "id": 30722
+  }, 
+  "30723": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30724, 
+    "taskTypeId": 7, 
+    "num": 6000, 
+    "reward": 1, 
+    "id": 30723
+  }, 
+  "30724": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30725, 
+    "taskTypeId": 7, 
+    "num": 7000, 
+    "reward": 1, 
+    "id": 30724
+  }, 
+  "30725": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 0, 
+    "taskTypeId": 7, 
+    "num": 10000, 
+    "reward": 1, 
+    "id": 30725
+  }, 
+  "30801": {
+    "isFirst": 1, 
+    "value": 20, 
+    "next": 30802, 
+    "taskTypeId": 8, 
+    "num": 1000, 
+    "reward": 1, 
+    "id": 30801
+  }, 
+  "30802": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30803, 
+    "taskTypeId": 8, 
+    "num": 5000, 
+    "reward": 1, 
+    "id": 30802
+  }, 
+  "30803": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30804, 
+    "taskTypeId": 8, 
+    "num": 10000, 
+    "reward": 1, 
+    "id": 30803
+  }, 
+  "30804": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30805, 
+    "taskTypeId": 8, 
+    "num": 15000, 
+    "reward": 1, 
+    "id": 30804
+  }, 
+  "30805": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30806, 
+    "taskTypeId": 8, 
+    "num": 25000, 
+    "reward": 1, 
+    "id": 30805
+  }, 
+  "30806": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30807, 
+    "taskTypeId": 8, 
+    "num": 40000, 
+    "reward": 1, 
+    "id": 30806
+  }, 
+  "30807": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30808, 
+    "taskTypeId": 8, 
+    "num": 60000, 
+    "reward": 1, 
+    "id": 30807
+  }, 
+  "30808": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30809, 
+    "taskTypeId": 8, 
+    "num": 100000, 
+    "reward": 1, 
+    "id": 30808
+  }, 
+  "30809": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30810, 
+    "taskTypeId": 8, 
+    "num": 150000, 
+    "reward": 1, 
+    "id": 30809
+  }, 
+  "30810": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30811, 
+    "taskTypeId": 8, 
+    "num": 200000, 
+    "reward": 1, 
+    "id": 30810
+  }, 
+  "30811": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30812, 
+    "taskTypeId": 8, 
+    "num": 300000, 
+    "reward": 1, 
+    "id": 30811
+  }, 
+  "30812": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30813, 
+    "taskTypeId": 8, 
+    "num": 450000, 
+    "reward": 1, 
+    "id": 30812
+  }, 
+  "30813": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30814, 
+    "taskTypeId": 8, 
+    "num": 600000, 
+    "reward": 1, 
+    "id": 30813
+  }, 
+  "30814": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30815, 
+    "taskTypeId": 8, 
+    "num": 1000000, 
+    "reward": 1, 
+    "id": 30814
+  }, 
+  "30815": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30816, 
+    "taskTypeId": 8, 
+    "num": 1500000, 
+    "reward": 1, 
+    "id": 30815
+  }, 
+  "30816": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30817, 
+    "taskTypeId": 8, 
+    "num": 2500000, 
+    "reward": 1, 
+    "id": 30816
+  }, 
+  "30817": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30818, 
+    "taskTypeId": 8, 
+    "num": 4000000, 
+    "reward": 1, 
+    "id": 30817
+  }, 
+  "30818": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30819, 
+    "taskTypeId": 8, 
+    "num": 6000000, 
+    "reward": 1, 
+    "id": 30818
+  }, 
+  "30819": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30820, 
+    "taskTypeId": 8, 
+    "num": 10000000, 
+    "reward": 1, 
+    "id": 30819
+  }, 
+  "30820": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30821, 
+    "taskTypeId": 8, 
+    "num": 15000000, 
+    "reward": 1, 
+    "id": 30820
+  }, 
+  "30821": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30822, 
+    "taskTypeId": 8, 
+    "num": 25000000, 
+    "reward": 1, 
+    "id": 30821
+  }, 
+  "30822": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30823, 
+    "taskTypeId": 8, 
+    "num": 40000000, 
+    "reward": 1, 
+    "id": 30822
+  }, 
+  "30823": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30824, 
+    "taskTypeId": 8, 
+    "num": 60000000, 
+    "reward": 1, 
+    "id": 30823
+  }, 
+  "30824": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30825, 
+    "taskTypeId": 8, 
+    "num": 80000000, 
+    "reward": 1, 
+    "id": 30824
+  }, 
+  "30825": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30826, 
+    "taskTypeId": 8, 
+    "num": 120000000, 
+    "reward": 1, 
+    "id": 30825
+  }, 
+  "30826": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30827, 
+    "taskTypeId": 8, 
+    "num": 145000000, 
+    "reward": 1, 
+    "id": 30826
+  }, 
+  "30827": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30828, 
+    "taskTypeId": 8, 
+    "num": 180000000, 
+    "reward": 1, 
+    "id": 30827
+  }, 
+  "30828": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30829, 
+    "taskTypeId": 8, 
+    "num": 250000000, 
+    "reward": 1, 
+    "id": 30828
+  }, 
+  "30829": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30830, 
+    "taskTypeId": 8, 
+    "num": 500000000, 
+    "reward": 1, 
+    "id": 30829
+  }, 
+  "30830": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30831, 
+    "taskTypeId": 8, 
+    "num": 700000000, 
+    "reward": 1, 
+    "id": 30830
+  }, 
+  "30831": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30832, 
+    "taskTypeId": 8, 
+    "num": 1000000000, 
+    "reward": 1, 
+    "id": 30831
+  }, 
+  "30832": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30833, 
+    "taskTypeId": 8, 
+    "num": 1500000000, 
+    "reward": 1, 
+    "id": 30832
+  }, 
+  "30833": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30834, 
+    "taskTypeId": 8, 
+    "num": 2500000000, 
+    "reward": 1, 
+    "id": 30833
+  }, 
+  "30834": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30835, 
+    "taskTypeId": 8, 
+    "num": 5000000000, 
+    "reward": 1, 
+    "id": 30834
+  }, 
+  "30835": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 0, 
+    "taskTypeId": 8, 
+    "num": 10000000000, 
+    "reward": 1, 
+    "id": 30835
+  }, 
+  "31001": {
+    "isFirst": 1, 
+    "value": 20, 
+    "next": 31002, 
+    "taskTypeId": 10, 
+    "num": 1000, 
+    "reward": 1, 
+    "id": 31001
+  }, 
+  "31002": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31003, 
+    "taskTypeId": 10, 
+    "num": 5000, 
+    "reward": 1, 
+    "id": 31002
+  }, 
+  "31003": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31004, 
+    "taskTypeId": 10, 
+    "num": 10000, 
+    "reward": 1, 
+    "id": 31003
+  }, 
+  "31004": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31005, 
+    "taskTypeId": 10, 
+    "num": 15000, 
+    "reward": 1, 
+    "id": 31004
+  }, 
+  "31005": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31006, 
+    "taskTypeId": 10, 
+    "num": 25000, 
+    "reward": 1, 
+    "id": 31005
+  }, 
+  "31006": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31007, 
+    "taskTypeId": 10, 
+    "num": 40000, 
+    "reward": 1, 
+    "id": 31006
+  }, 
+  "31007": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31008, 
+    "taskTypeId": 10, 
+    "num": 60000, 
+    "reward": 1, 
+    "id": 31007
+  }, 
+  "31008": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31009, 
+    "taskTypeId": 10, 
+    "num": 100000, 
+    "reward": 1, 
+    "id": 31008
+  }, 
+  "31009": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31010, 
+    "taskTypeId": 10, 
+    "num": 150000, 
+    "reward": 1, 
+    "id": 31009
+  }, 
+  "31010": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31011, 
+    "taskTypeId": 10, 
+    "num": 200000, 
+    "reward": 1, 
+    "id": 31010
+  }, 
+  "31011": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31012, 
+    "taskTypeId": 10, 
+    "num": 300000, 
+    "reward": 1, 
+    "id": 31011
+  }, 
+  "31012": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31013, 
+    "taskTypeId": 10, 
+    "num": 450000, 
+    "reward": 1, 
+    "id": 31012
+  }, 
+  "31013": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31014, 
+    "taskTypeId": 10, 
+    "num": 600000, 
+    "reward": 1, 
+    "id": 31013
+  }, 
+  "31014": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31015, 
+    "taskTypeId": 10, 
+    "num": 1000000, 
+    "reward": 1, 
+    "id": 31014
+  }, 
+  "31015": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31016, 
+    "taskTypeId": 10, 
+    "num": 1500000, 
+    "reward": 1, 
+    "id": 31015
+  }, 
+  "31016": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31017, 
+    "taskTypeId": 10, 
+    "num": 2500000, 
+    "reward": 1, 
+    "id": 31016
+  }, 
+  "31017": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31018, 
+    "taskTypeId": 10, 
+    "num": 4000000, 
+    "reward": 1, 
+    "id": 31017
+  }, 
+  "31018": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31019, 
+    "taskTypeId": 10, 
+    "num": 6000000, 
+    "reward": 1, 
+    "id": 31018
+  }, 
+  "31019": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31020, 
+    "taskTypeId": 10, 
+    "num": 10000000, 
+    "reward": 1, 
+    "id": 31019
+  }, 
+  "31020": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31021, 
+    "taskTypeId": 10, 
+    "num": 15000000, 
+    "reward": 1, 
+    "id": 31020
+  }, 
+  "31021": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31022, 
+    "taskTypeId": 10, 
+    "num": 25000000, 
+    "reward": 1, 
+    "id": 31021
+  }, 
+  "31022": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31023, 
+    "taskTypeId": 10, 
+    "num": 40000000, 
+    "reward": 1, 
+    "id": 31022
+  }, 
+  "31023": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31024, 
+    "taskTypeId": 10, 
+    "num": 60000000, 
+    "reward": 1, 
+    "id": 31023
+  }, 
+  "31024": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31025, 
+    "taskTypeId": 10, 
+    "num": 80000000, 
+    "reward": 1, 
+    "id": 31024
+  }, 
+  "31025": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31026, 
+    "taskTypeId": 10, 
+    "num": 120000000, 
+    "reward": 1, 
+    "id": 31025
+  }, 
+  "31026": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31027, 
+    "taskTypeId": 10, 
+    "num": 145000000, 
+    "reward": 1, 
+    "id": 31026
+  }, 
+  "31027": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31028, 
+    "taskTypeId": 10, 
+    "num": 180000000, 
+    "reward": 1, 
+    "id": 31027
+  }, 
+  "31028": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31029, 
+    "taskTypeId": 10, 
+    "num": 250000000, 
+    "reward": 1, 
+    "id": 31028
+  }, 
+  "31029": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31030, 
+    "taskTypeId": 10, 
+    "num": 500000000, 
+    "reward": 1, 
+    "id": 31029
+  }, 
+  "31030": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31031, 
+    "taskTypeId": 10, 
+    "num": 700000000, 
+    "reward": 1, 
+    "id": 31030
+  }, 
+  "31031": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31032, 
+    "taskTypeId": 10, 
+    "num": 1000000000, 
+    "reward": 1, 
+    "id": 31031
+  }, 
+  "31032": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31033, 
+    "taskTypeId": 10, 
+    "num": 1500000000, 
+    "reward": 1, 
+    "id": 31032
+  }, 
+  "31033": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31034, 
+    "taskTypeId": 10, 
+    "num": 2500000000, 
+    "reward": 1, 
+    "id": 31033
+  }, 
+  "31034": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31035, 
+    "taskTypeId": 10, 
+    "num": 5000000000, 
+    "reward": 1, 
+    "id": 31034
+  }, 
+  "31035": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 0, 
+    "taskTypeId": 10, 
+    "num": 10000000000, 
+    "reward": 1, 
+    "id": 31035
+  }, 
+  "32354": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32355, 
+    "taskTypeId": 23, 
+    "num": 54, 
+    "reward": 1, 
+    "id": 32354
+  }, 
+  "31101": {
+    "isFirst": 1, 
+    "value": 20, 
+    "next": 31102, 
+    "taskTypeId": 11, 
+    "num": 1000, 
+    "reward": 1, 
+    "id": 31101
+  }, 
+  "31102": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31103, 
+    "taskTypeId": 11, 
+    "num": 5000, 
+    "reward": 1, 
+    "id": 31102
+  }, 
+  "31103": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31104, 
+    "taskTypeId": 11, 
+    "num": 10000, 
+    "reward": 1, 
+    "id": 31103
+  }, 
+  "31104": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31105, 
+    "taskTypeId": 11, 
+    "num": 15000, 
+    "reward": 1, 
+    "id": 31104
+  }, 
+  "31105": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31106, 
+    "taskTypeId": 11, 
+    "num": 25000, 
+    "reward": 1, 
+    "id": 31105
+  }, 
+  "31106": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31107, 
+    "taskTypeId": 11, 
+    "num": 40000, 
+    "reward": 1, 
+    "id": 31106
+  }, 
+  "31107": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31108, 
+    "taskTypeId": 11, 
+    "num": 60000, 
+    "reward": 1, 
+    "id": 31107
+  }, 
+  "31108": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31109, 
+    "taskTypeId": 11, 
+    "num": 100000, 
+    "reward": 1, 
+    "id": 31108
+  }, 
+  "31109": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31110, 
+    "taskTypeId": 11, 
+    "num": 150000, 
+    "reward": 1, 
+    "id": 31109
+  }, 
+  "31110": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31111, 
+    "taskTypeId": 11, 
+    "num": 200000, 
+    "reward": 1, 
+    "id": 31110
+  }, 
+  "31111": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31112, 
+    "taskTypeId": 11, 
+    "num": 300000, 
+    "reward": 1, 
+    "id": 31111
+  }, 
+  "31112": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31113, 
+    "taskTypeId": 11, 
+    "num": 450000, 
+    "reward": 1, 
+    "id": 31112
+  }, 
+  "31113": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31114, 
+    "taskTypeId": 11, 
+    "num": 600000, 
+    "reward": 1, 
+    "id": 31113
+  }, 
+  "31114": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31115, 
+    "taskTypeId": 11, 
+    "num": 1000000, 
+    "reward": 1, 
+    "id": 31114
+  }, 
+  "31115": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31116, 
+    "taskTypeId": 11, 
+    "num": 1500000, 
+    "reward": 1, 
+    "id": 31115
+  }, 
+  "31116": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31117, 
+    "taskTypeId": 11, 
+    "num": 2500000, 
+    "reward": 1, 
+    "id": 31116
+  }, 
+  "31117": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31118, 
+    "taskTypeId": 11, 
+    "num": 4000000, 
+    "reward": 1, 
+    "id": 31117
+  }, 
+  "31118": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31119, 
+    "taskTypeId": 11, 
+    "num": 6000000, 
+    "reward": 1, 
+    "id": 31118
+  }, 
+  "31119": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31120, 
+    "taskTypeId": 11, 
+    "num": 10000000, 
+    "reward": 1, 
+    "id": 31119
+  }, 
+  "31120": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31121, 
+    "taskTypeId": 11, 
+    "num": 15000000, 
+    "reward": 1, 
+    "id": 31120
+  }, 
+  "31121": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31122, 
+    "taskTypeId": 11, 
+    "num": 25000000, 
+    "reward": 1, 
+    "id": 31121
+  }, 
+  "31122": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31123, 
+    "taskTypeId": 11, 
+    "num": 40000000, 
+    "reward": 1, 
+    "id": 31122
+  }, 
+  "31123": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31124, 
+    "taskTypeId": 11, 
+    "num": 60000000, 
+    "reward": 1, 
+    "id": 31123
+  }, 
+  "31124": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31125, 
+    "taskTypeId": 11, 
+    "num": 80000000, 
+    "reward": 1, 
+    "id": 31124
+  }, 
+  "31125": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31126, 
+    "taskTypeId": 11, 
+    "num": 120000000, 
+    "reward": 1, 
+    "id": 31125
+  }, 
+  "31126": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31127, 
+    "taskTypeId": 11, 
+    "num": 145000000, 
+    "reward": 1, 
+    "id": 31126
+  }, 
+  "31127": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31128, 
+    "taskTypeId": 11, 
+    "num": 180000000, 
+    "reward": 1, 
+    "id": 31127
+  }, 
+  "31128": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31129, 
+    "taskTypeId": 11, 
+    "num": 250000000, 
+    "reward": 1, 
+    "id": 31128
+  }, 
+  "31129": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31130, 
+    "taskTypeId": 11, 
+    "num": 500000000, 
+    "reward": 1, 
+    "id": 31129
+  }, 
+  "31130": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31131, 
+    "taskTypeId": 11, 
+    "num": 700000000, 
+    "reward": 1, 
+    "id": 31130
+  }, 
+  "31131": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31132, 
+    "taskTypeId": 11, 
+    "num": 1000000000, 
+    "reward": 1, 
+    "id": 31131
+  }, 
+  "31132": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31133, 
+    "taskTypeId": 11, 
+    "num": 1500000000, 
+    "reward": 1, 
+    "id": 31132
+  }, 
+  "31133": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31134, 
+    "taskTypeId": 11, 
+    "num": 2500000000, 
+    "reward": 1, 
+    "id": 31133
+  }, 
+  "31134": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31135, 
+    "taskTypeId": 11, 
+    "num": 5000000000, 
+    "reward": 1, 
+    "id": 31134
+  }, 
+  "31135": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 0, 
+    "taskTypeId": 11, 
+    "num": 10000000000, 
+    "reward": 1, 
+    "id": 31135
+  }, 
+  "31201": {
+    "isFirst": 1, 
+    "value": 20, 
+    "next": 31202, 
+    "taskTypeId": 12, 
+    "num": 5000, 
+    "reward": 1, 
+    "id": 31201
+  }, 
+  "31202": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31203, 
+    "taskTypeId": 12, 
+    "num": 20000, 
+    "reward": 1, 
+    "id": 31202
+  }, 
+  "31203": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31204, 
+    "taskTypeId": 12, 
+    "num": 50000, 
+    "reward": 1, 
+    "id": 31203
+  }, 
+  "31204": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31205, 
+    "taskTypeId": 12, 
+    "num": 100000, 
+    "reward": 1, 
+    "id": 31204
+  }, 
+  "31205": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31206, 
+    "taskTypeId": 12, 
+    "num": 250000, 
+    "reward": 1, 
+    "id": 31205
+  }, 
+  "31206": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31207, 
+    "taskTypeId": 12, 
+    "num": 500000, 
+    "reward": 1, 
+    "id": 31206
+  }, 
+  "31207": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31208, 
+    "taskTypeId": 12, 
+    "num": 1000000, 
+    "reward": 1, 
+    "id": 31207
+  }, 
+  "31208": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31209, 
+    "taskTypeId": 12, 
+    "num": 2000000, 
+    "reward": 1, 
+    "id": 31208
+  }, 
+  "31209": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31210, 
+    "taskTypeId": 12, 
+    "num": 3500000, 
+    "reward": 1, 
+    "id": 31209
+  }, 
+  "31210": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31211, 
+    "taskTypeId": 12, 
+    "num": 6000000, 
+    "reward": 1, 
+    "id": 31210
+  }, 
+  "31211": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31212, 
+    "taskTypeId": 12, 
+    "num": 10000000, 
+    "reward": 1, 
+    "id": 31211
+  }, 
+  "31212": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31213, 
+    "taskTypeId": 12, 
+    "num": 20000000, 
+    "reward": 1, 
+    "id": 31212
+  }, 
+  "31213": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31214, 
+    "taskTypeId": 12, 
+    "num": 35000000, 
+    "reward": 1, 
+    "id": 31213
+  }, 
+  "31214": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31215, 
+    "taskTypeId": 12, 
+    "num": 60000000, 
+    "reward": 1, 
+    "id": 31214
+  }, 
+  "31215": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 0, 
+    "taskTypeId": 12, 
+    "num": 100000000, 
+    "reward": 1, 
+    "id": 31215
+  }, 
+  "31301": {
+    "isFirst": 1, 
+    "value": 20, 
+    "next": 31302, 
+    "taskTypeId": 13, 
+    "num": 2, 
+    "reward": 1, 
+    "id": 31301
+  }, 
+  "31302": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31303, 
+    "taskTypeId": 13, 
+    "num": 6, 
+    "reward": 1, 
+    "id": 31302
+  }, 
+  "31303": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31304, 
+    "taskTypeId": 13, 
+    "num": 10, 
+    "reward": 1, 
+    "id": 31303
+  }, 
+  "31304": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31305, 
+    "taskTypeId": 13, 
+    "num": 20, 
+    "reward": 1, 
+    "id": 31304
+  }, 
+  "31305": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31306, 
+    "taskTypeId": 13, 
+    "num": 30, 
+    "reward": 1, 
+    "id": 31305
+  }, 
+  "31306": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31307, 
+    "taskTypeId": 13, 
+    "num": 50, 
+    "reward": 1, 
+    "id": 31306
+  }, 
+  "31307": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31308, 
+    "taskTypeId": 13, 
+    "num": 100, 
+    "reward": 1, 
+    "id": 31307
+  }, 
+  "31308": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31309, 
+    "taskTypeId": 13, 
+    "num": 150, 
+    "reward": 1, 
+    "id": 31308
+  }, 
+  "31309": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31310, 
+    "taskTypeId": 13, 
+    "num": 200, 
+    "reward": 1, 
+    "id": 31309
+  }, 
+  "31310": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31311, 
+    "taskTypeId": 13, 
+    "num": 300, 
+    "reward": 1, 
+    "id": 31310
+  }, 
+  "31311": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31312, 
+    "taskTypeId": 13, 
+    "num": 400, 
+    "reward": 1, 
+    "id": 31311
+  }, 
+  "31312": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31313, 
+    "taskTypeId": 13, 
+    "num": 600, 
+    "reward": 1, 
+    "id": 31312
+  }, 
+  "31313": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31314, 
+    "taskTypeId": 13, 
+    "num": 900, 
+    "reward": 1, 
+    "id": 31313
+  }, 
+  "31314": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31315, 
+    "taskTypeId": 13, 
+    "num": 1200, 
+    "reward": 1, 
+    "id": 31314
+  }, 
+  "31315": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31316, 
+    "taskTypeId": 13, 
+    "num": 1600, 
+    "reward": 1, 
+    "id": 31315
+  }, 
+  "31316": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31317, 
+    "taskTypeId": 13, 
+    "num": 2000, 
+    "reward": 1, 
+    "id": 31316
+  }, 
+  "31317": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31318, 
+    "taskTypeId": 13, 
+    "num": 2400, 
+    "reward": 1, 
+    "id": 31317
+  }, 
+  "31318": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31319, 
+    "taskTypeId": 13, 
+    "num": 2800, 
+    "reward": 1, 
+    "id": 31318
+  }, 
+  "31319": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31320, 
+    "taskTypeId": 13, 
+    "num": 3200, 
+    "reward": 1, 
+    "id": 31319
+  }, 
+  "31320": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31321, 
+    "taskTypeId": 13, 
+    "num": 3600, 
+    "reward": 1, 
+    "id": 31320
+  }, 
+  "31321": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31322, 
+    "taskTypeId": 13, 
+    "num": 4000, 
+    "reward": 1, 
+    "id": 31321
+  }, 
+  "31322": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31323, 
+    "taskTypeId": 13, 
+    "num": 5000, 
+    "reward": 1, 
+    "id": 31322
+  }, 
+  "31323": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31324, 
+    "taskTypeId": 13, 
+    "num": 6000, 
+    "reward": 1, 
+    "id": 31323
+  }, 
+  "31324": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31325, 
+    "taskTypeId": 13, 
+    "num": 7000, 
+    "reward": 1, 
+    "id": 31324
+  }, 
+  "31325": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 0, 
+    "taskTypeId": 13, 
+    "num": 10000, 
+    "reward": 1, 
+    "id": 31325
+  }, 
+  "31401": {
+    "isFirst": 1, 
+    "value": 20, 
+    "next": 31402, 
+    "taskTypeId": 14, 
+    "num": 2, 
+    "reward": 1, 
+    "id": 31401
+  }, 
+  "31402": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31403, 
+    "taskTypeId": 14, 
+    "num": 6, 
+    "reward": 1, 
+    "id": 31402
+  }, 
+  "31403": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31404, 
+    "taskTypeId": 14, 
+    "num": 10, 
+    "reward": 1, 
+    "id": 31403
+  }, 
+  "31404": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31405, 
+    "taskTypeId": 14, 
+    "num": 20, 
+    "reward": 1, 
+    "id": 31404
+  }, 
+  "31405": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31406, 
+    "taskTypeId": 14, 
+    "num": 30, 
+    "reward": 1, 
+    "id": 31405
+  }, 
+  "31406": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31407, 
+    "taskTypeId": 14, 
+    "num": 50, 
+    "reward": 1, 
+    "id": 31406
+  }, 
+  "31407": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31408, 
+    "taskTypeId": 14, 
+    "num": 100, 
+    "reward": 1, 
+    "id": 31407
+  }, 
+  "31408": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31409, 
+    "taskTypeId": 14, 
+    "num": 150, 
+    "reward": 1, 
+    "id": 31408
+  }, 
+  "31409": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31410, 
+    "taskTypeId": 14, 
+    "num": 200, 
+    "reward": 1, 
+    "id": 31409
+  }, 
+  "31410": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31411, 
+    "taskTypeId": 14, 
+    "num": 300, 
+    "reward": 1, 
+    "id": 31410
+  }, 
+  "31411": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31412, 
+    "taskTypeId": 14, 
+    "num": 400, 
+    "reward": 1, 
+    "id": 31411
+  }, 
+  "31412": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31413, 
+    "taskTypeId": 14, 
+    "num": 600, 
+    "reward": 1, 
+    "id": 31412
+  }, 
+  "31413": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31414, 
+    "taskTypeId": 14, 
+    "num": 900, 
+    "reward": 1, 
+    "id": 31413
+  }, 
+  "31414": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31415, 
+    "taskTypeId": 14, 
+    "num": 1200, 
+    "reward": 1, 
+    "id": 31414
+  }, 
+  "31415": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31416, 
+    "taskTypeId": 14, 
+    "num": 1600, 
+    "reward": 1, 
+    "id": 31415
+  }, 
+  "31416": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31417, 
+    "taskTypeId": 14, 
+    "num": 2000, 
+    "reward": 1, 
+    "id": 31416
+  }, 
+  "31417": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31418, 
+    "taskTypeId": 14, 
+    "num": 2400, 
+    "reward": 1, 
+    "id": 31417
+  }, 
+  "31418": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31419, 
+    "taskTypeId": 14, 
+    "num": 2800, 
+    "reward": 1, 
+    "id": 31418
+  }, 
+  "31419": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31420, 
+    "taskTypeId": 14, 
+    "num": 3200, 
+    "reward": 1, 
+    "id": 31419
+  }, 
+  "31420": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31421, 
+    "taskTypeId": 14, 
+    "num": 3600, 
+    "reward": 1, 
+    "id": 31420
+  }, 
+  "31421": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31422, 
+    "taskTypeId": 14, 
+    "num": 4000, 
+    "reward": 1, 
+    "id": 31421
+  }, 
+  "31422": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31423, 
+    "taskTypeId": 14, 
+    "num": 5000, 
+    "reward": 1, 
+    "id": 31422
+  }, 
+  "31423": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31424, 
+    "taskTypeId": 14, 
+    "num": 6000, 
+    "reward": 1, 
+    "id": 31423
+  }, 
+  "31424": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31425, 
+    "taskTypeId": 14, 
+    "num": 7000, 
+    "reward": 1, 
+    "id": 31424
+  }, 
+  "31425": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 0, 
+    "taskTypeId": 14, 
+    "num": 10000, 
+    "reward": 1, 
+    "id": 31425
+  }, 
+  "32349": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32350, 
+    "taskTypeId": 23, 
+    "num": 49, 
+    "reward": 1, 
+    "id": 32349
+  }, 
+  "32350": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32351, 
+    "taskTypeId": 23, 
+    "num": 50, 
+    "reward": 1, 
+    "id": 32350
+  }, 
+  "31501": {
+    "isFirst": 1, 
+    "value": 100, 
+    "next": 31502, 
+    "taskTypeId": 15, 
+    "num": 1, 
+    "reward": 1, 
+    "id": 31501
+  }, 
+  "31502": {
+    "isFirst": 0, 
+    "value": 100, 
+    "next": 31503, 
+    "taskTypeId": 15, 
+    "num": 3, 
+    "reward": 1, 
+    "id": 31502
+  }, 
+  "31503": {
+    "isFirst": 0, 
+    "value": 100, 
+    "next": 31504, 
+    "taskTypeId": 15, 
+    "num": 5, 
+    "reward": 1, 
+    "id": 31503
+  }, 
+  "31504": {
+    "isFirst": 0, 
+    "value": 100, 
+    "next": 31505, 
+    "taskTypeId": 15, 
+    "num": 8, 
+    "reward": 1, 
+    "id": 31504
+  }, 
+  "31505": {
+    "isFirst": 0, 
+    "value": 100, 
+    "next": 31506, 
+    "taskTypeId": 15, 
+    "num": 10, 
+    "reward": 1, 
+    "id": 31505
+  }, 
+  "31506": {
+    "isFirst": 0, 
+    "value": 100, 
+    "next": 31507, 
+    "taskTypeId": 15, 
+    "num": 15, 
+    "reward": 1, 
+    "id": 31506
+  }, 
+  "31507": {
+    "isFirst": 0, 
+    "value": 100, 
+    "next": 31508, 
+    "taskTypeId": 15, 
+    "num": 20, 
+    "reward": 1, 
+    "id": 31507
+  }, 
+  "31508": {
+    "isFirst": 0, 
+    "value": 100, 
+    "next": 31509, 
+    "taskTypeId": 15, 
+    "num": 25, 
+    "reward": 1, 
+    "id": 31508
+  }, 
+  "31509": {
+    "isFirst": 0, 
+    "value": 100, 
+    "next": 31510, 
+    "taskTypeId": 15, 
+    "num": 30, 
+    "reward": 1, 
+    "id": 31509
+  }, 
+  "31510": {
+    "isFirst": 0, 
+    "value": 100, 
+    "next": 31511, 
+    "taskTypeId": 15, 
+    "num": 35, 
+    "reward": 1, 
+    "id": 31510
+  }, 
+  "31511": {
+    "isFirst": 0, 
+    "value": 100, 
+    "next": 31512, 
+    "taskTypeId": 15, 
+    "num": 40, 
+    "reward": 1, 
+    "id": 31511
+  }, 
+  "31512": {
+    "isFirst": 0, 
+    "value": 100, 
+    "next": 31513, 
+    "taskTypeId": 15, 
+    "num": 50, 
+    "reward": 1, 
+    "id": 31512
+  }, 
+  "31513": {
+    "isFirst": 0, 
+    "value": 100, 
+    "next": 31514, 
+    "taskTypeId": 15, 
+    "num": 60, 
+    "reward": 1, 
+    "id": 31513
+  }, 
+  "31514": {
+    "isFirst": 0, 
+    "value": 100, 
+    "next": 31515, 
+    "taskTypeId": 15, 
+    "num": 70, 
+    "reward": 1, 
+    "id": 31514
+  }, 
+  "31515": {
+    "isFirst": 0, 
+    "value": 100, 
+    "next": 31516, 
+    "taskTypeId": 15, 
+    "num": 80, 
+    "reward": 1, 
+    "id": 31515
+  }, 
+  "31516": {
+    "isFirst": 0, 
+    "value": 100, 
+    "next": 31517, 
+    "taskTypeId": 15, 
+    "num": 100, 
+    "reward": 1, 
+    "id": 31516
+  }, 
+  "31517": {
+    "isFirst": 0, 
+    "value": 100, 
+    "next": 31518, 
+    "taskTypeId": 15, 
+    "num": 120, 
+    "reward": 1, 
+    "id": 31517
+  }, 
+  "31518": {
+    "isFirst": 0, 
+    "value": 100, 
+    "next": 31519, 
+    "taskTypeId": 15, 
+    "num": 130, 
+    "reward": 1, 
+    "id": 31518
+  }, 
+  "31519": {
+    "isFirst": 0, 
+    "value": 100, 
+    "next": 31520, 
+    "taskTypeId": 15, 
+    "num": 150, 
+    "reward": 1, 
+    "id": 31519
+  }, 
+  "31520": {
+    "isFirst": 0, 
+    "value": 100, 
+    "next": 31521, 
+    "taskTypeId": 15, 
+    "num": 200, 
+    "reward": 1, 
+    "id": 31520
+  }, 
+  "31521": {
+    "isFirst": 0, 
+    "value": 100, 
+    "next": 31522, 
+    "taskTypeId": 15, 
+    "num": 250, 
+    "reward": 1, 
+    "id": 31521
+  }, 
+  "31522": {
+    "isFirst": 0, 
+    "value": 100, 
+    "next": 31523, 
+    "taskTypeId": 15, 
+    "num": 300, 
+    "reward": 1, 
+    "id": 31522
+  }, 
+  "31523": {
+    "isFirst": 0, 
+    "value": 100, 
+    "next": 31524, 
+    "taskTypeId": 15, 
+    "num": 350, 
+    "reward": 1, 
+    "id": 31523
+  }, 
+  "31524": {
+    "isFirst": 0, 
+    "value": 100, 
+    "next": 31525, 
+    "taskTypeId": 15, 
+    "num": 500, 
+    "reward": 1, 
+    "id": 31524
+  }, 
+  "31525": {
+    "isFirst": 0, 
+    "value": 100, 
+    "next": 0, 
+    "taskTypeId": 15, 
+    "num": 1000, 
+    "reward": 1, 
+    "id": 31525
+  }, 
+  "32352": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32353, 
+    "taskTypeId": 23, 
+    "num": 52, 
+    "reward": 1, 
+    "id": 32352
+  }, 
+  "32353": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32354, 
+    "taskTypeId": 23, 
+    "num": 53, 
+    "reward": 1, 
+    "id": 32353
+  }, 
+  "31601": {
+    "isFirst": 1, 
+    "value": 20, 
+    "next": 31602, 
+    "taskTypeId": 16, 
+    "num": 1, 
+    "reward": 1, 
+    "id": 31601
+  }, 
+  "31602": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31603, 
+    "taskTypeId": 16, 
+    "num": 3, 
+    "reward": 1, 
+    "id": 31602
+  }, 
+  "31603": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31604, 
+    "taskTypeId": 16, 
+    "num": 5, 
+    "reward": 1, 
+    "id": 31603
+  }, 
+  "31604": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31605, 
+    "taskTypeId": 16, 
+    "num": 8, 
+    "reward": 1, 
+    "id": 31604
+  }, 
+  "31605": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31606, 
+    "taskTypeId": 16, 
+    "num": 10, 
+    "reward": 1, 
+    "id": 31605
+  }, 
+  "31606": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31607, 
+    "taskTypeId": 16, 
+    "num": 15, 
+    "reward": 1, 
+    "id": 31606
+  }, 
+  "31607": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31608, 
+    "taskTypeId": 16, 
+    "num": 20, 
+    "reward": 1, 
+    "id": 31607
+  }, 
+  "31608": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31609, 
+    "taskTypeId": 16, 
+    "num": 25, 
+    "reward": 1, 
+    "id": 31608
+  }, 
+  "31609": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31610, 
+    "taskTypeId": 16, 
+    "num": 30, 
+    "reward": 1, 
+    "id": 31609
+  }, 
+  "31610": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31611, 
+    "taskTypeId": 16, 
+    "num": 35, 
+    "reward": 1, 
+    "id": 31610
+  }, 
+  "31611": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31612, 
+    "taskTypeId": 16, 
+    "num": 40, 
+    "reward": 1, 
+    "id": 31611
+  }, 
+  "31612": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31613, 
+    "taskTypeId": 16, 
+    "num": 50, 
+    "reward": 1, 
+    "id": 31612
+  }, 
+  "31613": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31614, 
+    "taskTypeId": 16, 
+    "num": 60, 
+    "reward": 1, 
+    "id": 31613
+  }, 
+  "31614": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31615, 
+    "taskTypeId": 16, 
+    "num": 70, 
+    "reward": 1, 
+    "id": 31614
+  }, 
+  "31615": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31616, 
+    "taskTypeId": 16, 
+    "num": 80, 
+    "reward": 1, 
+    "id": 31615
+  }, 
+  "31616": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31617, 
+    "taskTypeId": 16, 
+    "num": 100, 
+    "reward": 1, 
+    "id": 31616
+  }, 
+  "31617": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31618, 
+    "taskTypeId": 16, 
+    "num": 120, 
+    "reward": 1, 
+    "id": 31617
+  }, 
+  "31618": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31619, 
+    "taskTypeId": 16, 
+    "num": 130, 
+    "reward": 1, 
+    "id": 31618
+  }, 
+  "31619": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31620, 
+    "taskTypeId": 16, 
+    "num": 150, 
+    "reward": 1, 
+    "id": 31619
+  }, 
+  "31620": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31621, 
+    "taskTypeId": 16, 
+    "num": 200, 
+    "reward": 1, 
+    "id": 31620
+  }, 
+  "31621": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31622, 
+    "taskTypeId": 16, 
+    "num": 250, 
+    "reward": 1, 
+    "id": 31621
+  }, 
+  "31622": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31623, 
+    "taskTypeId": 16, 
+    "num": 300, 
+    "reward": 1, 
+    "id": 31622
+  }, 
+  "31623": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31624, 
+    "taskTypeId": 16, 
+    "num": 350, 
+    "reward": 1, 
+    "id": 31623
+  }, 
+  "31624": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31625, 
+    "taskTypeId": 16, 
+    "num": 500, 
+    "reward": 1, 
+    "id": 31624
+  }, 
+  "31625": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 0, 
+    "taskTypeId": 16, 
+    "num": 1000, 
+    "reward": 1, 
+    "id": 31625
+  }, 
+  "32355": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32356, 
+    "taskTypeId": 23, 
+    "num": 55, 
+    "reward": 1, 
+    "id": 32355
+  }, 
+  "32356": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32357, 
+    "taskTypeId": 23, 
+    "num": 56, 
+    "reward": 1, 
+    "id": 32356
+  }, 
+  "32358": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32359, 
+    "taskTypeId": 23, 
+    "num": 58, 
+    "reward": 1, 
+    "id": 32358
+  }, 
+  "32357": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32358, 
+    "taskTypeId": 23, 
+    "num": 57, 
+    "reward": 1, 
+    "id": 32357
+  }, 
+  "31701": {
+    "isFirst": 1, 
+    "value": 20, 
+    "next": 31702, 
+    "taskTypeId": 17, 
+    "num": 1000, 
+    "reward": 1, 
+    "id": 31701
+  }, 
+  "31702": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31703, 
+    "taskTypeId": 17, 
+    "num": 5000, 
+    "reward": 1, 
+    "id": 31702
+  }, 
+  "31703": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31704, 
+    "taskTypeId": 17, 
+    "num": 10000, 
+    "reward": 1, 
+    "id": 31703
+  }, 
+  "31704": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31705, 
+    "taskTypeId": 17, 
+    "num": 15000, 
+    "reward": 1, 
+    "id": 31704
+  }, 
+  "31705": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31706, 
+    "taskTypeId": 17, 
+    "num": 25000, 
+    "reward": 1, 
+    "id": 31705
+  }, 
+  "31706": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31707, 
+    "taskTypeId": 17, 
+    "num": 40000, 
+    "reward": 1, 
+    "id": 31706
+  }, 
+  "31707": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31708, 
+    "taskTypeId": 17, 
+    "num": 60000, 
+    "reward": 1, 
+    "id": 31707
+  }, 
+  "31708": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31709, 
+    "taskTypeId": 17, 
+    "num": 100000, 
+    "reward": 1, 
+    "id": 31708
+  }, 
+  "31709": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31710, 
+    "taskTypeId": 17, 
+    "num": 150000, 
+    "reward": 1, 
+    "id": 31709
+  }, 
+  "31710": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31711, 
+    "taskTypeId": 17, 
+    "num": 200000, 
+    "reward": 1, 
+    "id": 31710
+  }, 
+  "31711": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31712, 
+    "taskTypeId": 17, 
+    "num": 300000, 
+    "reward": 1, 
+    "id": 31711
+  }, 
+  "31712": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31713, 
+    "taskTypeId": 17, 
+    "num": 450000, 
+    "reward": 1, 
+    "id": 31712
+  }, 
+  "31713": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31714, 
+    "taskTypeId": 17, 
+    "num": 600000, 
+    "reward": 1, 
+    "id": 31713
+  }, 
+  "31714": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31715, 
+    "taskTypeId": 17, 
+    "num": 1000000, 
+    "reward": 1, 
+    "id": 31714
+  }, 
+  "31715": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31716, 
+    "taskTypeId": 17, 
+    "num": 1500000, 
+    "reward": 1, 
+    "id": 31715
+  }, 
+  "31716": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31717, 
+    "taskTypeId": 17, 
+    "num": 2500000, 
+    "reward": 1, 
+    "id": 31716
+  }, 
+  "31717": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31718, 
+    "taskTypeId": 17, 
+    "num": 4000000, 
+    "reward": 1, 
+    "id": 31717
+  }, 
+  "31718": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31719, 
+    "taskTypeId": 17, 
+    "num": 6000000, 
+    "reward": 1, 
+    "id": 31718
+  }, 
+  "31719": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31720, 
+    "taskTypeId": 17, 
+    "num": 10000000, 
+    "reward": 1, 
+    "id": 31719
+  }, 
+  "31720": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31721, 
+    "taskTypeId": 17, 
+    "num": 15000000, 
+    "reward": 1, 
+    "id": 31720
+  }, 
+  "31721": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31722, 
+    "taskTypeId": 17, 
+    "num": 25000000, 
+    "reward": 1, 
+    "id": 31721
+  }, 
+  "31722": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31723, 
+    "taskTypeId": 17, 
+    "num": 40000000, 
+    "reward": 1, 
+    "id": 31722
+  }, 
+  "31723": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31724, 
+    "taskTypeId": 17, 
+    "num": 60000000, 
+    "reward": 1, 
+    "id": 31723
+  }, 
+  "31724": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31725, 
+    "taskTypeId": 17, 
+    "num": 80000000, 
+    "reward": 1, 
+    "id": 31724
+  }, 
+  "31725": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31726, 
+    "taskTypeId": 17, 
+    "num": 120000000, 
+    "reward": 1, 
+    "id": 31725
+  }, 
+  "31726": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31727, 
+    "taskTypeId": 17, 
+    "num": 145000000, 
+    "reward": 1, 
+    "id": 31726
+  }, 
+  "31727": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31728, 
+    "taskTypeId": 17, 
+    "num": 180000000, 
+    "reward": 1, 
+    "id": 31727
+  }, 
+  "31728": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31729, 
+    "taskTypeId": 17, 
+    "num": 250000000, 
+    "reward": 1, 
+    "id": 31728
+  }, 
+  "31729": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31730, 
+    "taskTypeId": 17, 
+    "num": 500000000, 
+    "reward": 1, 
+    "id": 31729
+  }, 
+  "31730": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31731, 
+    "taskTypeId": 17, 
+    "num": 700000000, 
+    "reward": 1, 
+    "id": 31730
+  }, 
+  "31731": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31732, 
+    "taskTypeId": 17, 
+    "num": 1000000000, 
+    "reward": 1, 
+    "id": 31731
+  }, 
+  "31732": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31733, 
+    "taskTypeId": 17, 
+    "num": 1500000000, 
+    "reward": 1, 
+    "id": 31732
+  }, 
+  "31733": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31734, 
+    "taskTypeId": 17, 
+    "num": 2500000000, 
+    "reward": 1, 
+    "id": 31733
+  }, 
+  "31734": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31735, 
+    "taskTypeId": 17, 
+    "num": 5000000000, 
+    "reward": 1, 
+    "id": 31734
+  }, 
+  "31735": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 0, 
+    "taskTypeId": 17, 
+    "num": 10000000000, 
+    "reward": 1, 
+    "id": 31735
+  }, 
+  "32255": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32256, 
+    "taskTypeId": 22, 
+    "num": 55, 
+    "reward": 1, 
+    "id": 32255
+  }, 
+  "32256": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32257, 
+    "taskTypeId": 22, 
+    "num": 56, 
+    "reward": 1, 
+    "id": 32256
+  }, 
+  "32257": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32258, 
+    "taskTypeId": 22, 
+    "num": 57, 
+    "reward": 1, 
+    "id": 32257
+  }, 
+  "32359": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32360, 
+    "taskTypeId": 23, 
+    "num": 59, 
+    "reward": 1, 
+    "id": 32359
+  }, 
+  "32258": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32259, 
+    "taskTypeId": 22, 
+    "num": 58, 
+    "reward": 1, 
+    "id": 32258
+  }, 
+  "32259": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32260, 
+    "taskTypeId": 22, 
+    "num": 59, 
+    "reward": 1, 
+    "id": 32259
+  }, 
+  "32260": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32261, 
+    "taskTypeId": 22, 
+    "num": 60, 
+    "reward": 1, 
+    "id": 32260
+  }, 
+  "32261": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32262, 
+    "taskTypeId": 22, 
+    "num": 61, 
+    "reward": 1, 
+    "id": 32261
+  }, 
+  "32262": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32263, 
+    "taskTypeId": 22, 
+    "num": 62, 
+    "reward": 1, 
+    "id": 32262
+  }, 
+  "32360": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32361, 
+    "taskTypeId": 23, 
+    "num": 60, 
+    "reward": 1, 
+    "id": 32360
+  }, 
+  "32263": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32264, 
+    "taskTypeId": 22, 
+    "num": 63, 
+    "reward": 1, 
+    "id": 32263
+  }, 
+  "32264": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32265, 
+    "taskTypeId": 22, 
+    "num": 64, 
+    "reward": 1, 
+    "id": 32264
+  }, 
+  "32265": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32266, 
+    "taskTypeId": 22, 
+    "num": 65, 
+    "reward": 1, 
+    "id": 32265
+  }, 
+  "31801": {
+    "isFirst": 1, 
+    "value": 20, 
+    "next": 31802, 
+    "taskTypeId": 18, 
+    "num": 1, 
+    "reward": 1, 
+    "id": 31801
+  }, 
+  "31802": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31803, 
+    "taskTypeId": 18, 
+    "num": 2, 
+    "reward": 1, 
+    "id": 31802
+  }, 
+  "31803": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31804, 
+    "taskTypeId": 18, 
+    "num": 3, 
+    "reward": 1, 
+    "id": 31803
+  }, 
+  "31804": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31805, 
+    "taskTypeId": 18, 
+    "num": 4, 
+    "reward": 1, 
+    "id": 31804
+  }, 
+  "31805": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31806, 
+    "taskTypeId": 18, 
+    "num": 5, 
+    "reward": 1, 
+    "id": 31805
+  }, 
+  "31806": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 0, 
+    "taskTypeId": 18, 
+    "num": 6, 
+    "reward": 1, 
+    "id": 31806
+  }, 
+  "32267": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32268, 
+    "taskTypeId": 22, 
+    "num": 67, 
+    "reward": 1, 
+    "id": 32267
+  }, 
+  "32268": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32269, 
+    "taskTypeId": 22, 
+    "num": 68, 
+    "reward": 1, 
+    "id": 32268
+  }, 
+  "32269": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32270, 
+    "taskTypeId": 22, 
+    "num": 69, 
+    "reward": 1, 
+    "id": 32269
+  }, 
+  "32270": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32271, 
+    "taskTypeId": 22, 
+    "num": 70, 
+    "reward": 1, 
+    "id": 32270
+  }, 
+  "32271": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32272, 
+    "taskTypeId": 22, 
+    "num": 71, 
+    "reward": 1, 
+    "id": 32271
+  }, 
+  "32272": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32273, 
+    "taskTypeId": 22, 
+    "num": 72, 
+    "reward": 1, 
+    "id": 32272
+  }, 
+  "32273": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32274, 
+    "taskTypeId": 22, 
+    "num": 73, 
+    "reward": 1, 
+    "id": 32273
+  }, 
+  "31901": {
+    "isFirst": 1, 
+    "value": 20, 
+    "next": 31902, 
+    "taskTypeId": 19, 
+    "num": 2, 
+    "reward": 1, 
+    "id": 31901
+  }, 
+  "31902": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31903, 
+    "taskTypeId": 19, 
+    "num": 6, 
+    "reward": 1, 
+    "id": 31902
+  }, 
+  "31903": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31904, 
+    "taskTypeId": 19, 
+    "num": 10, 
+    "reward": 1, 
+    "id": 31903
+  }, 
+  "31904": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31905, 
+    "taskTypeId": 19, 
+    "num": 20, 
+    "reward": 1, 
+    "id": 31904
+  }, 
+  "31905": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31906, 
+    "taskTypeId": 19, 
+    "num": 30, 
+    "reward": 1, 
+    "id": 31905
+  }, 
+  "31906": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31907, 
+    "taskTypeId": 19, 
+    "num": 50, 
+    "reward": 1, 
+    "id": 31906
+  }, 
+  "31907": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31908, 
+    "taskTypeId": 19, 
+    "num": 100, 
+    "reward": 1, 
+    "id": 31907
+  }, 
+  "31908": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31909, 
+    "taskTypeId": 19, 
+    "num": 150, 
+    "reward": 1, 
+    "id": 31908
+  }, 
+  "31909": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31910, 
+    "taskTypeId": 19, 
+    "num": 200, 
+    "reward": 1, 
+    "id": 31909
+  }, 
+  "31910": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31911, 
+    "taskTypeId": 19, 
+    "num": 300, 
+    "reward": 1, 
+    "id": 31910
+  }, 
+  "31911": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31912, 
+    "taskTypeId": 19, 
+    "num": 400, 
+    "reward": 1, 
+    "id": 31911
+  }, 
+  "31912": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31913, 
+    "taskTypeId": 19, 
+    "num": 600, 
+    "reward": 1, 
+    "id": 31912
+  }, 
+  "31913": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31914, 
+    "taskTypeId": 19, 
+    "num": 900, 
+    "reward": 1, 
+    "id": 31913
+  }, 
+  "31914": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31915, 
+    "taskTypeId": 19, 
+    "num": 1200, 
+    "reward": 1, 
+    "id": 31914
+  }, 
+  "31915": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31916, 
+    "taskTypeId": 19, 
+    "num": 1600, 
+    "reward": 1, 
+    "id": 31915
+  }, 
+  "31916": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31917, 
+    "taskTypeId": 19, 
+    "num": 2000, 
+    "reward": 1, 
+    "id": 31916
+  }, 
+  "31917": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31918, 
+    "taskTypeId": 19, 
+    "num": 2400, 
+    "reward": 1, 
+    "id": 31917
+  }, 
+  "31918": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31919, 
+    "taskTypeId": 19, 
+    "num": 2800, 
+    "reward": 1, 
+    "id": 31918
+  }, 
+  "31919": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31920, 
+    "taskTypeId": 19, 
+    "num": 3200, 
+    "reward": 1, 
+    "id": 31919
+  }, 
+  "31920": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31921, 
+    "taskTypeId": 19, 
+    "num": 3600, 
+    "reward": 1, 
+    "id": 31920
+  }, 
+  "31921": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31922, 
+    "taskTypeId": 19, 
+    "num": 4000, 
+    "reward": 1, 
+    "id": 31921
+  }, 
+  "31922": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31923, 
+    "taskTypeId": 19, 
+    "num": 5000, 
+    "reward": 1, 
+    "id": 31922
+  }, 
+  "31923": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31924, 
+    "taskTypeId": 19, 
+    "num": 6000, 
+    "reward": 1, 
+    "id": 31923
+  }, 
+  "31924": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 31925, 
+    "taskTypeId": 19, 
+    "num": 7000, 
+    "reward": 1, 
+    "id": 31924
+  }, 
+  "31925": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 0, 
+    "taskTypeId": 19, 
+    "num": 10000, 
+    "reward": 1, 
+    "id": 31925
+  }, 
+  "32295": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32296, 
+    "taskTypeId": 22, 
+    "num": 95, 
+    "reward": 1, 
+    "id": 32295
+  }, 
+  "32266": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32267, 
+    "taskTypeId": 22, 
+    "num": 66, 
+    "reward": 1, 
+    "id": 32266
+  }, 
+  "32001": {
+    "isFirst": 1, 
+    "value": 20, 
+    "next": 32002, 
+    "taskTypeId": 20, 
+    "num": 5, 
+    "reward": 1, 
+    "id": 32001
+  }, 
+  "32002": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32003, 
+    "taskTypeId": 20, 
+    "num": 10, 
+    "reward": 1, 
+    "id": 32002
+  }, 
+  "32003": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32004, 
+    "taskTypeId": 20, 
+    "num": 20, 
+    "reward": 1, 
+    "id": 32003
+  }, 
+  "32004": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32005, 
+    "taskTypeId": 20, 
+    "num": 35, 
+    "reward": 1, 
+    "id": 32004
+  }, 
+  "32005": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32006, 
+    "taskTypeId": 20, 
+    "num": 50, 
+    "reward": 1, 
+    "id": 32005
+  }, 
+  "32006": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32007, 
+    "taskTypeId": 20, 
+    "num": 70, 
+    "reward": 1, 
+    "id": 32006
+  }, 
+  "32007": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32008, 
+    "taskTypeId": 20, 
+    "num": 100, 
+    "reward": 1, 
+    "id": 32007
+  }, 
+  "32008": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32009, 
+    "taskTypeId": 20, 
+    "num": 120, 
+    "reward": 1, 
+    "id": 32008
+  }, 
+  "32009": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32010, 
+    "taskTypeId": 20, 
+    "num": 150, 
+    "reward": 1, 
+    "id": 32009
+  }, 
+  "32010": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32011, 
+    "taskTypeId": 20, 
+    "num": 185, 
+    "reward": 1, 
+    "id": 32010
+  }, 
+  "32011": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32012, 
+    "taskTypeId": 20, 
+    "num": 250, 
+    "reward": 1, 
+    "id": 32011
+  }, 
+  "32012": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32013, 
+    "taskTypeId": 20, 
+    "num": 295, 
+    "reward": 1, 
+    "id": 32012
+  }, 
+  "32013": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32014, 
+    "taskTypeId": 20, 
+    "num": 345, 
+    "reward": 1, 
+    "id": 32013
+  }, 
+  "32014": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32015, 
+    "taskTypeId": 20, 
+    "num": 395, 
+    "reward": 1, 
+    "id": 32014
+  }, 
+  "32015": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32016, 
+    "taskTypeId": 20, 
+    "num": 445, 
+    "reward": 1, 
+    "id": 32015
+  }, 
+  "32016": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32017, 
+    "taskTypeId": 20, 
+    "num": 495, 
+    "reward": 1, 
+    "id": 32016
+  }, 
+  "32017": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32018, 
+    "taskTypeId": 20, 
+    "num": 545, 
+    "reward": 1, 
+    "id": 32017
+  }, 
+  "32018": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32019, 
+    "taskTypeId": 20, 
+    "num": 595, 
+    "reward": 1, 
+    "id": 32018
+  }, 
+  "32019": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32020, 
+    "taskTypeId": 20, 
+    "num": 645, 
+    "reward": 1, 
+    "id": 32019
+  }, 
+  "32020": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32021, 
+    "taskTypeId": 20, 
+    "num": 695, 
+    "reward": 1, 
+    "id": 32020
+  }, 
+  "32021": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32022, 
+    "taskTypeId": 20, 
+    "num": 745, 
+    "reward": 1, 
+    "id": 32021
+  }, 
+  "32022": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32023, 
+    "taskTypeId": 20, 
+    "num": 795, 
+    "reward": 1, 
+    "id": 32022
+  }, 
+  "32023": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32024, 
+    "taskTypeId": 20, 
+    "num": 845, 
+    "reward": 1, 
+    "id": 32023
+  }, 
+  "32024": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32025, 
+    "taskTypeId": 20, 
+    "num": 920, 
+    "reward": 1, 
+    "id": 32024
+  }, 
+  "32025": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 0, 
+    "taskTypeId": 20, 
+    "num": 1000, 
+    "reward": 1, 
+    "id": 32025
+  }, 
+  "32101": {
+    "isFirst": 1, 
+    "value": 20, 
+    "next": 32102, 
+    "taskTypeId": 21, 
+    "num": 1, 
+    "reward": 1, 
+    "id": 32101
+  }, 
+  "32102": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32103, 
+    "taskTypeId": 21, 
+    "num": 5, 
+    "reward": 1, 
+    "id": 32102
+  }, 
+  "32103": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32104, 
+    "taskTypeId": 21, 
+    "num": 10, 
+    "reward": 1, 
+    "id": 32103
+  }, 
+  "32104": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32105, 
+    "taskTypeId": 21, 
+    "num": 15, 
+    "reward": 1, 
+    "id": 32104
+  }, 
+  "32105": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32106, 
+    "taskTypeId": 21, 
+    "num": 20, 
+    "reward": 1, 
+    "id": 32105
+  }, 
+  "32106": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32107, 
+    "taskTypeId": 21, 
+    "num": 30, 
+    "reward": 1, 
+    "id": 32106
+  }, 
+  "32107": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32108, 
+    "taskTypeId": 21, 
+    "num": 40, 
+    "reward": 1, 
+    "id": 32107
+  }, 
+  "32108": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32109, 
+    "taskTypeId": 21, 
+    "num": 50, 
+    "reward": 1, 
+    "id": 32108
+  }, 
+  "32109": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32110, 
+    "taskTypeId": 21, 
+    "num": 60, 
+    "reward": 1, 
+    "id": 32109
+  }, 
+  "32110": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32111, 
+    "taskTypeId": 21, 
+    "num": 70, 
+    "reward": 1, 
+    "id": 32110
+  }, 
+  "32111": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32112, 
+    "taskTypeId": 21, 
+    "num": 80, 
+    "reward": 1, 
+    "id": 32111
+  }, 
+  "32112": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32113, 
+    "taskTypeId": 21, 
+    "num": 90, 
+    "reward": 1, 
+    "id": 32112
+  }, 
+  "32113": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32114, 
+    "taskTypeId": 21, 
+    "num": 100, 
+    "reward": 1, 
+    "id": 32113
+  }, 
+  "32114": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32115, 
+    "taskTypeId": 21, 
+    "num": 110, 
+    "reward": 1, 
+    "id": 32114
+  }, 
+  "32115": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32116, 
+    "taskTypeId": 21, 
+    "num": 120, 
+    "reward": 1, 
+    "id": 32115
+  }, 
+  "32116": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32117, 
+    "taskTypeId": 21, 
+    "num": 130, 
+    "reward": 1, 
+    "id": 32116
+  }, 
+  "32117": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32118, 
+    "taskTypeId": 21, 
+    "num": 140, 
+    "reward": 1, 
+    "id": 32117
+  }, 
+  "32118": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32119, 
+    "taskTypeId": 21, 
+    "num": 150, 
+    "reward": 1, 
+    "id": 32118
+  }, 
+  "32119": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32120, 
+    "taskTypeId": 21, 
+    "num": 160, 
+    "reward": 1, 
+    "id": 32119
+  }, 
+  "32120": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32121, 
+    "taskTypeId": 21, 
+    "num": 170, 
+    "reward": 1, 
+    "id": 32120
+  }, 
+  "32121": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32122, 
+    "taskTypeId": 21, 
+    "num": 180, 
+    "reward": 1, 
+    "id": 32121
+  }, 
+  "32122": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32123, 
+    "taskTypeId": 21, 
+    "num": 190, 
+    "reward": 1, 
+    "id": 32122
+  }, 
+  "32123": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32124, 
+    "taskTypeId": 21, 
+    "num": 200, 
+    "reward": 1, 
+    "id": 32123
+  }, 
+  "32124": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32125, 
+    "taskTypeId": 21, 
+    "num": 210, 
+    "reward": 1, 
+    "id": 32124
+  }, 
+  "32125": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32126, 
+    "taskTypeId": 21, 
+    "num": 220, 
+    "reward": 1, 
+    "id": 32125
+  }, 
+  "32126": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32127, 
+    "taskTypeId": 21, 
+    "num": 230, 
+    "reward": 1, 
+    "id": 32126
+  }, 
+  "32127": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32128, 
+    "taskTypeId": 21, 
+    "num": 240, 
+    "reward": 1, 
+    "id": 32127
+  }, 
+  "32128": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 0, 
+    "taskTypeId": 21, 
+    "num": 250, 
+    "reward": 1, 
+    "id": 32128
+  }, 
+  "30101": {
+    "isFirst": 1, 
+    "value": 50, 
+    "next": 30102, 
+    "taskTypeId": 1, 
+    "num": 1, 
+    "reward": 1, 
+    "id": 30101
+  }, 
+  "30102": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30103, 
+    "taskTypeId": 1, 
+    "num": 3, 
+    "reward": 1, 
+    "id": 30102
+  }, 
+  "30103": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30104, 
+    "taskTypeId": 1, 
+    "num": 5, 
+    "reward": 1, 
+    "id": 30103
+  }, 
+  "30104": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30105, 
+    "taskTypeId": 1, 
+    "num": 10, 
+    "reward": 1, 
+    "id": 30104
+  }, 
+  "30105": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30106, 
+    "taskTypeId": 1, 
+    "num": 15, 
+    "reward": 1, 
+    "id": 30105
+  }, 
+  "30106": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30107, 
+    "taskTypeId": 1, 
+    "num": 25, 
+    "reward": 1, 
+    "id": 30106
+  }, 
+  "30107": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30108, 
+    "taskTypeId": 1, 
+    "num": 50, 
+    "reward": 1, 
+    "id": 30107
+  }, 
+  "30108": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30109, 
+    "taskTypeId": 1, 
+    "num": 75, 
+    "reward": 1, 
+    "id": 30108
+  }, 
+  "30109": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30110, 
+    "taskTypeId": 1, 
+    "num": 100, 
+    "reward": 1, 
+    "id": 30109
+  }, 
+  "30110": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30111, 
+    "taskTypeId": 1, 
+    "num": 150, 
+    "reward": 1, 
+    "id": 30110
+  }, 
+  "30111": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30112, 
+    "taskTypeId": 1, 
+    "num": 200, 
+    "reward": 1, 
+    "id": 30111
+  }, 
+  "30112": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30113, 
+    "taskTypeId": 1, 
+    "num": 300, 
+    "reward": 1, 
+    "id": 30112
+  }, 
+  "30113": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30114, 
+    "taskTypeId": 1, 
+    "num": 450, 
+    "reward": 1, 
+    "id": 30113
+  }, 
+  "30114": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30115, 
+    "taskTypeId": 1, 
+    "num": 600, 
+    "reward": 1, 
+    "id": 30114
+  }, 
+  "30115": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30116, 
+    "taskTypeId": 1, 
+    "num": 800, 
+    "reward": 1, 
+    "id": 30115
+  }, 
+  "30116": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30117, 
+    "taskTypeId": 1, 
+    "num": 1000, 
+    "reward": 1, 
+    "id": 30116
+  }, 
+  "30117": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30118, 
+    "taskTypeId": 1, 
+    "num": 1200, 
+    "reward": 1, 
+    "id": 30117
+  }, 
+  "30118": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30119, 
+    "taskTypeId": 1, 
+    "num": 1400, 
+    "reward": 1, 
+    "id": 30118
+  }, 
+  "30119": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30120, 
+    "taskTypeId": 1, 
+    "num": 1600, 
+    "reward": 1, 
+    "id": 30119
+  }, 
+  "30120": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30121, 
+    "taskTypeId": 1, 
+    "num": 1800, 
+    "reward": 1, 
+    "id": 30120
+  }, 
+  "30121": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30122, 
+    "taskTypeId": 1, 
+    "num": 2000, 
+    "reward": 1, 
+    "id": 30121
+  }, 
+  "30122": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30123, 
+    "taskTypeId": 1, 
+    "num": 2500, 
+    "reward": 1, 
+    "id": 30122
+  }, 
+  "30123": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30124, 
+    "taskTypeId": 1, 
+    "num": 3000, 
+    "reward": 1, 
+    "id": 30123
+  }, 
+  "30124": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30125, 
+    "taskTypeId": 1, 
+    "num": 3500, 
+    "reward": 1, 
+    "id": 30124
+  }, 
+  "30125": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 0, 
+    "taskTypeId": 1, 
+    "num": 5000, 
+    "reward": 1, 
+    "id": 30125
+  }, 
+  "32375": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 0, 
+    "taskTypeId": 23, 
+    "num": 75, 
+    "reward": 1, 
+    "id": 32375
+  }, 
+  "32201": {
+    "isFirst": 1, 
+    "value": 20, 
+    "next": 32202, 
+    "taskTypeId": 22, 
+    "num": 1, 
+    "reward": 1, 
+    "id": 32201
+  }, 
+  "32202": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32203, 
+    "taskTypeId": 22, 
+    "num": 2, 
+    "reward": 1, 
+    "id": 32202
+  }, 
+  "32203": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32204, 
+    "taskTypeId": 22, 
+    "num": 3, 
+    "reward": 1, 
+    "id": 32203
+  }, 
+  "32204": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32205, 
+    "taskTypeId": 22, 
+    "num": 4, 
+    "reward": 1, 
+    "id": 32204
+  }, 
+  "32205": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32206, 
+    "taskTypeId": 22, 
+    "num": 5, 
+    "reward": 1, 
+    "id": 32205
+  }, 
+  "32206": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32207, 
+    "taskTypeId": 22, 
+    "num": 6, 
+    "reward": 1, 
+    "id": 32206
+  }, 
+  "32207": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32208, 
+    "taskTypeId": 22, 
+    "num": 7, 
+    "reward": 1, 
+    "id": 32207
+  }, 
+  "32208": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32209, 
+    "taskTypeId": 22, 
+    "num": 8, 
+    "reward": 1, 
+    "id": 32208
+  }, 
+  "32209": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32210, 
+    "taskTypeId": 22, 
+    "num": 9, 
+    "reward": 1, 
+    "id": 32209
+  }, 
+  "32210": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32211, 
+    "taskTypeId": 22, 
+    "num": 10, 
+    "reward": 1, 
+    "id": 32210
+  }, 
+  "32211": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32212, 
+    "taskTypeId": 22, 
+    "num": 11, 
+    "reward": 1, 
+    "id": 32211
+  }, 
+  "32212": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32213, 
+    "taskTypeId": 22, 
+    "num": 12, 
+    "reward": 1, 
+    "id": 32212
+  }, 
+  "32213": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32214, 
+    "taskTypeId": 22, 
+    "num": 13, 
+    "reward": 1, 
+    "id": 32213
+  }, 
+  "32214": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32215, 
+    "taskTypeId": 22, 
+    "num": 14, 
+    "reward": 1, 
+    "id": 32214
+  }, 
+  "32215": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32216, 
+    "taskTypeId": 22, 
+    "num": 15, 
+    "reward": 1, 
+    "id": 32215
+  }, 
+  "32216": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32217, 
+    "taskTypeId": 22, 
+    "num": 16, 
+    "reward": 1, 
+    "id": 32216
+  }, 
+  "32217": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32218, 
+    "taskTypeId": 22, 
+    "num": 17, 
+    "reward": 1, 
+    "id": 32217
+  }, 
+  "32218": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32219, 
+    "taskTypeId": 22, 
+    "num": 18, 
+    "reward": 1, 
+    "id": 32218
+  }, 
+  "32219": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32220, 
+    "taskTypeId": 22, 
+    "num": 19, 
+    "reward": 1, 
+    "id": 32219
+  }, 
+  "32220": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32221, 
+    "taskTypeId": 22, 
+    "num": 20, 
+    "reward": 1, 
+    "id": 32220
+  }, 
+  "32221": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32222, 
+    "taskTypeId": 22, 
+    "num": 21, 
+    "reward": 1, 
+    "id": 32221
+  }, 
+  "32222": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32223, 
+    "taskTypeId": 22, 
+    "num": 22, 
+    "reward": 1, 
+    "id": 32222
+  }, 
+  "32223": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32224, 
+    "taskTypeId": 22, 
+    "num": 23, 
+    "reward": 1, 
+    "id": 32223
+  }, 
+  "32224": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32225, 
+    "taskTypeId": 22, 
+    "num": 24, 
+    "reward": 1, 
+    "id": 32224
+  }, 
+  "32225": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32226, 
+    "taskTypeId": 22, 
+    "num": 25, 
+    "reward": 1, 
+    "id": 32225
+  }, 
+  "32226": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32227, 
+    "taskTypeId": 22, 
+    "num": 26, 
+    "reward": 1, 
+    "id": 32226
+  }, 
+  "32227": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32228, 
+    "taskTypeId": 22, 
+    "num": 27, 
+    "reward": 1, 
+    "id": 32227
+  }, 
+  "32228": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32229, 
+    "taskTypeId": 22, 
+    "num": 28, 
+    "reward": 1, 
+    "id": 32228
+  }, 
+  "32229": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32230, 
+    "taskTypeId": 22, 
+    "num": 29, 
+    "reward": 1, 
+    "id": 32229
+  }, 
+  "32230": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32231, 
+    "taskTypeId": 22, 
+    "num": 30, 
+    "reward": 1, 
+    "id": 32230
+  }, 
+  "32231": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32232, 
+    "taskTypeId": 22, 
+    "num": 31, 
+    "reward": 1, 
+    "id": 32231
+  }, 
+  "32232": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32233, 
+    "taskTypeId": 22, 
+    "num": 32, 
+    "reward": 1, 
+    "id": 32232
+  }, 
+  "32233": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32234, 
+    "taskTypeId": 22, 
+    "num": 33, 
+    "reward": 1, 
+    "id": 32233
+  }, 
+  "32234": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32235, 
+    "taskTypeId": 22, 
+    "num": 34, 
+    "reward": 1, 
+    "id": 32234
+  }, 
+  "32235": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32236, 
+    "taskTypeId": 22, 
+    "num": 35, 
+    "reward": 1, 
+    "id": 32235
+  }, 
+  "32236": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32237, 
+    "taskTypeId": 22, 
+    "num": 36, 
+    "reward": 1, 
+    "id": 32236
+  }, 
+  "32237": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32238, 
+    "taskTypeId": 22, 
+    "num": 37, 
+    "reward": 1, 
+    "id": 32237
+  }, 
+  "32238": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32239, 
+    "taskTypeId": 22, 
+    "num": 38, 
+    "reward": 1, 
+    "id": 32238
+  }, 
+  "32239": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32240, 
+    "taskTypeId": 22, 
+    "num": 39, 
+    "reward": 1, 
+    "id": 32239
+  }, 
+  "32240": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32241, 
+    "taskTypeId": 22, 
+    "num": 40, 
+    "reward": 1, 
+    "id": 32240
+  }, 
+  "32241": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32242, 
+    "taskTypeId": 22, 
+    "num": 41, 
+    "reward": 1, 
+    "id": 32241
+  }, 
+  "32242": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32243, 
+    "taskTypeId": 22, 
+    "num": 42, 
+    "reward": 1, 
+    "id": 32242
+  }, 
+  "32243": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32244, 
+    "taskTypeId": 22, 
+    "num": 43, 
+    "reward": 1, 
+    "id": 32243
+  }, 
+  "32244": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32245, 
+    "taskTypeId": 22, 
+    "num": 44, 
+    "reward": 1, 
+    "id": 32244
+  }, 
+  "32245": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32246, 
+    "taskTypeId": 22, 
+    "num": 45, 
+    "reward": 1, 
+    "id": 32245
+  }, 
+  "32246": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32247, 
+    "taskTypeId": 22, 
+    "num": 46, 
+    "reward": 1, 
+    "id": 32246
+  }, 
+  "32247": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32248, 
+    "taskTypeId": 22, 
+    "num": 47, 
+    "reward": 1, 
+    "id": 32247
+  }, 
+  "32248": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32249, 
+    "taskTypeId": 22, 
+    "num": 48, 
+    "reward": 1, 
+    "id": 32248
+  }, 
+  "30201": {
+    "isFirst": 1, 
+    "value": 50, 
+    "next": 30202, 
+    "taskTypeId": 2, 
+    "num": 1, 
+    "reward": 1, 
+    "id": 30201
+  }, 
+  "30202": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30203, 
+    "taskTypeId": 2, 
+    "num": 3, 
+    "reward": 1, 
+    "id": 30202
+  }, 
+  "30203": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30204, 
+    "taskTypeId": 2, 
+    "num": 5, 
+    "reward": 1, 
+    "id": 30203
+  }, 
+  "30204": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30205, 
+    "taskTypeId": 2, 
+    "num": 10, 
+    "reward": 1, 
+    "id": 30204
+  }, 
+  "30205": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30206, 
+    "taskTypeId": 2, 
+    "num": 15, 
+    "reward": 1, 
+    "id": 30205
+  }, 
+  "30206": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30207, 
+    "taskTypeId": 2, 
+    "num": 25, 
+    "reward": 1, 
+    "id": 30206
+  }, 
+  "30207": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30208, 
+    "taskTypeId": 2, 
+    "num": 50, 
+    "reward": 1, 
+    "id": 30207
+  }, 
+  "30208": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30209, 
+    "taskTypeId": 2, 
+    "num": 75, 
+    "reward": 1, 
+    "id": 30208
+  }, 
+  "30209": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30210, 
+    "taskTypeId": 2, 
+    "num": 100, 
+    "reward": 1, 
+    "id": 30209
+  }, 
+  "30210": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30211, 
+    "taskTypeId": 2, 
+    "num": 150, 
+    "reward": 1, 
+    "id": 30210
+  }, 
+  "30211": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30212, 
+    "taskTypeId": 2, 
+    "num": 200, 
+    "reward": 1, 
+    "id": 30211
+  }, 
+  "30212": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30213, 
+    "taskTypeId": 2, 
+    "num": 300, 
+    "reward": 1, 
+    "id": 30212
+  }, 
+  "30213": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30214, 
+    "taskTypeId": 2, 
+    "num": 450, 
+    "reward": 1, 
+    "id": 30213
+  }, 
+  "30214": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30215, 
+    "taskTypeId": 2, 
+    "num": 600, 
+    "reward": 1, 
+    "id": 30214
+  }, 
+  "30215": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30216, 
+    "taskTypeId": 2, 
+    "num": 800, 
+    "reward": 1, 
+    "id": 30215
+  }, 
+  "30216": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30217, 
+    "taskTypeId": 2, 
+    "num": 1000, 
+    "reward": 1, 
+    "id": 30216
+  }, 
+  "30217": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30218, 
+    "taskTypeId": 2, 
+    "num": 1200, 
+    "reward": 1, 
+    "id": 30217
+  }, 
+  "30218": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30219, 
+    "taskTypeId": 2, 
+    "num": 1400, 
+    "reward": 1, 
+    "id": 30218
+  }, 
+  "30219": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30220, 
+    "taskTypeId": 2, 
+    "num": 1600, 
+    "reward": 1, 
+    "id": 30219
+  }, 
+  "30220": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30221, 
+    "taskTypeId": 2, 
+    "num": 1800, 
+    "reward": 1, 
+    "id": 30220
+  }, 
+  "30221": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30222, 
+    "taskTypeId": 2, 
+    "num": 2000, 
+    "reward": 1, 
+    "id": 30221
+  }, 
+  "30222": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30223, 
+    "taskTypeId": 2, 
+    "num": 2500, 
+    "reward": 1, 
+    "id": 30222
+  }, 
+  "30223": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30224, 
+    "taskTypeId": 2, 
+    "num": 3000, 
+    "reward": 1, 
+    "id": 30223
+  }, 
+  "30224": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30225, 
+    "taskTypeId": 2, 
+    "num": 3500, 
+    "reward": 1, 
+    "id": 30224
+  }, 
+  "30225": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 0, 
+    "taskTypeId": 2, 
+    "num": 5000, 
+    "reward": 1, 
+    "id": 30225
+  }, 
+  "32274": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32275, 
+    "taskTypeId": 22, 
+    "num": 74, 
+    "reward": 1, 
+    "id": 32274
+  }, 
+  "32275": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32276, 
+    "taskTypeId": 22, 
+    "num": 75, 
+    "reward": 1, 
+    "id": 32275
+  }, 
+  "32276": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32277, 
+    "taskTypeId": 22, 
+    "num": 76, 
+    "reward": 1, 
+    "id": 32276
+  }, 
+  "32277": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32278, 
+    "taskTypeId": 22, 
+    "num": 77, 
+    "reward": 1, 
+    "id": 32277
+  }, 
+  "32278": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32279, 
+    "taskTypeId": 22, 
+    "num": 78, 
+    "reward": 1, 
+    "id": 32278
+  }, 
+  "32279": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32280, 
+    "taskTypeId": 22, 
+    "num": 79, 
+    "reward": 1, 
+    "id": 32279
+  }, 
+  "32280": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32281, 
+    "taskTypeId": 22, 
+    "num": 80, 
+    "reward": 1, 
+    "id": 32280
+  }, 
+  "32281": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32282, 
+    "taskTypeId": 22, 
+    "num": 81, 
+    "reward": 1, 
+    "id": 32281
+  }, 
+  "32282": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32283, 
+    "taskTypeId": 22, 
+    "num": 82, 
+    "reward": 1, 
+    "id": 32282
+  }, 
+  "32283": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32284, 
+    "taskTypeId": 22, 
+    "num": 83, 
+    "reward": 1, 
+    "id": 32283
+  }, 
+  "32284": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32285, 
+    "taskTypeId": 22, 
+    "num": 84, 
+    "reward": 1, 
+    "id": 32284
+  }, 
+  "32285": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32286, 
+    "taskTypeId": 22, 
+    "num": 85, 
+    "reward": 1, 
+    "id": 32285
+  }, 
+  "32286": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32287, 
+    "taskTypeId": 22, 
+    "num": 86, 
+    "reward": 1, 
+    "id": 32286
+  }, 
+  "32287": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32288, 
+    "taskTypeId": 22, 
+    "num": 87, 
+    "reward": 1, 
+    "id": 32287
+  }, 
+  "32288": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32289, 
+    "taskTypeId": 22, 
+    "num": 88, 
+    "reward": 1, 
+    "id": 32288
+  }, 
+  "32289": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32290, 
+    "taskTypeId": 22, 
+    "num": 89, 
+    "reward": 1, 
+    "id": 32289
+  }, 
+  "32290": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32291, 
+    "taskTypeId": 22, 
+    "num": 90, 
+    "reward": 1, 
+    "id": 32290
+  }, 
+  "32291": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32292, 
+    "taskTypeId": 22, 
+    "num": 91, 
+    "reward": 1, 
+    "id": 32291
+  }, 
+  "32292": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32293, 
+    "taskTypeId": 22, 
+    "num": 92, 
+    "reward": 1, 
+    "id": 32292
+  }, 
+  "32293": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32294, 
+    "taskTypeId": 22, 
+    "num": 93, 
+    "reward": 1, 
+    "id": 32293
+  }, 
+  "32294": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32295, 
+    "taskTypeId": 22, 
+    "num": 94, 
+    "reward": 1, 
+    "id": 32294
+  }, 
+  "32253": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32254, 
+    "taskTypeId": 22, 
+    "num": 53, 
+    "reward": 1, 
+    "id": 32253
+  }, 
+  "32296": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 0, 
+    "taskTypeId": 22, 
+    "num": 96, 
+    "reward": 1, 
+    "id": 32296
+  }, 
+  "32301": {
+    "isFirst": 1, 
+    "value": 20, 
+    "next": 32302, 
+    "taskTypeId": 23, 
+    "num": 1, 
+    "reward": 1, 
+    "id": 32301
+  }, 
+  "32302": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32303, 
+    "taskTypeId": 23, 
+    "num": 2, 
+    "reward": 1, 
+    "id": 32302
+  }, 
+  "32303": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32304, 
+    "taskTypeId": 23, 
+    "num": 3, 
+    "reward": 1, 
+    "id": 32303
+  }, 
+  "32304": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32305, 
+    "taskTypeId": 23, 
+    "num": 4, 
+    "reward": 1, 
+    "id": 32304
+  }, 
+  "32305": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32306, 
+    "taskTypeId": 23, 
+    "num": 5, 
+    "reward": 1, 
+    "id": 32305
+  }, 
+  "32306": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32307, 
+    "taskTypeId": 23, 
+    "num": 6, 
+    "reward": 1, 
+    "id": 32306
+  }, 
+  "32307": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32308, 
+    "taskTypeId": 23, 
+    "num": 7, 
+    "reward": 1, 
+    "id": 32307
+  }, 
+  "32308": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32309, 
+    "taskTypeId": 23, 
+    "num": 8, 
+    "reward": 1, 
+    "id": 32308
+  }, 
+  "32309": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32310, 
+    "taskTypeId": 23, 
+    "num": 9, 
+    "reward": 1, 
+    "id": 32309
+  }, 
+  "32310": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32311, 
+    "taskTypeId": 23, 
+    "num": 10, 
+    "reward": 1, 
+    "id": 32310
+  }, 
+  "32311": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32312, 
+    "taskTypeId": 23, 
+    "num": 11, 
+    "reward": 1, 
+    "id": 32311
+  }, 
+  "32312": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32313, 
+    "taskTypeId": 23, 
+    "num": 12, 
+    "reward": 1, 
+    "id": 32312
+  }, 
+  "32313": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32314, 
+    "taskTypeId": 23, 
+    "num": 13, 
+    "reward": 1, 
+    "id": 32313
+  }, 
+  "32314": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32315, 
+    "taskTypeId": 23, 
+    "num": 14, 
+    "reward": 1, 
+    "id": 32314
+  }, 
+  "32315": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32316, 
+    "taskTypeId": 23, 
+    "num": 15, 
+    "reward": 1, 
+    "id": 32315
+  }, 
+  "32316": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32317, 
+    "taskTypeId": 23, 
+    "num": 16, 
+    "reward": 1, 
+    "id": 32316
+  }, 
+  "32317": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32318, 
+    "taskTypeId": 23, 
+    "num": 17, 
+    "reward": 1, 
+    "id": 32317
+  }, 
+  "32318": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32319, 
+    "taskTypeId": 23, 
+    "num": 18, 
+    "reward": 1, 
+    "id": 32318
+  }, 
+  "32319": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32320, 
+    "taskTypeId": 23, 
+    "num": 19, 
+    "reward": 1, 
+    "id": 32319
+  }, 
+  "32320": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32321, 
+    "taskTypeId": 23, 
+    "num": 20, 
+    "reward": 1, 
+    "id": 32320
+  }, 
+  "32321": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32322, 
+    "taskTypeId": 23, 
+    "num": 21, 
+    "reward": 1, 
+    "id": 32321
+  }, 
+  "32322": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32323, 
+    "taskTypeId": 23, 
+    "num": 22, 
+    "reward": 1, 
+    "id": 32322
+  }, 
+  "32323": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32324, 
+    "taskTypeId": 23, 
+    "num": 23, 
+    "reward": 1, 
+    "id": 32323
+  }, 
+  "32324": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32325, 
+    "taskTypeId": 23, 
+    "num": 24, 
+    "reward": 1, 
+    "id": 32324
+  }, 
+  "32325": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32326, 
+    "taskTypeId": 23, 
+    "num": 25, 
+    "reward": 1, 
+    "id": 32325
+  }, 
+  "32326": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32327, 
+    "taskTypeId": 23, 
+    "num": 26, 
+    "reward": 1, 
+    "id": 32326
+  }, 
+  "32327": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32328, 
+    "taskTypeId": 23, 
+    "num": 27, 
+    "reward": 1, 
+    "id": 32327
+  }, 
+  "32328": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32329, 
+    "taskTypeId": 23, 
+    "num": 28, 
+    "reward": 1, 
+    "id": 32328
+  }, 
+  "32329": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32330, 
+    "taskTypeId": 23, 
+    "num": 29, 
+    "reward": 1, 
+    "id": 32329
+  }, 
+  "32330": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32331, 
+    "taskTypeId": 23, 
+    "num": 30, 
+    "reward": 1, 
+    "id": 32330
+  }, 
+  "32331": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32332, 
+    "taskTypeId": 23, 
+    "num": 31, 
+    "reward": 1, 
+    "id": 32331
+  }, 
+  "32332": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32333, 
+    "taskTypeId": 23, 
+    "num": 32, 
+    "reward": 1, 
+    "id": 32332
+  }, 
+  "32333": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32334, 
+    "taskTypeId": 23, 
+    "num": 33, 
+    "reward": 1, 
+    "id": 32333
+  }, 
+  "32334": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32335, 
+    "taskTypeId": 23, 
+    "num": 34, 
+    "reward": 1, 
+    "id": 32334
+  }, 
+  "32335": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32336, 
+    "taskTypeId": 23, 
+    "num": 35, 
+    "reward": 1, 
+    "id": 32335
+  }, 
+  "32336": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32337, 
+    "taskTypeId": 23, 
+    "num": 36, 
+    "reward": 1, 
+    "id": 32336
+  }, 
+  "32337": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32338, 
+    "taskTypeId": 23, 
+    "num": 37, 
+    "reward": 1, 
+    "id": 32337
+  }, 
+  "32338": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32339, 
+    "taskTypeId": 23, 
+    "num": 38, 
+    "reward": 1, 
+    "id": 32338
+  }, 
+  "32339": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32340, 
+    "taskTypeId": 23, 
+    "num": 39, 
+    "reward": 1, 
+    "id": 32339
+  }, 
+  "32340": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32341, 
+    "taskTypeId": 23, 
+    "num": 40, 
+    "reward": 1, 
+    "id": 32340
+  }, 
+  "32341": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32342, 
+    "taskTypeId": 23, 
+    "num": 41, 
+    "reward": 1, 
+    "id": 32341
+  }, 
+  "32342": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32343, 
+    "taskTypeId": 23, 
+    "num": 42, 
+    "reward": 1, 
+    "id": 32342
+  }, 
+  "32343": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32344, 
+    "taskTypeId": 23, 
+    "num": 43, 
+    "reward": 1, 
+    "id": 32343
+  }, 
+  "32344": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32345, 
+    "taskTypeId": 23, 
+    "num": 44, 
+    "reward": 1, 
+    "id": 32344
+  }, 
+  "32345": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32346, 
+    "taskTypeId": 23, 
+    "num": 45, 
+    "reward": 1, 
+    "id": 32345
+  }, 
+  "32346": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32347, 
+    "taskTypeId": 23, 
+    "num": 46, 
+    "reward": 1, 
+    "id": 32346
+  }, 
+  "32347": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32348, 
+    "taskTypeId": 23, 
+    "num": 47, 
+    "reward": 1, 
+    "id": 32347
+  }, 
+  "32348": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32349, 
+    "taskTypeId": 23, 
+    "num": 48, 
+    "reward": 1, 
+    "id": 32348
+  }, 
+  "30301": {
+    "isFirst": 1, 
+    "value": 20, 
+    "next": 30302, 
+    "taskTypeId": 3, 
+    "num": 2, 
+    "reward": 1, 
+    "id": 30301
+  }, 
+  "30302": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30303, 
+    "taskTypeId": 3, 
+    "num": 6, 
+    "reward": 1, 
+    "id": 30302
+  }, 
+  "30303": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30304, 
+    "taskTypeId": 3, 
+    "num": 10, 
+    "reward": 1, 
+    "id": 30303
+  }, 
+  "30304": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30305, 
+    "taskTypeId": 3, 
+    "num": 20, 
+    "reward": 1, 
+    "id": 30304
+  }, 
+  "30305": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30306, 
+    "taskTypeId": 3, 
+    "num": 30, 
+    "reward": 1, 
+    "id": 30305
+  }, 
+  "30306": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30307, 
+    "taskTypeId": 3, 
+    "num": 50, 
+    "reward": 1, 
+    "id": 30306
+  }, 
+  "30307": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30308, 
+    "taskTypeId": 3, 
+    "num": 100, 
+    "reward": 1, 
+    "id": 30307
+  }, 
+  "30308": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30309, 
+    "taskTypeId": 3, 
+    "num": 150, 
+    "reward": 1, 
+    "id": 30308
+  }, 
+  "30309": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30310, 
+    "taskTypeId": 3, 
+    "num": 200, 
+    "reward": 1, 
+    "id": 30309
+  }, 
+  "30310": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30311, 
+    "taskTypeId": 3, 
+    "num": 300, 
+    "reward": 1, 
+    "id": 30310
+  }, 
+  "30311": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30312, 
+    "taskTypeId": 3, 
+    "num": 400, 
+    "reward": 1, 
+    "id": 30311
+  }, 
+  "30312": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30313, 
+    "taskTypeId": 3, 
+    "num": 600, 
+    "reward": 1, 
+    "id": 30312
+  }, 
+  "30313": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30314, 
+    "taskTypeId": 3, 
+    "num": 900, 
+    "reward": 1, 
+    "id": 30313
+  }, 
+  "30314": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30315, 
+    "taskTypeId": 3, 
+    "num": 1200, 
+    "reward": 1, 
+    "id": 30314
+  }, 
+  "30315": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30316, 
+    "taskTypeId": 3, 
+    "num": 1600, 
+    "reward": 1, 
+    "id": 30315
+  }, 
+  "30316": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30317, 
+    "taskTypeId": 3, 
+    "num": 2000, 
+    "reward": 1, 
+    "id": 30316
+  }, 
+  "30317": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30318, 
+    "taskTypeId": 3, 
+    "num": 2400, 
+    "reward": 1, 
+    "id": 30317
+  }, 
+  "30318": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30319, 
+    "taskTypeId": 3, 
+    "num": 2800, 
+    "reward": 1, 
+    "id": 30318
+  }, 
+  "30319": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30320, 
+    "taskTypeId": 3, 
+    "num": 3200, 
+    "reward": 1, 
+    "id": 30319
+  }, 
+  "30320": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30321, 
+    "taskTypeId": 3, 
+    "num": 3600, 
+    "reward": 1, 
+    "id": 30320
+  }, 
+  "30321": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30322, 
+    "taskTypeId": 3, 
+    "num": 4000, 
+    "reward": 1, 
+    "id": 30321
+  }, 
+  "30322": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30323, 
+    "taskTypeId": 3, 
+    "num": 5000, 
+    "reward": 1, 
+    "id": 30322
+  }, 
+  "30323": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30324, 
+    "taskTypeId": 3, 
+    "num": 6000, 
+    "reward": 1, 
+    "id": 30323
+  }, 
+  "30324": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30325, 
+    "taskTypeId": 3, 
+    "num": 7000, 
+    "reward": 1, 
+    "id": 30324
+  }, 
+  "30325": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 0, 
+    "taskTypeId": 3, 
+    "num": 10000, 
+    "reward": 1, 
+    "id": 30325
+  }, 
+  "32374": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32375, 
+    "taskTypeId": 23, 
+    "num": 74, 
+    "reward": 1, 
+    "id": 32374
+  }, 
+  "32361": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32362, 
+    "taskTypeId": 23, 
+    "num": 61, 
+    "reward": 1, 
+    "id": 32361
+  }, 
+  "32362": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32363, 
+    "taskTypeId": 23, 
+    "num": 62, 
+    "reward": 1, 
+    "id": 32362
+  }, 
+  "32363": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32364, 
+    "taskTypeId": 23, 
+    "num": 63, 
+    "reward": 1, 
+    "id": 32363
+  }, 
+  "32364": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32365, 
+    "taskTypeId": 23, 
+    "num": 64, 
+    "reward": 1, 
+    "id": 32364
+  }, 
+  "32365": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32366, 
+    "taskTypeId": 23, 
+    "num": 65, 
+    "reward": 1, 
+    "id": 32365
+  }, 
+  "32366": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32367, 
+    "taskTypeId": 23, 
+    "num": 66, 
+    "reward": 1, 
+    "id": 32366
+  }, 
+  "32367": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32368, 
+    "taskTypeId": 23, 
+    "num": 67, 
+    "reward": 1, 
+    "id": 32367
+  }, 
+  "32368": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32369, 
+    "taskTypeId": 23, 
+    "num": 68, 
+    "reward": 1, 
+    "id": 32368
+  }, 
+  "32369": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32370, 
+    "taskTypeId": 23, 
+    "num": 69, 
+    "reward": 1, 
+    "id": 32369
+  }, 
+  "32370": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32371, 
+    "taskTypeId": 23, 
+    "num": 70, 
+    "reward": 1, 
+    "id": 32370
+  }, 
+  "32371": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32372, 
+    "taskTypeId": 23, 
+    "num": 71, 
+    "reward": 1, 
+    "id": 32371
+  }, 
+  "32372": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32373, 
+    "taskTypeId": 23, 
+    "num": 72, 
+    "reward": 1, 
+    "id": 32372
+  }, 
+  "32373": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32374, 
+    "taskTypeId": 23, 
+    "num": 73, 
+    "reward": 1, 
+    "id": 32373
+  }, 
+  "30401": {
+    "isFirst": 1, 
+    "value": 50, 
+    "next": 30402, 
+    "taskTypeId": 4, 
+    "num": 1, 
+    "reward": 1, 
+    "id": 30401
+  }, 
+  "30402": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30403, 
+    "taskTypeId": 4, 
+    "num": 2, 
+    "reward": 1, 
+    "id": 30402
+  }, 
+  "30403": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30404, 
+    "taskTypeId": 4, 
+    "num": 3, 
+    "reward": 1, 
+    "id": 30403
+  }, 
+  "30404": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30405, 
+    "taskTypeId": 4, 
+    "num": 4, 
+    "reward": 1, 
+    "id": 30404
+  }, 
+  "30405": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30406, 
+    "taskTypeId": 4, 
+    "num": 6, 
+    "reward": 1, 
+    "id": 30405
+  }, 
+  "30406": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30407, 
+    "taskTypeId": 4, 
+    "num": 8, 
+    "reward": 1, 
+    "id": 30406
+  }, 
+  "30407": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30408, 
+    "taskTypeId": 4, 
+    "num": 10, 
+    "reward": 1, 
+    "id": 30407
+  }, 
+  "30408": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30409, 
+    "taskTypeId": 4, 
+    "num": 12, 
+    "reward": 1, 
+    "id": 30408
+  }, 
+  "30409": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30410, 
+    "taskTypeId": 4, 
+    "num": 14, 
+    "reward": 1, 
+    "id": 30409
+  }, 
+  "30410": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30411, 
+    "taskTypeId": 4, 
+    "num": 16, 
+    "reward": 1, 
+    "id": 30410
+  }, 
+  "30411": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30412, 
+    "taskTypeId": 4, 
+    "num": 18, 
+    "reward": 1, 
+    "id": 30411
+  }, 
+  "30412": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30413, 
+    "taskTypeId": 4, 
+    "num": 20, 
+    "reward": 1, 
+    "id": 30412
+  }, 
+  "30413": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30414, 
+    "taskTypeId": 4, 
+    "num": 22, 
+    "reward": 1, 
+    "id": 30413
+  }, 
+  "30414": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30415, 
+    "taskTypeId": 4, 
+    "num": 24, 
+    "reward": 1, 
+    "id": 30414
+  }, 
+  "30415": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30416, 
+    "taskTypeId": 4, 
+    "num": 26, 
+    "reward": 1, 
+    "id": 30415
+  }, 
+  "30416": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30417, 
+    "taskTypeId": 4, 
+    "num": 28, 
+    "reward": 1, 
+    "id": 30416
+  }, 
+  "30417": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30418, 
+    "taskTypeId": 4, 
+    "num": 30, 
+    "reward": 1, 
+    "id": 30417
+  }, 
+  "30418": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30419, 
+    "taskTypeId": 4, 
+    "num": 32, 
+    "reward": 1, 
+    "id": 30418
+  }, 
+  "30419": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30420, 
+    "taskTypeId": 4, 
+    "num": 34, 
+    "reward": 1, 
+    "id": 30419
+  }, 
+  "30420": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30421, 
+    "taskTypeId": 4, 
+    "num": 36, 
+    "reward": 1, 
+    "id": 30420
+  }, 
+  "30421": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30422, 
+    "taskTypeId": 4, 
+    "num": 38, 
+    "reward": 1, 
+    "id": 30421
+  }, 
+  "30422": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30423, 
+    "taskTypeId": 4, 
+    "num": 40, 
+    "reward": 1, 
+    "id": 30422
+  }, 
+  "30423": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30424, 
+    "taskTypeId": 4, 
+    "num": 42, 
+    "reward": 1, 
+    "id": 30423
+  }, 
+  "30424": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30425, 
+    "taskTypeId": 4, 
+    "num": 44, 
+    "reward": 1, 
+    "id": 30424
+  }, 
+  "30425": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30426, 
+    "taskTypeId": 4, 
+    "num": 46, 
+    "reward": 1, 
+    "id": 30425
+  }, 
+  "30426": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30427, 
+    "taskTypeId": 4, 
+    "num": 48, 
+    "reward": 1, 
+    "id": 30426
+  }, 
+  "30427": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30428, 
+    "taskTypeId": 4, 
+    "num": 50, 
+    "reward": 1, 
+    "id": 30427
+  }, 
+  "30428": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30429, 
+    "taskTypeId": 4, 
+    "num": 52, 
+    "reward": 1, 
+    "id": 30428
+  }, 
+  "30429": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30430, 
+    "taskTypeId": 4, 
+    "num": 54, 
+    "reward": 1, 
+    "id": 30429
+  }, 
+  "30430": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30431, 
+    "taskTypeId": 4, 
+    "num": 56, 
+    "reward": 1, 
+    "id": 30430
+  }, 
+  "30431": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30432, 
+    "taskTypeId": 4, 
+    "num": 58, 
+    "reward": 1, 
+    "id": 30431
+  }, 
+  "30432": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30433, 
+    "taskTypeId": 4, 
+    "num": 60, 
+    "reward": 1, 
+    "id": 30432
+  }, 
+  "30433": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30434, 
+    "taskTypeId": 4, 
+    "num": 62, 
+    "reward": 1, 
+    "id": 30433
+  }, 
+  "30434": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30435, 
+    "taskTypeId": 4, 
+    "num": 64, 
+    "reward": 1, 
+    "id": 30434
+  }, 
+  "30435": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30436, 
+    "taskTypeId": 4, 
+    "num": 66, 
+    "reward": 1, 
+    "id": 30435
+  }, 
+  "30436": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30437, 
+    "taskTypeId": 4, 
+    "num": 68, 
+    "reward": 1, 
+    "id": 30436
+  }, 
+  "30437": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30438, 
+    "taskTypeId": 4, 
+    "num": 70, 
+    "reward": 1, 
+    "id": 30437
+  }, 
+  "30438": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30439, 
+    "taskTypeId": 4, 
+    "num": 72, 
+    "reward": 1, 
+    "id": 30438
+  }, 
+  "30439": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30440, 
+    "taskTypeId": 4, 
+    "num": 74, 
+    "reward": 1, 
+    "id": 30439
+  }, 
+  "30440": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30441, 
+    "taskTypeId": 4, 
+    "num": 76, 
+    "reward": 1, 
+    "id": 30440
+  }, 
+  "30441": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30442, 
+    "taskTypeId": 4, 
+    "num": 78, 
+    "reward": 1, 
+    "id": 30441
+  }, 
+  "30442": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30443, 
+    "taskTypeId": 4, 
+    "num": 80, 
+    "reward": 1, 
+    "id": 30442
+  }, 
+  "30443": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30444, 
+    "taskTypeId": 4, 
+    "num": 82, 
+    "reward": 1, 
+    "id": 30443
+  }, 
+  "30444": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30445, 
+    "taskTypeId": 4, 
+    "num": 84, 
+    "reward": 1, 
+    "id": 30444
+  }, 
+  "30445": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30446, 
+    "taskTypeId": 4, 
+    "num": 86, 
+    "reward": 1, 
+    "id": 30445
+  }, 
+  "30446": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30447, 
+    "taskTypeId": 4, 
+    "num": 88, 
+    "reward": 1, 
+    "id": 30446
+  }, 
+  "30447": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30448, 
+    "taskTypeId": 4, 
+    "num": 90, 
+    "reward": 1, 
+    "id": 30447
+  }, 
+  "30448": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30449, 
+    "taskTypeId": 4, 
+    "num": 92, 
+    "reward": 1, 
+    "id": 30448
+  }, 
+  "30449": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30450, 
+    "taskTypeId": 4, 
+    "num": 94, 
+    "reward": 1, 
+    "id": 30449
+  }, 
+  "30450": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30451, 
+    "taskTypeId": 4, 
+    "num": 96, 
+    "reward": 1, 
+    "id": 30450
+  }, 
+  "30451": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 30452, 
+    "taskTypeId": 4, 
+    "num": 98, 
+    "reward": 1, 
+    "id": 30451
+  }, 
+  "30452": {
+    "isFirst": 0, 
+    "value": 50, 
+    "next": 0, 
+    "taskTypeId": 4, 
+    "num": 100, 
+    "reward": 1, 
+    "id": 30452
+  }, 
+  "32249": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32250, 
+    "taskTypeId": 22, 
+    "num": 49, 
+    "reward": 1, 
+    "id": 32249
+  }, 
+  "30501": {
+    "isFirst": 1, 
+    "value": 20, 
+    "next": 30502, 
+    "taskTypeId": 5, 
+    "num": 2, 
+    "reward": 1, 
+    "id": 30501
+  }, 
+  "30502": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30503, 
+    "taskTypeId": 5, 
+    "num": 6, 
+    "reward": 1, 
+    "id": 30502
+  }, 
+  "30503": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30504, 
+    "taskTypeId": 5, 
+    "num": 10, 
+    "reward": 1, 
+    "id": 30503
+  }, 
+  "30504": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30505, 
+    "taskTypeId": 5, 
+    "num": 20, 
+    "reward": 1, 
+    "id": 30504
+  }, 
+  "30505": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30506, 
+    "taskTypeId": 5, 
+    "num": 30, 
+    "reward": 1, 
+    "id": 30505
+  }, 
+  "30506": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30507, 
+    "taskTypeId": 5, 
+    "num": 50, 
+    "reward": 1, 
+    "id": 30506
+  }, 
+  "30507": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30508, 
+    "taskTypeId": 5, 
+    "num": 100, 
+    "reward": 1, 
+    "id": 30507
+  }, 
+  "30508": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30509, 
+    "taskTypeId": 5, 
+    "num": 150, 
+    "reward": 1, 
+    "id": 30508
+  }, 
+  "30509": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30510, 
+    "taskTypeId": 5, 
+    "num": 200, 
+    "reward": 1, 
+    "id": 30509
+  }, 
+  "30510": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30511, 
+    "taskTypeId": 5, 
+    "num": 300, 
+    "reward": 1, 
+    "id": 30510
+  }, 
+  "30511": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30512, 
+    "taskTypeId": 5, 
+    "num": 400, 
+    "reward": 1, 
+    "id": 30511
+  }, 
+  "30512": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30513, 
+    "taskTypeId": 5, 
+    "num": 600, 
+    "reward": 1, 
+    "id": 30512
+  }, 
+  "30513": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30514, 
+    "taskTypeId": 5, 
+    "num": 900, 
+    "reward": 1, 
+    "id": 30513
+  }, 
+  "30514": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30515, 
+    "taskTypeId": 5, 
+    "num": 1200, 
+    "reward": 1, 
+    "id": 30514
+  }, 
+  "30515": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30516, 
+    "taskTypeId": 5, 
+    "num": 1600, 
+    "reward": 1, 
+    "id": 30515
+  }, 
+  "30516": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30517, 
+    "taskTypeId": 5, 
+    "num": 2000, 
+    "reward": 1, 
+    "id": 30516
+  }, 
+  "30517": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30518, 
+    "taskTypeId": 5, 
+    "num": 2400, 
+    "reward": 1, 
+    "id": 30517
+  }, 
+  "30518": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30519, 
+    "taskTypeId": 5, 
+    "num": 2800, 
+    "reward": 1, 
+    "id": 30518
+  }, 
+  "30519": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30520, 
+    "taskTypeId": 5, 
+    "num": 3200, 
+    "reward": 1, 
+    "id": 30519
+  }, 
+  "30520": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30521, 
+    "taskTypeId": 5, 
+    "num": 3600, 
+    "reward": 1, 
+    "id": 30520
+  }, 
+  "30521": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30522, 
+    "taskTypeId": 5, 
+    "num": 4000, 
+    "reward": 1, 
+    "id": 30521
+  }, 
+  "30522": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30523, 
+    "taskTypeId": 5, 
+    "num": 5000, 
+    "reward": 1, 
+    "id": 30522
+  }, 
+  "30523": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30524, 
+    "taskTypeId": 5, 
+    "num": 6000, 
+    "reward": 1, 
+    "id": 30523
+  }, 
+  "30524": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30525, 
+    "taskTypeId": 5, 
+    "num": 7000, 
+    "reward": 1, 
+    "id": 30524
+  }, 
+  "30525": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 0, 
+    "taskTypeId": 5, 
+    "num": 10000, 
+    "reward": 1, 
+    "id": 30525
+  }, 
+  "32250": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32251, 
+    "taskTypeId": 22, 
+    "num": 50, 
+    "reward": 1, 
+    "id": 32250
+  }, 
+  "32251": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32252, 
+    "taskTypeId": 22, 
+    "num": 51, 
+    "reward": 1, 
+    "id": 32251
+  }, 
+  "32252": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32253, 
+    "taskTypeId": 22, 
+    "num": 52, 
+    "reward": 1, 
+    "id": 32252
+  }, 
+  "30601": {
+    "isFirst": 1, 
+    "value": 20, 
+    "next": 30602, 
+    "taskTypeId": 6, 
+    "num": 2, 
+    "reward": 1, 
+    "id": 30601
+  }, 
+  "30602": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30603, 
+    "taskTypeId": 6, 
+    "num": 6, 
+    "reward": 1, 
+    "id": 30602
+  }, 
+  "30603": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30604, 
+    "taskTypeId": 6, 
+    "num": 10, 
+    "reward": 1, 
+    "id": 30603
+  }, 
+  "30604": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30605, 
+    "taskTypeId": 6, 
+    "num": 20, 
+    "reward": 1, 
+    "id": 30604
+  }, 
+  "30605": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30606, 
+    "taskTypeId": 6, 
+    "num": 30, 
+    "reward": 1, 
+    "id": 30605
+  }, 
+  "30606": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30607, 
+    "taskTypeId": 6, 
+    "num": 50, 
+    "reward": 1, 
+    "id": 30606
+  }, 
+  "30607": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30608, 
+    "taskTypeId": 6, 
+    "num": 100, 
+    "reward": 1, 
+    "id": 30607
+  }, 
+  "30608": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30609, 
+    "taskTypeId": 6, 
+    "num": 150, 
+    "reward": 1, 
+    "id": 30608
+  }, 
+  "30609": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30610, 
+    "taskTypeId": 6, 
+    "num": 200, 
+    "reward": 1, 
+    "id": 30609
+  }, 
+  "30610": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30611, 
+    "taskTypeId": 6, 
+    "num": 300, 
+    "reward": 1, 
+    "id": 30610
+  }, 
+  "30611": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30612, 
+    "taskTypeId": 6, 
+    "num": 400, 
+    "reward": 1, 
+    "id": 30611
+  }, 
+  "30612": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30613, 
+    "taskTypeId": 6, 
+    "num": 600, 
+    "reward": 1, 
+    "id": 30612
+  }, 
+  "30613": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30614, 
+    "taskTypeId": 6, 
+    "num": 900, 
+    "reward": 1, 
+    "id": 30613
+  }, 
+  "30614": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30615, 
+    "taskTypeId": 6, 
+    "num": 1200, 
+    "reward": 1, 
+    "id": 30614
+  }, 
+  "30615": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30616, 
+    "taskTypeId": 6, 
+    "num": 1600, 
+    "reward": 1, 
+    "id": 30615
+  }, 
+  "30616": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30617, 
+    "taskTypeId": 6, 
+    "num": 2000, 
+    "reward": 1, 
+    "id": 30616
+  }, 
+  "30617": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30618, 
+    "taskTypeId": 6, 
+    "num": 2400, 
+    "reward": 1, 
+    "id": 30617
+  }, 
+  "30618": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30619, 
+    "taskTypeId": 6, 
+    "num": 2800, 
+    "reward": 1, 
+    "id": 30618
+  }, 
+  "30619": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30620, 
+    "taskTypeId": 6, 
+    "num": 3200, 
+    "reward": 1, 
+    "id": 30619
+  }, 
+  "30620": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30621, 
+    "taskTypeId": 6, 
+    "num": 3600, 
+    "reward": 1, 
+    "id": 30620
+  }, 
+  "30621": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30622, 
+    "taskTypeId": 6, 
+    "num": 4000, 
+    "reward": 1, 
+    "id": 30621
+  }, 
+  "30622": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30623, 
+    "taskTypeId": 6, 
+    "num": 5000, 
+    "reward": 1, 
+    "id": 30622
+  }, 
+  "30623": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30624, 
+    "taskTypeId": 6, 
+    "num": 6000, 
+    "reward": 1, 
+    "id": 30623
+  }, 
+  "30624": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30625, 
+    "taskTypeId": 6, 
+    "num": 7000, 
+    "reward": 1, 
+    "id": 30624
+  }, 
+  "30625": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 0, 
+    "taskTypeId": 6, 
+    "num": 10000, 
+    "reward": 1, 
+    "id": 30625
+  }, 
+  "32351": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32352, 
+    "taskTypeId": 23, 
+    "num": 51, 
+    "reward": 1, 
+    "id": 32351
+  }, 
+  "32254": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 32255, 
+    "taskTypeId": 22, 
+    "num": 54, 
+    "reward": 1, 
+    "id": 32254
+  }, 
+  "30701": {
+    "isFirst": 1, 
+    "value": 20, 
+    "next": 30702, 
+    "taskTypeId": 7, 
+    "num": 2, 
+    "reward": 1, 
+    "id": 30701
+  }, 
+  "30702": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30703, 
+    "taskTypeId": 7, 
+    "num": 6, 
+    "reward": 1, 
+    "id": 30702
+  }, 
+  "30703": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30704, 
+    "taskTypeId": 7, 
+    "num": 10, 
+    "reward": 1, 
+    "id": 30703
+  }, 
+  "30704": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30705, 
+    "taskTypeId": 7, 
+    "num": 20, 
+    "reward": 1, 
+    "id": 30704
+  }, 
+  "30705": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30706, 
+    "taskTypeId": 7, 
+    "num": 30, 
+    "reward": 1, 
+    "id": 30705
+  }, 
+  "30706": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30707, 
+    "taskTypeId": 7, 
+    "num": 50, 
+    "reward": 1, 
+    "id": 30706
+  }, 
+  "30707": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30708, 
+    "taskTypeId": 7, 
+    "num": 100, 
+    "reward": 1, 
+    "id": 30707
+  }, 
+  "30708": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30709, 
+    "taskTypeId": 7, 
+    "num": 150, 
+    "reward": 1, 
+    "id": 30708
+  }, 
+  "30709": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30710, 
+    "taskTypeId": 7, 
+    "num": 200, 
+    "reward": 1, 
+    "id": 30709
+  }, 
+  "30710": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30711, 
+    "taskTypeId": 7, 
+    "num": 300, 
+    "reward": 1, 
+    "id": 30710
+  }, 
+  "30711": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30712, 
+    "taskTypeId": 7, 
+    "num": 400, 
+    "reward": 1, 
+    "id": 30711
+  }, 
+  "30712": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30713, 
+    "taskTypeId": 7, 
+    "num": 600, 
+    "reward": 1, 
+    "id": 30712
+  }, 
+  "30713": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30714, 
+    "taskTypeId": 7, 
+    "num": 900, 
+    "reward": 1, 
+    "id": 30713
+  }, 
+  "30714": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30715, 
+    "taskTypeId": 7, 
+    "num": 1200, 
+    "reward": 1, 
+    "id": 30714
+  }, 
+  "30715": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30716, 
+    "taskTypeId": 7, 
+    "num": 1600, 
+    "reward": 1, 
+    "id": 30715
+  }, 
+  "30716": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30717, 
+    "taskTypeId": 7, 
+    "num": 2000, 
+    "reward": 1, 
+    "id": 30716
+  }, 
+  "30717": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30718, 
+    "taskTypeId": 7, 
+    "num": 2400, 
+    "reward": 1, 
+    "id": 30717
+  }, 
+  "30718": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30719, 
+    "taskTypeId": 7, 
+    "num": 2800, 
+    "reward": 1, 
+    "id": 30718
+  }, 
+  "30719": {
+    "isFirst": 0, 
+    "value": 20, 
+    "next": 30720, 
+    "taskTypeId": 7, 
+    "num": 3200, 
+    "reward": 1, 
+    "id": 30719
+  }
+}

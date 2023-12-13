@@ -1,0 +1,130 @@
+{
+  "10401": {
+    "Score": 10, 
+    "rewardScore": 1, 
+    "taskTypeId": 3, 
+    "num": 1, 
+    "resetting": 1, 
+    "id": 10401
+  }, 
+  "11010": {
+    "Score": 10, 
+    "rewardScore": 1, 
+    "taskTypeId": 19, 
+    "num": 1, 
+    "resetting": 1, 
+    "id": 11010
+  }, 
+  "10501": {
+    "Score": 10, 
+    "rewardScore": 1, 
+    "taskTypeId": 5, 
+    "num": 1, 
+    "resetting": 1, 
+    "id": 10501
+  }, 
+  "20401": {
+    "Score": 20, 
+    "rewardScore": 2, 
+    "taskTypeId": 1, 
+    "num": 10, 
+    "resetting": 2, 
+    "id": 20401
+  }, 
+  "20601": {
+    "Score": 20, 
+    "rewardScore": 2, 
+    "taskTypeId": 16, 
+    "num": 10, 
+    "resetting": 2, 
+    "id": 20601
+  }, 
+  "10601": {
+    "Score": 10, 
+    "rewardScore": 1, 
+    "taskTypeId": 6, 
+    "num": 1, 
+    "resetting": 1, 
+    "id": 10601
+  }, 
+  "10701": {
+    "Score": 10, 
+    "rewardScore": 1, 
+    "taskTypeId": 7, 
+    "num": 1, 
+    "resetting": 1, 
+    "id": 10701
+  }, 
+  "20301": {
+    "Score": 20, 
+    "rewardScore": 2, 
+    "taskTypeId": 3, 
+    "num": 15, 
+    "resetting": 2, 
+    "id": 20301
+  }, 
+  "20101": {
+    "Score": 20, 
+    "rewardScore": 2, 
+    "taskTypeId": 10, 
+    "num": 50000, 
+    "resetting": 2, 
+    "id": 20101
+  }, 
+  "10801": {
+    "Score": 10, 
+    "rewardScore": 1, 
+    "taskTypeId": 13, 
+    "num": 1, 
+    "resetting": 1, 
+    "id": 10801
+  }, 
+  "10101": {
+    "Score": 10, 
+    "rewardScore": 1, 
+    "taskTypeId": 0, 
+    "num": 1, 
+    "resetting": 1, 
+    "id": 10101
+  }, 
+  "20201": {
+    "Score": 20, 
+    "rewardScore": 2, 
+    "taskTypeId": 13, 
+    "num": 10, 
+    "resetting": 2, 
+    "id": 20201
+  }, 
+  "10201": {
+    "Score": 10, 
+    "rewardScore": 1, 
+    "taskTypeId": 1, 
+    "num": 1, 
+    "resetting": 1, 
+    "id": 10201
+  }, 
+  "20501": {
+    "Score": 20, 
+    "rewardScore": 2, 
+    "taskTypeId": 5, 
+    "num": 20, 
+    "resetting": 2, 
+    "id": 20501
+  }, 
+  "10301": {
+    "Score": 10, 
+    "rewardScore": 1, 
+    "taskTypeId": 2, 
+    "num": 1, 
+    "resetting": 1, 
+    "id": 10301
+  }, 
+  "10901": {
+    "Score": 10, 
+    "rewardScore": 1, 
+    "taskTypeId": 16, 
+    "num": 1, 
+    "resetting": 1, 
+    "id": 10901
+  }
+}

@@ -1,0 +1,529 @@
+{
+  "1": {
+    "developtype": 1, 
+    "adReward": [
+      1, 
+      100
+    ], 
+    "needLevel": 1, 
+    "charge2": [
+      1, 
+      1000
+    ], 
+    "charge1": [
+      1, 
+      500
+    ], 
+    "id": 1
+  }, 
+  "2": {
+    "developtype": 1, 
+    "adReward": [
+      2, 
+      10000
+    ], 
+    "needLevel": 3, 
+    "charge2": [
+      1, 
+      1000
+    ], 
+    "charge1": [
+      1, 
+      500
+    ], 
+    "id": 2
+  }, 
+  "3": {
+    "developtype": 1, 
+    "adReward": [
+      1, 
+      100
+    ], 
+    "needLevel": 5, 
+    "charge2": [
+      1, 
+      1500
+    ], 
+    "charge1": [
+      1, 
+      600
+    ], 
+    "id": 3
+  }, 
+  "4": {
+    "developtype": 1, 
+    "adReward": [
+      3, 
+      7500
+    ], 
+    "needLevel": 9, 
+    "charge2": [
+      1, 
+      1500
+    ], 
+    "charge1": [
+      1, 
+      600
+    ], 
+    "id": 4
+  }, 
+  "5": {
+    "developtype": 1, 
+    "adReward": [
+      1, 
+      100
+    ], 
+    "needLevel": 13, 
+    "charge2": [
+      1, 
+      2000
+    ], 
+    "charge1": [
+      1, 
+      700
+    ], 
+    "id": 5
+  }, 
+  "6": {
+    "developtype": 1, 
+    "adReward": [
+      2, 
+      15000
+    ], 
+    "needLevel": 17, 
+    "charge2": [
+      1, 
+      2000
+    ], 
+    "charge1": [
+      1, 
+      700
+    ], 
+    "id": 6
+  }, 
+  "7": {
+    "developtype": 1, 
+    "adReward": [
+      1, 
+      100
+    ], 
+    "needLevel": 21, 
+    "charge2": [
+      1, 
+      2500
+    ], 
+    "charge1": [
+      1, 
+      800
+    ], 
+    "id": 7
+  }, 
+  "8": {
+    "developtype": 1, 
+    "adReward": [
+      2, 
+      20000
+    ], 
+    "needLevel": 25, 
+    "charge2": [
+      1, 
+      2500
+    ], 
+    "charge1": [
+      1, 
+      900
+    ], 
+    "id": 8
+  }, 
+  "9": {
+    "developtype": 1, 
+    "adReward": [
+      1, 
+      100
+    ], 
+    "needLevel": 30, 
+    "charge2": [
+      1, 
+      3500
+    ], 
+    "charge1": [
+      1, 
+      1000
+    ], 
+    "id": 9
+  }, 
+  "10": {
+    "developtype": 1, 
+    "adReward": [
+      1, 
+      100
+    ], 
+    "needLevel": 35, 
+    "charge2": [
+      1, 
+      5000
+    ], 
+    "charge1": [
+      1, 
+      1500
+    ], 
+    "id": 10
+  }, 
+  "11": {
+    "developtype": 1, 
+    "adReward": [
+      3, 
+      10000
+    ], 
+    "needLevel": 40, 
+    "charge2": [
+      1, 
+      8000
+    ], 
+    "charge1": [
+      1, 
+      2500
+    ], 
+    "id": 11
+  }, 
+  "12": {
+    "developtype": 2, 
+    "adReward": [
+      2, 
+      50000
+    ], 
+    "needLevel": 43, 
+    "charge2": [
+      1, 
+      2000
+    ], 
+    "charge1": [
+      1, 
+      800
+    ], 
+    "id": 12
+  }, 
+  "13": {
+    "developtype": 2, 
+    "adReward": [
+      1, 
+      200
+    ], 
+    "needLevel": 46, 
+    "charge2": [
+      1, 
+      2000
+    ], 
+    "charge1": [
+      1, 
+      1000
+    ], 
+    "id": 13
+  }, 
+  "14": {
+    "developtype": 2, 
+    "adReward": [
+      3, 
+      30000
+    ], 
+    "needLevel": 49, 
+    "charge2": [
+      1, 
+      2000
+    ], 
+    "charge1": [
+      1, 
+      1000
+    ], 
+    "id": 14
+  }, 
+  "15": {
+    "developtype": 2, 
+    "adReward": [
+      1, 
+      200
+    ], 
+    "needLevel": 52, 
+    "charge2": [
+      1, 
+      2000
+    ], 
+    "charge1": [
+      1, 
+      1200
+    ], 
+    "id": 15
+  }, 
+  "16": {
+    "developtype": 2, 
+    "adReward": [
+      2, 
+      70000
+    ], 
+    "needLevel": 55, 
+    "charge2": [
+      1, 
+      2000
+    ], 
+    "charge1": [
+      1, 
+      1200
+    ], 
+    "id": 16
+  }, 
+  "17": {
+    "developtype": 2, 
+    "adReward": [
+      1, 
+      200
+    ], 
+    "needLevel": 58, 
+    "charge2": [
+      1, 
+      2000
+    ], 
+    "charge1": [
+      1, 
+      1500
+    ], 
+    "id": 17
+  }, 
+  "18": {
+    "developtype": 2, 
+    "adReward": [
+      3, 
+      35000
+    ], 
+    "needLevel": 61, 
+    "charge2": [
+      1, 
+      3500
+    ], 
+    "charge1": [
+      1, 
+      1500
+    ], 
+    "id": 18
+  }, 
+  "19": {
+    "developtype": 2, 
+    "adReward": [
+      1, 
+      200
+    ], 
+    "needLevel": 64, 
+    "charge2": [
+      1, 
+      5000
+    ], 
+    "charge1": [
+      1, 
+      2000
+    ], 
+    "id": 19
+  }, 
+  "20": {
+    "developtype": 2, 
+    "adReward": [
+      2, 
+      80000
+    ], 
+    "needLevel": 67, 
+    "charge2": [
+      1, 
+      8000
+    ], 
+    "charge1": [
+      1, 
+      2000
+    ], 
+    "id": 20
+  }, 
+  "21": {
+    "developtype": 2, 
+    "adReward": [
+      1, 
+      300
+    ], 
+    "needLevel": 70, 
+    "charge2": [
+      1, 
+      10000
+    ], 
+    "charge1": [
+      1, 
+      3000
+    ], 
+    "id": 21
+  }, 
+  "22": {
+    "developtype": 3, 
+    "adReward": [
+      1, 
+      200
+    ], 
+    "needLevel": 73, 
+    "charge2": [
+      1, 
+      2000
+    ], 
+    "charge1": [
+      1, 
+      1000
+    ], 
+    "id": 22
+  }, 
+  "23": {
+    "developtype": 3, 
+    "adReward": [
+      2, 
+      80000
+    ], 
+    "needLevel": 76, 
+    "charge2": [
+      1, 
+      2000
+    ], 
+    "charge1": [
+      1, 
+      1500
+    ], 
+    "id": 23
+  }, 
+  "24": {
+    "developtype": 3, 
+    "adReward": [
+      1, 
+      300
+    ], 
+    "needLevel": 79, 
+    "charge2": [
+      1, 
+      2000
+    ], 
+    "charge1": [
+      1, 
+      1500
+    ], 
+    "id": 24
+  }, 
+  "25": {
+    "developtype": 3, 
+    "adReward": [
+      3, 
+      50000
+    ], 
+    "needLevel": 82, 
+    "charge2": [
+      1, 
+      2000
+    ], 
+    "charge1": [
+      1, 
+      2000
+    ], 
+    "id": 25
+  }, 
+  "26": {
+    "developtype": 3, 
+    "adReward": [
+      1, 
+      300
+    ], 
+    "needLevel": 85, 
+    "charge2": [
+      1, 
+      2000
+    ], 
+    "charge1": [
+      1, 
+      2000
+    ], 
+    "id": 26
+  }, 
+  "27": {
+    "developtype": 3, 
+    "adReward": [
+      2, 
+      100000
+    ], 
+    "needLevel": 88, 
+    "charge2": [
+      1, 
+      3500
+    ], 
+    "charge1": [
+      1, 
+      2000
+    ], 
+    "id": 27
+  }, 
+  "28": {
+    "developtype": 3, 
+    "adReward": [
+      1, 
+      300
+    ], 
+    "needLevel": 91, 
+    "charge2": [
+      1, 
+      5000
+    ], 
+    "charge1": [
+      1, 
+      2500
+    ], 
+    "id": 28
+  }, 
+  "29": {
+    "developtype": 3, 
+    "adReward": [
+      1, 
+      400
+    ], 
+    "needLevel": 94, 
+    "charge2": [
+      1, 
+      8000
+    ], 
+    "charge1": [
+      1, 
+      3000
+    ], 
+    "id": 29
+  }, 
+  "30": {
+    "developtype": 3, 
+    "adReward": [
+      2, 
+      150000
+    ], 
+    "needLevel": 97, 
+    "charge2": [
+      1, 
+      10000
+    ], 
+    "charge1": [
+      1, 
+      3500
+    ], 
+    "id": 30
+  }, 
+  "31": {
+    "developtype": 3, 
+    "adReward": [
+      1, 
+      500
+    ], 
+    "needLevel": 100, 
+    "charge2": [
+      1, 
+      15000
+    ], 
+    "charge1": [
+      1, 
+      3000
+    ], 
+    "id": 31
+  }
+}

@@ -1,0 +1,352 @@
+{
+  "1": {
+    "adNum": 3, 
+    "rewardId": [
+      1
+    ], 
+    "discount": [
+      100
+    ], 
+    "buyOne": 0, 
+    "rewardNub": [
+      30
+    ], 
+    "location": 1, 
+    "buyNum": 4, 
+    "shopType": 1, 
+    "refreshCd": 0, 
+    "id": 1, 
+    "buyType": 0
+  }, 
+  "2": {
+    "adNum": 0, 
+    "rewardId": [
+      400001, 
+      400002, 
+      400003, 
+      400004, 
+      400005, 
+      400006
+    ], 
+    "discount": [
+      30, 
+      40, 
+      50, 
+      60, 
+      70, 
+      80, 
+      90, 
+      100
+    ], 
+    "buyOne": 2000, 
+    "rewardNub": [
+      5, 
+      6, 
+      7, 
+      8, 
+      9, 
+      10
+    ], 
+    "location": 2, 
+    "buyNum": 1, 
+    "shopType": 1, 
+    "refreshCd": 1, 
+    "id": 2, 
+    "buyType": 2
+  }, 
+  "3": {
+    "adNum": 0, 
+    "rewardId": [
+      3
+    ], 
+    "discount": [
+      50, 
+      60, 
+      70, 
+      80, 
+      90, 
+      100
+    ], 
+    "buyOne": 2, 
+    "rewardNub": [
+      2000
+    ], 
+    "location": 3, 
+    "buyNum": 1, 
+    "shopType": 1, 
+    "refreshCd": 1, 
+    "id": 3, 
+    "buyType": 2
+  }, 
+  "4": {
+    "adNum": 0, 
+    "rewardId": [
+      400001, 
+      400002, 
+      400003, 
+      400004, 
+      400005, 
+      400006
+    ], 
+    "discount": [
+      30, 
+      40, 
+      50, 
+      60, 
+      70, 
+      80, 
+      90, 
+      100
+    ], 
+    "buyOne": 2000, 
+    "rewardNub": [
+      5, 
+      6, 
+      7, 
+      8, 
+      9, 
+      10
+    ], 
+    "location": 4, 
+    "buyNum": 1, 
+    "shopType": 1, 
+    "refreshCd": 1, 
+    "id": 4, 
+    "buyType": 2
+  }, 
+  "5": {
+    "adNum": 0, 
+    "rewardId": [
+      500002
+    ], 
+    "discount": [
+      30, 
+      40, 
+      50, 
+      60, 
+      70, 
+      80, 
+      90, 
+      100
+    ], 
+    "buyOne": 5000, 
+    "rewardNub": [
+      1
+    ], 
+    "location": 5, 
+    "buyNum": 1, 
+    "shopType": 1, 
+    "refreshCd": 1, 
+    "id": 5, 
+    "buyType": 2
+  }, 
+  "6": {
+    "adNum": 0, 
+    "rewardId": [
+      311002, 
+      313002, 
+      315002, 
+      317002, 
+      321002, 
+      322002, 
+      323002, 
+      324002, 
+      331002, 
+      332002, 
+      333002, 
+      334002, 
+      341002, 
+      342002, 
+      343002, 
+      344002, 
+      351002, 
+      352002, 
+      353002, 
+      354002, 
+      361002, 
+      362002, 
+      363002, 
+      364002
+    ], 
+    "discount": [
+      50, 
+      60, 
+      70, 
+      80, 
+      90, 
+      100
+    ], 
+    "buyOne": 200, 
+    "rewardNub": [
+      1
+    ], 
+    "location": 6, 
+    "buyNum": 1, 
+    "shopType": 1, 
+    "refreshCd": 1, 
+    "id": 6, 
+    "buyType": 1
+  }, 
+  "7": {
+    "adNum": 0, 
+    "rewardId": [
+      900001, 
+      900002, 
+      900003, 
+      900004, 
+      900006, 
+      900007, 
+      900008, 
+      900009, 
+      900010, 
+      900011, 
+      900014
+    ], 
+    "discount": [
+      70, 
+      80, 
+      90, 
+      100
+    ], 
+    "buyOne": 200, 
+    "rewardNub": [
+      2, 
+      3, 
+      4, 
+      5
+    ], 
+    "location": 7, 
+    "buyNum": 1, 
+    "shopType": 1, 
+    "refreshCd": 1, 
+    "id": 7, 
+    "buyType": 1100001
+  }, 
+  "8": {
+    "adNum": 0, 
+    "rewardId": [
+      900001, 
+      900002, 
+      900003, 
+      900004, 
+      900006, 
+      900007, 
+      900008, 
+      900009, 
+      900010, 
+      900011, 
+      900014
+    ], 
+    "discount": [
+      70, 
+      80, 
+      90, 
+      100
+    ], 
+    "buyOne": 200, 
+    "rewardNub": [
+      2, 
+      3, 
+      4, 
+      5
+    ], 
+    "location": 8, 
+    "buyNum": 1, 
+    "shopType": 1, 
+    "refreshCd": 1, 
+    "id": 8, 
+    "buyType": 1100001
+  }, 
+  "9": {
+    "adNum": 0, 
+    "rewardId": [
+      900001, 
+      900002, 
+      900003, 
+      900004, 
+      900006, 
+      900007, 
+      900008, 
+      900009, 
+      900010, 
+      900011, 
+      900014
+    ], 
+    "discount": [
+      70, 
+      80, 
+      90, 
+      100
+    ], 
+    "buyOne": 200, 
+    "rewardNub": [
+      2, 
+      3, 
+      4, 
+      5
+    ], 
+    "location": 9, 
+    "buyNum": 1, 
+    "shopType": 1, 
+    "refreshCd": 1, 
+    "id": 9, 
+    "buyType": 1100001
+  }, 
+  "1002": {
+    "adNum": 0, 
+    "rewardId": [
+      2
+    ], 
+    "discount": [
+      100
+    ], 
+    "buyOne": 15, 
+    "rewardNub": [
+      6
+    ], 
+    "location": 2, 
+    "buyNum": 0, 
+    "shopType": 2, 
+    "refreshCd": 0, 
+    "id": 1002, 
+    "buyType": 1
+  }, 
+  "1003": {
+    "adNum": 0, 
+    "rewardId": [
+      2
+    ], 
+    "discount": [
+      100
+    ], 
+    "buyOne": 12, 
+    "rewardNub": [
+      24
+    ], 
+    "location": 3, 
+    "buyNum": 0, 
+    "shopType": 2, 
+    "refreshCd": 0, 
+    "id": 1003, 
+    "buyType": 1
+  }, 
+  "1001": {
+    "adNum": 2, 
+    "rewardId": [
+      2
+    ], 
+    "discount": [
+      100
+    ], 
+    "buyOne": 0, 
+    "rewardNub": [
+      2
+    ], 
+    "location": 1, 
+    "buyNum": 3, 
+    "shopType": 2, 
+    "refreshCd": 0, 
+    "id": 1001, 
+    "buyType": 0
+  }
+}

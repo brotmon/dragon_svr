@@ -1,0 +1,4636 @@
+{
+  "1": {
+    "kind": 1, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 0, 
+    "subKind": 0, 
+    "quality": 2, 
+    "id": 1
+  }, 
+  "2": {
+    "kind": 1, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 0, 
+    "subKind": 0, 
+    "quality": 2, 
+    "id": 2
+  }, 
+  "3": {
+    "kind": 1, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 0, 
+    "subKind": 0, 
+    "quality": 2, 
+    "id": 3
+  }, 
+  "4": {
+    "kind": 1, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 0, 
+    "subKind": 0, 
+    "quality": 2, 
+    "id": 4
+  }, 
+  "6": {
+    "kind": 6, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 1, 
+    "value": 1, 
+    "resultcost": 0, 
+    "unSuperpose": 0, 
+    "subKind": 0, 
+    "quality": 1, 
+    "id": 6
+  }, 
+  "352001": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 5, 
+    "quality": 1, 
+    "id": 352001
+  }, 
+  "341001": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 4, 
+    "quality": 1, 
+    "id": 341001
+  }, 
+  "341002": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 4, 
+    "quality": 2, 
+    "id": 341002
+  }, 
+  "341003": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 4, 
+    "quality": 3, 
+    "id": 341003
+  }, 
+  "341004": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 4, 
+    "quality": 4, 
+    "id": 341004
+  }, 
+  "341005": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 4, 
+    "quality": 5, 
+    "id": 341005
+  }, 
+  "341006": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 4, 
+    "quality": 6, 
+    "id": 341006
+  }, 
+  "345002": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 4, 
+    "quality": 2, 
+    "id": 345002
+  }, 
+  "362001": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 6, 
+    "quality": 1, 
+    "id": 362001
+  }, 
+  "362002": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 6, 
+    "quality": 2, 
+    "id": 362002
+  }, 
+  "352003": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 5, 
+    "quality": 3, 
+    "id": 352003
+  }, 
+  "362004": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 6, 
+    "quality": 4, 
+    "id": 362004
+  }, 
+  "345006": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 4, 
+    "quality": 6, 
+    "id": 345006
+  }, 
+  "362006": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 6, 
+    "quality": 6, 
+    "id": 362006
+  }, 
+  "366003": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 6, 
+    "quality": 3, 
+    "id": 366003
+  }, 
+  "1300001": {
+    "kind": 13, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 0, 
+    "subKind": 1, 
+    "quality": 2, 
+    "id": 1300001
+  }, 
+  "1300002": {
+    "kind": 13, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 0, 
+    "subKind": 2, 
+    "quality": 4, 
+    "id": 1300002
+  }, 
+  "352006": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 5, 
+    "quality": 6, 
+    "id": 352006
+  }, 
+  "336004": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 3, 
+    "quality": 4, 
+    "id": 336004
+  }, 
+  "366001": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 6, 
+    "quality": 1, 
+    "id": 366001
+  }, 
+  "336001": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 3, 
+    "quality": 1, 
+    "id": 336001
+  }, 
+  "361001": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 6, 
+    "quality": 1, 
+    "id": 361001
+  }, 
+  "361002": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 6, 
+    "quality": 2, 
+    "id": 361002
+  }, 
+  "361003": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 6, 
+    "quality": 3, 
+    "id": 361003
+  }, 
+  "361004": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 6, 
+    "quality": 4, 
+    "id": 361004
+  }, 
+  "345003": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 4, 
+    "quality": 3, 
+    "id": 345003
+  }, 
+  "361006": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 6, 
+    "quality": 6, 
+    "id": 361006
+  }, 
+  "318001": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 1, 
+    "quality": 1, 
+    "id": 318001
+  }, 
+  "318002": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 1, 
+    "quality": 2, 
+    "id": 318002
+  }, 
+  "318003": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 1, 
+    "quality": 3, 
+    "id": 318003
+  }, 
+  "318004": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 1, 
+    "quality": 4, 
+    "id": 318004
+  }, 
+  "318005": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 1, 
+    "quality": 5, 
+    "id": 318005
+  }, 
+  "318006": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 1, 
+    "quality": 6, 
+    "id": 318006
+  }, 
+  "366005": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 6, 
+    "quality": 5, 
+    "id": 366005
+  }, 
+  "1000001": {
+    "kind": 10, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 0, 
+    "subKind": 0, 
+    "quality": 4, 
+    "id": 1000001
+  }, 
+  "313003": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 1, 
+    "quality": 3, 
+    "id": 313003
+  }, 
+  "336002": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 3, 
+    "quality": 2, 
+    "id": 336002
+  }, 
+  "316001": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 1, 
+    "quality": 1, 
+    "id": 316001
+  }, 
+  "317001": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 1, 
+    "quality": 1, 
+    "id": 317001
+  }, 
+  "317002": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 1, 
+    "quality": 2, 
+    "id": 317002
+  }, 
+  "317003": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 1, 
+    "quality": 3, 
+    "id": 317003
+  }, 
+  "317004": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 1, 
+    "quality": 4, 
+    "id": 317004
+  }, 
+  "316002": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 1, 
+    "quality": 2, 
+    "id": 316002
+  }, 
+  "317006": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 1, 
+    "quality": 6, 
+    "id": 317006
+  }, 
+  "356004": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 5, 
+    "quality": 4, 
+    "id": 356004
+  }, 
+  "316003": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 1, 
+    "quality": 3, 
+    "id": 316003
+  }, 
+  "355001": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 5, 
+    "quality": 1, 
+    "id": 355001
+  }, 
+  "316004": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 1, 
+    "quality": 4, 
+    "id": 316004
+  }, 
+  "316005": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 1, 
+    "quality": 5, 
+    "id": 316005
+  }, 
+  "700001": {
+    "kind": 7, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 0, 
+    "subKind": 1, 
+    "quality": 4, 
+    "id": 700001
+  }, 
+  "700002": {
+    "kind": 7, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 0, 
+    "subKind": 2, 
+    "quality": 4, 
+    "id": 700002
+  }, 
+  "700003": {
+    "kind": 7, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 0, 
+    "subKind": 3, 
+    "quality": 4, 
+    "id": 700003
+  }, 
+  "700004": {
+    "kind": 7, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 0, 
+    "subKind": 4, 
+    "quality": 4, 
+    "id": 700004
+  }, 
+  "700005": {
+    "kind": 7, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 0, 
+    "subKind": 5, 
+    "quality": 4, 
+    "id": 700005
+  }, 
+  "700006": {
+    "kind": 7, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 0, 
+    "subKind": 6, 
+    "quality": 4, 
+    "id": 700006
+  }, 
+  "336005": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 3, 
+    "quality": 5, 
+    "id": 336005
+  }, 
+  "230001": {
+    "kind": 2, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 20, 
+    "resultcost": 0, 
+    "unSuperpose": 0, 
+    "subKind": 3, 
+    "quality": 1, 
+    "id": 230001
+  }, 
+  "362003": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 6, 
+    "quality": 3, 
+    "id": 362003
+  }, 
+  "355006": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 5, 
+    "quality": 6, 
+    "id": 355006
+  }, 
+  "356002": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 5, 
+    "quality": 2, 
+    "id": 356002
+  }, 
+  "315001": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 1, 
+    "quality": 1, 
+    "id": 315001
+  }, 
+  "315002": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 1, 
+    "quality": 2, 
+    "id": 315002
+  }, 
+  "315003": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 1, 
+    "quality": 3, 
+    "id": 315003
+  }, 
+  "315004": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 1, 
+    "quality": 4, 
+    "id": 315004
+  }, 
+  "315005": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 1, 
+    "quality": 5, 
+    "id": 315005
+  }, 
+  "315006": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 1, 
+    "quality": 6, 
+    "id": 315006
+  }, 
+  "362005": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 6, 
+    "quality": 5, 
+    "id": 362005
+  }, 
+  "720001": {
+    "kind": 7, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 0, 
+    "subKind": 1, 
+    "quality": 6, 
+    "id": 720001
+  }, 
+  "400002": {
+    "kind": 4, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 0, 
+    "subKind": 2, 
+    "quality": 1, 
+    "id": 400002
+  }, 
+  "400003": {
+    "kind": 4, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 0, 
+    "subKind": 3, 
+    "quality": 1, 
+    "id": 400003
+  }, 
+  "400004": {
+    "kind": 4, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 0, 
+    "subKind": 4, 
+    "quality": 1, 
+    "id": 400004
+  }, 
+  "400005": {
+    "kind": 4, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 0, 
+    "subKind": 5, 
+    "quality": 1, 
+    "id": 400005
+  }, 
+  "720006": {
+    "kind": 7, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 0, 
+    "subKind": 6, 
+    "quality": 6, 
+    "id": 720006
+  }, 
+  "316006": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 1, 
+    "quality": 6, 
+    "id": 316006
+  }, 
+  "250001": {
+    "kind": 2, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 0, 
+    "subKind": 5, 
+    "quality": 1, 
+    "id": 250001
+  }, 
+  "314002": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 1, 
+    "quality": 2, 
+    "id": 314002
+  }, 
+  "314003": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 1, 
+    "quality": 3, 
+    "id": 314003
+  }, 
+  "314004": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 1, 
+    "quality": 4, 
+    "id": 314004
+  }, 
+  "314005": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 1, 
+    "quality": 5, 
+    "id": 314005
+  }, 
+  "314006": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 1, 
+    "quality": 6, 
+    "id": 314006
+  }, 
+  "351001": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 5, 
+    "quality": 1, 
+    "id": 351001
+  }, 
+  "15001": {
+    "kind": 15, 
+    "reward": [
+      [
+        900001, 
+        10
+      ]
+    ], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 1, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 0, 
+    "quality": 4, 
+    "id": 15001
+  }, 
+  "15002": {
+    "kind": 15, 
+    "reward": [
+      [
+        900002, 
+        10
+      ]
+    ], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 5, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 0, 
+    "quality": 4, 
+    "id": 15002
+  }, 
+  "15003": {
+    "kind": 15, 
+    "reward": [
+      [
+        900003, 
+        10
+      ]
+    ], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 9, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 0, 
+    "quality": 4, 
+    "id": 15003
+  }, 
+  "15004": {
+    "kind": 15, 
+    "reward": [
+      [
+        900004, 
+        10
+      ]
+    ], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 13, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 0, 
+    "quality": 4, 
+    "id": 15004
+  }, 
+  "15005": {
+    "kind": 15, 
+    "reward": [
+      [
+        900005, 
+        10
+      ]
+    ], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 17, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 0, 
+    "quality": 5, 
+    "id": 15005
+  }, 
+  "15006": {
+    "kind": 15, 
+    "reward": [
+      [
+        900006, 
+        10
+      ]
+    ], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 21, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 0, 
+    "quality": 4, 
+    "id": 15006
+  }, 
+  "15007": {
+    "kind": 15, 
+    "reward": [
+      [
+        900007, 
+        10
+      ]
+    ], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 25, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 0, 
+    "quality": 4, 
+    "id": 15007
+  }, 
+  "15008": {
+    "kind": 15, 
+    "reward": [
+      [
+        900008, 
+        10
+      ]
+    ], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 29, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 0, 
+    "quality": 4, 
+    "id": 15008
+  }, 
+  "15009": {
+    "kind": 15, 
+    "reward": [
+      [
+        900009, 
+        10
+      ]
+    ], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 33, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 0, 
+    "quality": 4, 
+    "id": 15009
+  }, 
+  "15010": {
+    "kind": 15, 
+    "reward": [
+      [
+        900010, 
+        10
+      ]
+    ], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 37, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 0, 
+    "quality": 4, 
+    "id": 15010
+  }, 
+  "15011": {
+    "kind": 15, 
+    "reward": [
+      [
+        900011, 
+        10
+      ]
+    ], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 41, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 0, 
+    "quality": 4, 
+    "id": 15011
+  }, 
+  "15012": {
+    "kind": 15, 
+    "reward": [
+      [
+        900012, 
+        10
+      ]
+    ], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 45, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 0, 
+    "quality": 5, 
+    "id": 15012
+  }, 
+  "15013": {
+    "kind": 15, 
+    "reward": [
+      [
+        900013, 
+        10
+      ]
+    ], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 49, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 0, 
+    "quality": 5, 
+    "id": 15013
+  }, 
+  "15014": {
+    "kind": 15, 
+    "reward": [
+      [
+        900014, 
+        10
+      ]
+    ], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 53, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 0, 
+    "quality": 4, 
+    "id": 15014
+  }, 
+  "15015": {
+    "kind": 15, 
+    "reward": [
+      [
+        900015, 
+        10
+      ]
+    ], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 57, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 0, 
+    "quality": 5, 
+    "id": 15015
+  }, 
+  "15016": {
+    "kind": 15, 
+    "reward": [
+      [
+        900016, 
+        10
+      ]
+    ], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 61, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 0, 
+    "quality": 5, 
+    "id": 15016
+  }, 
+  "15017": {
+    "kind": 15, 
+    "reward": [
+      [
+        900017, 
+        10
+      ]
+    ], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 65, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 0, 
+    "quality": 5, 
+    "id": 15017
+  }, 
+  "15018": {
+    "kind": 15, 
+    "reward": [
+      [
+        900018, 
+        10
+      ]
+    ], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 69, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 0, 
+    "quality": 5, 
+    "id": 15018
+  }, 
+  "15019": {
+    "kind": 15, 
+    "reward": [
+      [
+        900019, 
+        10
+      ]
+    ], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 73, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 0, 
+    "quality": 5, 
+    "id": 15019
+  }, 
+  "313004": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 1, 
+    "quality": 4, 
+    "id": 313004
+  }, 
+  "313005": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 1, 
+    "quality": 5, 
+    "id": 313005
+  }, 
+  "313006": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 1, 
+    "quality": 6, 
+    "id": 313006
+  }, 
+  "334001": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 3, 
+    "quality": 1, 
+    "id": 334001
+  }, 
+  "334002": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 3, 
+    "quality": 2, 
+    "id": 334002
+  }, 
+  "326003": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 2, 
+    "quality": 3, 
+    "id": 326003
+  }, 
+  "334004": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 3, 
+    "quality": 4, 
+    "id": 334004
+  }, 
+  "334005": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 3, 
+    "quality": 5, 
+    "id": 334005
+  }, 
+  "334006": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 3, 
+    "quality": 6, 
+    "id": 334006
+  }, 
+  "326004": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 2, 
+    "quality": 4, 
+    "id": 326004
+  }, 
+  "355002": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 5, 
+    "quality": 2, 
+    "id": 355002
+  }, 
+  "355003": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 5, 
+    "quality": 3, 
+    "id": 355003
+  }, 
+  "355004": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 5, 
+    "quality": 4, 
+    "id": 355004
+  }, 
+  "355005": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 5, 
+    "quality": 5, 
+    "id": 355005
+  }, 
+  "336006": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 3, 
+    "quality": 6, 
+    "id": 336006
+  }, 
+  "326005": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 2, 
+    "quality": 5, 
+    "id": 326005
+  }, 
+  "312001": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 1, 
+    "quality": 1, 
+    "id": 312001
+  }, 
+  "312002": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 1, 
+    "quality": 2, 
+    "id": 312002
+  }, 
+  "312003": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 1, 
+    "quality": 3, 
+    "id": 312003
+  }, 
+  "312004": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 1, 
+    "quality": 4, 
+    "id": 312004
+  }, 
+  "312005": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 1, 
+    "quality": 5, 
+    "id": 312005
+  }, 
+  "312006": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 1, 
+    "quality": 6, 
+    "id": 312006
+  }, 
+  "345004": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 4, 
+    "quality": 4, 
+    "id": 345004
+  }, 
+  "333001": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 3, 
+    "quality": 1, 
+    "id": 333001
+  }, 
+  "333002": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 3, 
+    "quality": 2, 
+    "id": 333002
+  }, 
+  "333003": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 3, 
+    "quality": 3, 
+    "id": 333003
+  }, 
+  "333004": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 3, 
+    "quality": 4, 
+    "id": 333004
+  }, 
+  "333005": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 3, 
+    "quality": 5, 
+    "id": 333005
+  }, 
+  "333006": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 3, 
+    "quality": 6, 
+    "id": 333006
+  }, 
+  "365005": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 6, 
+    "quality": 5, 
+    "id": 365005
+  }, 
+  "354001": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 5, 
+    "quality": 1, 
+    "id": 354001
+  }, 
+  "354002": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 5, 
+    "quality": 2, 
+    "id": 354002
+  }, 
+  "354003": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 5, 
+    "quality": 3, 
+    "id": 354003
+  }, 
+  "354004": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 5, 
+    "quality": 4, 
+    "id": 354004
+  }, 
+  "354005": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 5, 
+    "quality": 5, 
+    "id": 354005
+  }, 
+  "354006": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 5, 
+    "quality": 6, 
+    "id": 354006
+  }, 
+  "311001": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 1, 
+    "quality": 1, 
+    "id": 311001
+  }, 
+  "311002": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 1, 
+    "quality": 2, 
+    "id": 311002
+  }, 
+  "311003": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 1, 
+    "quality": 3, 
+    "id": 311003
+  }, 
+  "311004": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 1, 
+    "quality": 4, 
+    "id": 311004
+  }, 
+  "311005": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 1, 
+    "quality": 5, 
+    "id": 311005
+  }, 
+  "311006": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 1, 
+    "quality": 6, 
+    "id": 311006
+  }, 
+  "500005": {
+    "kind": 5, 
+    "reward": [
+      [
+        311004, 
+        1
+      ], 
+      [
+        313004, 
+        1
+      ], 
+      [
+        315004, 
+        1
+      ], 
+      [
+        317004, 
+        1
+      ], 
+      [
+        321004, 
+        1
+      ], 
+      [
+        322004, 
+        1
+      ], 
+      [
+        323004, 
+        1
+      ], 
+      [
+        324004, 
+        1
+      ], 
+      [
+        331004, 
+        1
+      ], 
+      [
+        332004, 
+        1
+      ], 
+      [
+        333004, 
+        1
+      ], 
+      [
+        334004, 
+        1
+      ], 
+      [
+        341004, 
+        1
+      ], 
+      [
+        342004, 
+        1
+      ], 
+      [
+        343004, 
+        1
+      ], 
+      [
+        344004, 
+        1
+      ], 
+      [
+        351004, 
+        1
+      ], 
+      [
+        352004, 
+        1
+      ], 
+      [
+        353004, 
+        1
+      ], 
+      [
+        354004, 
+        1
+      ], 
+      [
+        361004, 
+        1
+      ], 
+      [
+        362004, 
+        1
+      ], 
+      [
+        363004, 
+        1
+      ], 
+      [
+        364004, 
+        1
+      ]
+    ], 
+    "openCount": 1, 
+    "isUse": 1, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 0, 
+    "subKind": 5, 
+    "quality": 4, 
+    "id": 500005
+  }, 
+  "1100001": {
+    "kind": 11, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 0, 
+    "subKind": 0, 
+    "quality": 5, 
+    "id": 1100001
+  }, 
+  "332002": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 3, 
+    "quality": 2, 
+    "id": 332002
+  }, 
+  "332003": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 3, 
+    "quality": 3, 
+    "id": 332003
+  }, 
+  "332004": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 3, 
+    "quality": 4, 
+    "id": 332004
+  }, 
+  "332005": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 3, 
+    "quality": 5, 
+    "id": 332005
+  }, 
+  "332006": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 3, 
+    "quality": 6, 
+    "id": 332006
+  }, 
+  "351002": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 5, 
+    "quality": 2, 
+    "id": 351002
+  }, 
+  "353002": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 5, 
+    "quality": 2, 
+    "id": 353002
+  }, 
+  "353003": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 5, 
+    "quality": 3, 
+    "id": 353003
+  }, 
+  "353004": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 5, 
+    "quality": 4, 
+    "id": 353004
+  }, 
+  "353005": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 5, 
+    "quality": 5, 
+    "id": 353005
+  }, 
+  "353006": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 5, 
+    "quality": 6, 
+    "id": 353006
+  }, 
+  "356006": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 5, 
+    "quality": 6, 
+    "id": 356006
+  }, 
+  "331001": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 3, 
+    "quality": 1, 
+    "id": 331001
+  }, 
+  "331002": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 3, 
+    "quality": 2, 
+    "id": 331002
+  }, 
+  "331003": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 3, 
+    "quality": 3, 
+    "id": 331003
+  }, 
+  "331004": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 3, 
+    "quality": 4, 
+    "id": 331004
+  }, 
+  "331005": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 3, 
+    "quality": 5, 
+    "id": 331005
+  }, 
+  "331006": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 3, 
+    "quality": 6, 
+    "id": 331006
+  }, 
+  "800001": {
+    "kind": 8, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 0, 
+    "subKind": 0, 
+    "quality": 2, 
+    "id": 800001
+  }, 
+  "800002": {
+    "kind": 8, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 0, 
+    "subKind": 0, 
+    "quality": 4, 
+    "id": 800002
+  }, 
+  "800003": {
+    "kind": 8, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 0, 
+    "subKind": 0, 
+    "quality": 6, 
+    "id": 800003
+  }, 
+  "352004": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 5, 
+    "quality": 4, 
+    "id": 352004
+  }, 
+  "352005": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 5, 
+    "quality": 5, 
+    "id": 352005
+  }, 
+  "345001": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 4, 
+    "quality": 1, 
+    "id": 345001
+  }, 
+  "1200001": {
+    "kind": 12, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 0, 
+    "subKind": 0, 
+    "quality": 3, 
+    "id": 1200001
+  }, 
+  "720002": {
+    "kind": 7, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 0, 
+    "subKind": 2, 
+    "quality": 6, 
+    "id": 720002
+  }, 
+  "326001": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 2, 
+    "quality": 1, 
+    "id": 326001
+  }, 
+  "720003": {
+    "kind": 7, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 0, 
+    "subKind": 3, 
+    "quality": 6, 
+    "id": 720003
+  }, 
+  "335003": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 3, 
+    "quality": 3, 
+    "id": 335003
+  }, 
+  "343001": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 4, 
+    "quality": 1, 
+    "id": 343001
+  }, 
+  "720004": {
+    "kind": 7, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 0, 
+    "subKind": 4, 
+    "quality": 6, 
+    "id": 720004
+  }, 
+  "344005": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 4, 
+    "quality": 5, 
+    "id": 344005
+  }, 
+  "351003": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 5, 
+    "quality": 3, 
+    "id": 351003
+  }, 
+  "351004": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 5, 
+    "quality": 4, 
+    "id": 351004
+  }, 
+  "351005": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 5, 
+    "quality": 5, 
+    "id": 351005
+  }, 
+  "351006": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 5, 
+    "quality": 6, 
+    "id": 351006
+  }, 
+  "720005": {
+    "kind": 7, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 0, 
+    "subKind": 5, 
+    "quality": 6, 
+    "id": 720005
+  }, 
+  "324003": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 2, 
+    "quality": 3, 
+    "id": 324003
+  }, 
+  "500001": {
+    "kind": 5, 
+    "reward": [
+      [
+        400001, 
+        1
+      ], 
+      [
+        400002, 
+        1
+      ], 
+      [
+        400003, 
+        1
+      ], 
+      [
+        400004, 
+        1
+      ], 
+      [
+        400005, 
+        1
+      ], 
+      [
+        400006, 
+        1
+      ]
+    ], 
+    "openCount": 1, 
+    "isUse": 1, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 0, 
+    "subKind": 1, 
+    "quality": 1, 
+    "id": 500001
+  }, 
+  "500002": {
+    "kind": 5, 
+    "reward": [
+      [
+        311001, 
+        1
+      ], 
+      [
+        313001, 
+        1
+      ], 
+      [
+        315001, 
+        1
+      ], 
+      [
+        317001, 
+        1
+      ], 
+      [
+        321001, 
+        1
+      ], 
+      [
+        322001, 
+        1
+      ], 
+      [
+        323001, 
+        1
+      ], 
+      [
+        324001, 
+        1
+      ], 
+      [
+        331001, 
+        1
+      ], 
+      [
+        332001, 
+        1
+      ], 
+      [
+        333001, 
+        1
+      ], 
+      [
+        334001, 
+        1
+      ], 
+      [
+        341001, 
+        1
+      ], 
+      [
+        342001, 
+        1
+      ], 
+      [
+        343001, 
+        1
+      ], 
+      [
+        344001, 
+        1
+      ], 
+      [
+        351001, 
+        1
+      ], 
+      [
+        352001, 
+        1
+      ], 
+      [
+        353001, 
+        1
+      ], 
+      [
+        354001, 
+        1
+      ], 
+      [
+        361001, 
+        1
+      ], 
+      [
+        362001, 
+        1
+      ], 
+      [
+        363001, 
+        1
+      ], 
+      [
+        364001, 
+        1
+      ]
+    ], 
+    "openCount": 1, 
+    "isUse": 1, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 0, 
+    "subKind": 2, 
+    "quality": 1, 
+    "id": 500002
+  }, 
+  "500003": {
+    "kind": 5, 
+    "reward": [
+      [
+        311002, 
+        1
+      ], 
+      [
+        313002, 
+        1
+      ], 
+      [
+        315002, 
+        1
+      ], 
+      [
+        317002, 
+        1
+      ], 
+      [
+        321002, 
+        1
+      ], 
+      [
+        322002, 
+        1
+      ], 
+      [
+        323002, 
+        1
+      ], 
+      [
+        324002, 
+        1
+      ], 
+      [
+        331002, 
+        1
+      ], 
+      [
+        332002, 
+        1
+      ], 
+      [
+        333002, 
+        1
+      ], 
+      [
+        334002, 
+        1
+      ], 
+      [
+        341002, 
+        1
+      ], 
+      [
+        342002, 
+        1
+      ], 
+      [
+        343002, 
+        1
+      ], 
+      [
+        344002, 
+        1
+      ], 
+      [
+        351002, 
+        1
+      ], 
+      [
+        352002, 
+        1
+      ], 
+      [
+        353002, 
+        1
+      ], 
+      [
+        354002, 
+        1
+      ], 
+      [
+        361002, 
+        1
+      ], 
+      [
+        362002, 
+        1
+      ], 
+      [
+        363002, 
+        1
+      ], 
+      [
+        364002, 
+        1
+      ]
+    ], 
+    "openCount": 1, 
+    "isUse": 1, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 0, 
+    "subKind": 3, 
+    "quality": 2, 
+    "id": 500003
+  }, 
+  "500004": {
+    "kind": 5, 
+    "reward": [
+      [
+        311003, 
+        1
+      ], 
+      [
+        313003, 
+        1
+      ], 
+      [
+        315003, 
+        1
+      ], 
+      [
+        317003, 
+        1
+      ], 
+      [
+        321003, 
+        1
+      ], 
+      [
+        322003, 
+        1
+      ], 
+      [
+        323003, 
+        1
+      ], 
+      [
+        324003, 
+        1
+      ], 
+      [
+        331003, 
+        1
+      ], 
+      [
+        332003, 
+        1
+      ], 
+      [
+        333003, 
+        1
+      ], 
+      [
+        334003, 
+        1
+      ], 
+      [
+        341003, 
+        1
+      ], 
+      [
+        342003, 
+        1
+      ], 
+      [
+        343003, 
+        1
+      ], 
+      [
+        344003, 
+        1
+      ], 
+      [
+        351003, 
+        1
+      ], 
+      [
+        352003, 
+        1
+      ], 
+      [
+        353003, 
+        1
+      ], 
+      [
+        354003, 
+        1
+      ], 
+      [
+        361003, 
+        1
+      ], 
+      [
+        362003, 
+        1
+      ], 
+      [
+        363003, 
+        1
+      ], 
+      [
+        364003, 
+        1
+      ]
+    ], 
+    "openCount": 1, 
+    "isUse": 1, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 0, 
+    "subKind": 4, 
+    "quality": 3, 
+    "id": 500004
+  }, 
+  "400006": {
+    "kind": 4, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 0, 
+    "subKind": 6, 
+    "quality": 1, 
+    "id": 400006
+  }, 
+  "500006": {
+    "kind": 5, 
+    "reward": [
+      [
+        311004, 
+        1
+      ], 
+      [
+        313004, 
+        1
+      ], 
+      [
+        315004, 
+        1
+      ], 
+      [
+        317004, 
+        1
+      ], 
+      [
+        321004, 
+        1
+      ], 
+      [
+        322004, 
+        1
+      ], 
+      [
+        323004, 
+        1
+      ], 
+      [
+        324004, 
+        1
+      ], 
+      [
+        331004, 
+        1
+      ], 
+      [
+        332004, 
+        1
+      ], 
+      [
+        333004, 
+        1
+      ], 
+      [
+        334004, 
+        1
+      ], 
+      [
+        341004, 
+        1
+      ], 
+      [
+        342004, 
+        1
+      ], 
+      [
+        343004, 
+        1
+      ], 
+      [
+        344004, 
+        1
+      ], 
+      [
+        351004, 
+        1
+      ], 
+      [
+        352004, 
+        1
+      ], 
+      [
+        353004, 
+        1
+      ], 
+      [
+        354004, 
+        1
+      ], 
+      [
+        361004, 
+        1
+      ], 
+      [
+        362004, 
+        1
+      ], 
+      [
+        363004, 
+        1
+      ], 
+      [
+        326004, 
+        1
+      ]
+    ], 
+    "openCount": 1, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 0, 
+    "subKind": 6, 
+    "quality": 4, 
+    "id": 500006
+  }, 
+  "500007": {
+    "kind": 5, 
+    "reward": [
+      [
+        312004, 
+        1
+      ], 
+      [
+        314004, 
+        1
+      ], 
+      [
+        316004, 
+        1
+      ], 
+      [
+        318004, 
+        1
+      ], 
+      [
+        325004, 
+        1
+      ], 
+      [
+        326004, 
+        1
+      ], 
+      [
+        335004, 
+        1
+      ], 
+      [
+        336004, 
+        1
+      ], 
+      [
+        345004, 
+        1
+      ], 
+      [
+        346004, 
+        1
+      ], 
+      [
+        355004, 
+        1
+      ], 
+      [
+        356004, 
+        1
+      ], 
+      [
+        365004, 
+        1
+      ], 
+      [
+        366004, 
+        1
+      ]
+    ], 
+    "openCount": 1, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 0, 
+    "subKind": 7, 
+    "quality": 4, 
+    "id": 500007
+  }, 
+  "500010": {
+    "kind": 5, 
+    "reward": [
+      [
+        900001, 
+        1
+      ], 
+      [
+        900002, 
+        1
+      ], 
+      [
+        900003, 
+        1
+      ], 
+      [
+        900004, 
+        1
+      ], 
+      [
+        900005, 
+        1
+      ], 
+      [
+        900006, 
+        1
+      ], 
+      [
+        900007, 
+        1
+      ], 
+      [
+        900008, 
+        1
+      ], 
+      [
+        900009, 
+        1
+      ], 
+      [
+        900010, 
+        1
+      ], 
+      [
+        900011, 
+        1
+      ], 
+      [
+        900012, 
+        1
+      ], 
+      [
+        900013, 
+        1
+      ], 
+      [
+        900014, 
+        1
+      ], 
+      [
+        900015, 
+        1
+      ]
+    ], 
+    "openCount": 1, 
+    "isUse": 1, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 0, 
+    "subKind": 10, 
+    "quality": 5, 
+    "id": 500010
+  }, 
+  "326002": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 2, 
+    "quality": 2, 
+    "id": 326002
+  }, 
+  "335004": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 3, 
+    "quality": 4, 
+    "id": 335004
+  }, 
+  "352002": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 5, 
+    "quality": 2, 
+    "id": 352002
+  }, 
+  "336003": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 3, 
+    "quality": 3, 
+    "id": 336003
+  }, 
+  "356005": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 5, 
+    "quality": 5, 
+    "id": 356005
+  }, 
+  "324001": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 2, 
+    "quality": 1, 
+    "id": 324001
+  }, 
+  "332001": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 3, 
+    "quality": 1, 
+    "id": 332001
+  }, 
+  "335005": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 3, 
+    "quality": 5, 
+    "id": 335005
+  }, 
+  "361005": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 6, 
+    "quality": 5, 
+    "id": 361005
+  }, 
+  "345005": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 4, 
+    "quality": 5, 
+    "id": 345005
+  }, 
+  "364005": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 6, 
+    "quality": 5, 
+    "id": 364005
+  }, 
+  "220001": {
+    "kind": 2, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 5, 
+    "resultcost": 0, 
+    "unSuperpose": 0, 
+    "subKind": 2, 
+    "quality": 1, 
+    "id": 220001
+  }, 
+  "220002": {
+    "kind": 2, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 35, 
+    "resultcost": 0, 
+    "unSuperpose": 0, 
+    "subKind": 2, 
+    "quality": 1, 
+    "id": 220002
+  }, 
+  "220003": {
+    "kind": 2, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 200, 
+    "resultcost": 0, 
+    "unSuperpose": 0, 
+    "subKind": 2, 
+    "quality": 1, 
+    "id": 220003
+  }, 
+  "356003": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 5, 
+    "quality": 3, 
+    "id": 356003
+  }, 
+  "314001": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 1, 
+    "quality": 1, 
+    "id": 314001
+  }, 
+  "710001": {
+    "kind": 7, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 0, 
+    "subKind": 1, 
+    "quality": 5, 
+    "id": 710001
+  }, 
+  "710002": {
+    "kind": 7, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 0, 
+    "subKind": 2, 
+    "quality": 5, 
+    "id": 710002
+  }, 
+  "710003": {
+    "kind": 7, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 0, 
+    "subKind": 3, 
+    "quality": 5, 
+    "id": 710003
+  }, 
+  "710004": {
+    "kind": 7, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 0, 
+    "subKind": 4, 
+    "quality": 5, 
+    "id": 710004
+  }, 
+  "710005": {
+    "kind": 7, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 0, 
+    "subKind": 5, 
+    "quality": 5, 
+    "id": 710005
+  }, 
+  "710006": {
+    "kind": 7, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 0, 
+    "subKind": 6, 
+    "quality": 5, 
+    "id": 710006
+  }, 
+  "353001": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 5, 
+    "quality": 1, 
+    "id": 353001
+  }, 
+  "326006": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 2, 
+    "quality": 6, 
+    "id": 326006
+  }, 
+  "240001": {
+    "kind": 2, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 3000, 
+    "resultcost": 0, 
+    "unSuperpose": 0, 
+    "subKind": 4, 
+    "quality": 1, 
+    "id": 240001
+  }, 
+  "356001": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 5, 
+    "quality": 1, 
+    "id": 356001
+  }, 
+  "325001": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 2, 
+    "quality": 1, 
+    "id": 325001
+  }, 
+  "325002": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 2, 
+    "quality": 2, 
+    "id": 325002
+  }, 
+  "325003": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 2, 
+    "quality": 3, 
+    "id": 325003
+  }, 
+  "325004": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 2, 
+    "quality": 4, 
+    "id": 325004
+  }, 
+  "325005": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 2, 
+    "quality": 5, 
+    "id": 325005
+  }, 
+  "325006": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 2, 
+    "quality": 6, 
+    "id": 325006
+  }, 
+  "366002": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 6, 
+    "quality": 2, 
+    "id": 366002
+  }, 
+  "346001": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 4, 
+    "quality": 1, 
+    "id": 346001
+  }, 
+  "346002": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 4, 
+    "quality": 2, 
+    "id": 346002
+  }, 
+  "346003": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 4, 
+    "quality": 3, 
+    "id": 346003
+  }, 
+  "346004": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 4, 
+    "quality": 4, 
+    "id": 346004
+  }, 
+  "346005": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 4, 
+    "quality": 5, 
+    "id": 346005
+  }, 
+  "346006": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 4, 
+    "quality": 6, 
+    "id": 346006
+  }, 
+  "335001": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 3, 
+    "quality": 1, 
+    "id": 335001
+  }, 
+  "335002": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 3, 
+    "quality": 2, 
+    "id": 335002
+  }, 
+  "900001": {
+    "kind": 9, 
+    "reward": [
+      [
+        15001, 
+        1
+      ]
+    ], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 1, 
+    "resultcost": 10, 
+    "unSuperpose": 0, 
+    "subKind": 0, 
+    "quality": 4, 
+    "id": 900001
+  }, 
+  "900002": {
+    "kind": 9, 
+    "reward": [
+      [
+        15002, 
+        1
+      ]
+    ], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 5, 
+    "resultcost": 10, 
+    "unSuperpose": 0, 
+    "subKind": 0, 
+    "quality": 4, 
+    "id": 900002
+  }, 
+  "900003": {
+    "kind": 9, 
+    "reward": [
+      [
+        15003, 
+        1
+      ]
+    ], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 9, 
+    "resultcost": 10, 
+    "unSuperpose": 0, 
+    "subKind": 0, 
+    "quality": 4, 
+    "id": 900003
+  }, 
+  "900004": {
+    "kind": 9, 
+    "reward": [
+      [
+        15004, 
+        1
+      ]
+    ], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 13, 
+    "resultcost": 10, 
+    "unSuperpose": 0, 
+    "subKind": 0, 
+    "quality": 4, 
+    "id": 900004
+  }, 
+  "900005": {
+    "kind": 9, 
+    "reward": [
+      [
+        15005, 
+        1
+      ]
+    ], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 17, 
+    "resultcost": 10, 
+    "unSuperpose": 0, 
+    "subKind": 0, 
+    "quality": 5, 
+    "id": 900005
+  }, 
+  "900006": {
+    "kind": 9, 
+    "reward": [
+      [
+        15006, 
+        1
+      ]
+    ], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 21, 
+    "resultcost": 10, 
+    "unSuperpose": 0, 
+    "subKind": 0, 
+    "quality": 4, 
+    "id": 900006
+  }, 
+  "900007": {
+    "kind": 9, 
+    "reward": [
+      [
+        15007, 
+        1
+      ]
+    ], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 25, 
+    "resultcost": 10, 
+    "unSuperpose": 0, 
+    "subKind": 0, 
+    "quality": 4, 
+    "id": 900007
+  }, 
+  "900008": {
+    "kind": 9, 
+    "reward": [
+      [
+        15008, 
+        1
+      ]
+    ], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 29, 
+    "resultcost": 10, 
+    "unSuperpose": 0, 
+    "subKind": 0, 
+    "quality": 4, 
+    "id": 900008
+  }, 
+  "900009": {
+    "kind": 9, 
+    "reward": [
+      [
+        15009, 
+        1
+      ]
+    ], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 33, 
+    "resultcost": 10, 
+    "unSuperpose": 0, 
+    "subKind": 0, 
+    "quality": 4, 
+    "id": 900009
+  }, 
+  "900010": {
+    "kind": 9, 
+    "reward": [
+      [
+        15010, 
+        1
+      ]
+    ], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 37, 
+    "resultcost": 10, 
+    "unSuperpose": 0, 
+    "subKind": 0, 
+    "quality": 4, 
+    "id": 900010
+  }, 
+  "900011": {
+    "kind": 9, 
+    "reward": [
+      [
+        15011, 
+        1
+      ]
+    ], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 41, 
+    "resultcost": 10, 
+    "unSuperpose": 0, 
+    "subKind": 0, 
+    "quality": 4, 
+    "id": 900011
+  }, 
+  "900012": {
+    "kind": 9, 
+    "reward": [
+      [
+        15012, 
+        1
+      ]
+    ], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 45, 
+    "resultcost": 10, 
+    "unSuperpose": 0, 
+    "subKind": 0, 
+    "quality": 5, 
+    "id": 900012
+  }, 
+  "900013": {
+    "kind": 9, 
+    "reward": [
+      [
+        15013, 
+        1
+      ]
+    ], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 49, 
+    "resultcost": 10, 
+    "unSuperpose": 0, 
+    "subKind": 0, 
+    "quality": 4, 
+    "id": 900013
+  }, 
+  "900014": {
+    "kind": 9, 
+    "reward": [
+      [
+        15014, 
+        1
+      ]
+    ], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 53, 
+    "resultcost": 10, 
+    "unSuperpose": 0, 
+    "subKind": 0, 
+    "quality": 4, 
+    "id": 900014
+  }, 
+  "900015": {
+    "kind": 9, 
+    "reward": [
+      [
+        15015, 
+        1
+      ]
+    ], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 57, 
+    "resultcost": 10, 
+    "unSuperpose": 0, 
+    "subKind": 0, 
+    "quality": 5, 
+    "id": 900015
+  }, 
+  "900016": {
+    "kind": 9, 
+    "reward": [
+      [
+        15016, 
+        1
+      ]
+    ], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 61, 
+    "resultcost": 10, 
+    "unSuperpose": 0, 
+    "subKind": 0, 
+    "quality": 5, 
+    "id": 900016
+  }, 
+  "900017": {
+    "kind": 9, 
+    "reward": [
+      [
+        15017, 
+        1
+      ]
+    ], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 65, 
+    "resultcost": 10, 
+    "unSuperpose": 0, 
+    "subKind": 0, 
+    "quality": 5, 
+    "id": 900017
+  }, 
+  "900018": {
+    "kind": 9, 
+    "reward": [
+      [
+        15018, 
+        1
+      ]
+    ], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 69, 
+    "resultcost": 10, 
+    "unSuperpose": 0, 
+    "subKind": 0, 
+    "quality": 5, 
+    "id": 900018
+  }, 
+  "900019": {
+    "kind": 9, 
+    "reward": [
+      [
+        15019, 
+        1
+      ]
+    ], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 73, 
+    "resultcost": 10, 
+    "unSuperpose": 0, 
+    "subKind": 0, 
+    "quality": 5, 
+    "id": 900019
+  }, 
+  "366004": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 6, 
+    "quality": 4, 
+    "id": 366004
+  }, 
+  "335006": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 3, 
+    "quality": 6, 
+    "id": 335006
+  }, 
+  "366006": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 6, 
+    "quality": 6, 
+    "id": 366006
+  }, 
+  "323001": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 2, 
+    "quality": 1, 
+    "id": 323001
+  }, 
+  "323002": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 2, 
+    "quality": 2, 
+    "id": 323002
+  }, 
+  "323003": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 2, 
+    "quality": 3, 
+    "id": 323003
+  }, 
+  "323004": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 2, 
+    "quality": 4, 
+    "id": 323004
+  }, 
+  "323005": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 2, 
+    "quality": 5, 
+    "id": 323005
+  }, 
+  "323006": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 2, 
+    "quality": 6, 
+    "id": 323006
+  }, 
+  "344001": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 4, 
+    "quality": 1, 
+    "id": 344001
+  }, 
+  "344002": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 4, 
+    "quality": 2, 
+    "id": 344002
+  }, 
+  "344003": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 4, 
+    "quality": 3, 
+    "id": 344003
+  }, 
+  "344004": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 4, 
+    "quality": 4, 
+    "id": 344004
+  }, 
+  "334003": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 3, 
+    "quality": 3, 
+    "id": 334003
+  }, 
+  "344006": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 4, 
+    "quality": 6, 
+    "id": 344006
+  }, 
+  "260001": {
+    "kind": 2, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 100000, 
+    "resultcost": 0, 
+    "unSuperpose": 0, 
+    "subKind": 6, 
+    "quality": 1, 
+    "id": 260001
+  }, 
+  "365001": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 6, 
+    "quality": 1, 
+    "id": 365001
+  }, 
+  "365002": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 6, 
+    "quality": 2, 
+    "id": 365002
+  }, 
+  "365003": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 6, 
+    "quality": 3, 
+    "id": 365003
+  }, 
+  "365004": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 6, 
+    "quality": 4, 
+    "id": 365004
+  }, 
+  "324002": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 2, 
+    "quality": 2, 
+    "id": 324002
+  }, 
+  "365006": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 6, 
+    "quality": 6, 
+    "id": 365006
+  }, 
+  "317005": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 1, 
+    "quality": 5, 
+    "id": 317005
+  }, 
+  "322001": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 2, 
+    "quality": 1, 
+    "id": 322001
+  }, 
+  "322002": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 2, 
+    "quality": 2, 
+    "id": 322002
+  }, 
+  "322003": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 2, 
+    "quality": 3, 
+    "id": 322003
+  }, 
+  "322004": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 2, 
+    "quality": 4, 
+    "id": 322004
+  }, 
+  "322005": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 2, 
+    "quality": 5, 
+    "id": 322005
+  }, 
+  "322006": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 2, 
+    "quality": 6, 
+    "id": 322006
+  }, 
+  "324004": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 2, 
+    "quality": 4, 
+    "id": 324004
+  }, 
+  "343002": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 4, 
+    "quality": 2, 
+    "id": 343002
+  }, 
+  "343003": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 4, 
+    "quality": 3, 
+    "id": 343003
+  }, 
+  "343004": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 4, 
+    "quality": 4, 
+    "id": 343004
+  }, 
+  "343005": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 4, 
+    "quality": 5, 
+    "id": 343005
+  }, 
+  "343006": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 4, 
+    "quality": 6, 
+    "id": 343006
+  }, 
+  "324005": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 2, 
+    "quality": 5, 
+    "id": 324005
+  }, 
+  "364001": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 6, 
+    "quality": 1, 
+    "id": 364001
+  }, 
+  "364002": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 6, 
+    "quality": 2, 
+    "id": 364002
+  }, 
+  "364003": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 6, 
+    "quality": 3, 
+    "id": 364003
+  }, 
+  "364004": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 6, 
+    "quality": 4, 
+    "id": 364004
+  }, 
+  "324006": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 2, 
+    "quality": 6, 
+    "id": 324006
+  }, 
+  "364006": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 6, 
+    "quality": 6, 
+    "id": 364006
+  }, 
+  "321001": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 2, 
+    "quality": 1, 
+    "id": 321001
+  }, 
+  "321002": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 2, 
+    "quality": 2, 
+    "id": 321002
+  }, 
+  "321003": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 2, 
+    "quality": 3, 
+    "id": 321003
+  }, 
+  "321004": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 2, 
+    "quality": 4, 
+    "id": 321004
+  }, 
+  "321005": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 2, 
+    "quality": 5, 
+    "id": 321005
+  }, 
+  "321006": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 2, 
+    "quality": 6, 
+    "id": 321006
+  }, 
+  "363005": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 6, 
+    "quality": 5, 
+    "id": 363005
+  }, 
+  "342001": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 4, 
+    "quality": 1, 
+    "id": 342001
+  }, 
+  "342002": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 4, 
+    "quality": 2, 
+    "id": 342002
+  }, 
+  "342003": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 4, 
+    "quality": 3, 
+    "id": 342003
+  }, 
+  "342004": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 4, 
+    "quality": 4, 
+    "id": 342004
+  }, 
+  "342005": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 4, 
+    "quality": 5, 
+    "id": 342005
+  }, 
+  "342006": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 4, 
+    "quality": 6, 
+    "id": 342006
+  }, 
+  "313001": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 1, 
+    "quality": 1, 
+    "id": 313001
+  }, 
+  "400001": {
+    "kind": 4, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 0, 
+    "subKind": 1, 
+    "quality": 1, 
+    "id": 400001
+  }, 
+  "363001": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 6, 
+    "quality": 1, 
+    "id": 363001
+  }, 
+  "363002": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 6, 
+    "quality": 2, 
+    "id": 363002
+  }, 
+  "363003": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 6, 
+    "quality": 3, 
+    "id": 363003
+  }, 
+  "363004": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 6, 
+    "quality": 4, 
+    "id": 363004
+  }, 
+  "313002": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 1, 
+    "quality": 2, 
+    "id": 313002
+  }, 
+  "363006": {
+    "kind": 3, 
+    "reward": [], 
+    "openCount": 0, 
+    "isUse": 0, 
+    "value": 0, 
+    "resultcost": 0, 
+    "unSuperpose": 1, 
+    "subKind": 6, 
+    "quality": 6, 
+    "id": 363006
+  }
+}

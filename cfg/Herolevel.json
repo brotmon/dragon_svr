@@ -1,0 +1,1793 @@
+{
+  "1": {
+    "needStart": 0, 
+    "level": 1, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        5000
+      ], 
+      [
+        1200001, 
+        100
+      ]
+    ]
+  }, 
+  "2": {
+    "needStart": 0, 
+    "level": 2, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        10000
+      ], 
+      [
+        1200001, 
+        200
+      ]
+    ]
+  }, 
+  "3": {
+    "needStart": 0, 
+    "level": 3, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        15000
+      ], 
+      [
+        1200001, 
+        300
+      ]
+    ]
+  }, 
+  "4": {
+    "needStart": 0, 
+    "level": 4, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        20000
+      ], 
+      [
+        1200001, 
+        400
+      ]
+    ]
+  }, 
+  "5": {
+    "needStart": 0, 
+    "level": 5, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        25000
+      ], 
+      [
+        1200001, 
+        500
+      ]
+    ]
+  }, 
+  "6": {
+    "needStart": 0, 
+    "level": 6, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        30000
+      ], 
+      [
+        1200001, 
+        600
+      ]
+    ]
+  }, 
+  "7": {
+    "needStart": 0, 
+    "level": 7, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        35000
+      ], 
+      [
+        1200001, 
+        700
+      ]
+    ]
+  }, 
+  "8": {
+    "needStart": 0, 
+    "level": 8, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        40000
+      ], 
+      [
+        1200001, 
+        800
+      ]
+    ]
+  }, 
+  "9": {
+    "needStart": 0, 
+    "level": 9, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        45000
+      ], 
+      [
+        1200001, 
+        900
+      ]
+    ]
+  }, 
+  "10": {
+    "needStart": 0, 
+    "level": 10, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        50000
+      ], 
+      [
+        1200001, 
+        1000
+      ]
+    ]
+  }, 
+  "11": {
+    "needStart": 0, 
+    "level": 11, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        55000
+      ], 
+      [
+        1200001, 
+        1100
+      ]
+    ]
+  }, 
+  "12": {
+    "needStart": 0, 
+    "level": 12, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        60000
+      ], 
+      [
+        1200001, 
+        1200
+      ]
+    ]
+  }, 
+  "13": {
+    "needStart": 0, 
+    "level": 13, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        65000
+      ], 
+      [
+        1200001, 
+        1300
+      ]
+    ]
+  }, 
+  "14": {
+    "needStart": 0, 
+    "level": 14, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        70000
+      ], 
+      [
+        1200001, 
+        1400
+      ]
+    ]
+  }, 
+  "15": {
+    "needStart": 0, 
+    "level": 15, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        75000
+      ], 
+      [
+        1200001, 
+        1500
+      ]
+    ]
+  }, 
+  "16": {
+    "needStart": 1, 
+    "level": 16, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        80000
+      ], 
+      [
+        1200001, 
+        1600
+      ]
+    ]
+  }, 
+  "17": {
+    "needStart": 1, 
+    "level": 17, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        85000
+      ], 
+      [
+        1200001, 
+        1700
+      ]
+    ]
+  }, 
+  "18": {
+    "needStart": 1, 
+    "level": 18, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        90000
+      ], 
+      [
+        1200001, 
+        1800
+      ]
+    ]
+  }, 
+  "19": {
+    "needStart": 1, 
+    "level": 19, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        95000
+      ], 
+      [
+        1200001, 
+        1900
+      ]
+    ]
+  }, 
+  "20": {
+    "needStart": 1, 
+    "level": 20, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        100000
+      ], 
+      [
+        1200001, 
+        2000
+      ]
+    ]
+  }, 
+  "21": {
+    "needStart": 1, 
+    "level": 21, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        105000
+      ], 
+      [
+        1200001, 
+        2100
+      ]
+    ]
+  }, 
+  "22": {
+    "needStart": 1, 
+    "level": 22, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        110000
+      ], 
+      [
+        1200001, 
+        2200
+      ]
+    ]
+  }, 
+  "23": {
+    "needStart": 1, 
+    "level": 23, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        115000
+      ], 
+      [
+        1200001, 
+        2300
+      ]
+    ]
+  }, 
+  "24": {
+    "needStart": 1, 
+    "level": 24, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        120000
+      ], 
+      [
+        1200001, 
+        2400
+      ]
+    ]
+  }, 
+  "25": {
+    "needStart": 1, 
+    "level": 25, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        125000
+      ], 
+      [
+        1200001, 
+        2500
+      ]
+    ]
+  }, 
+  "26": {
+    "needStart": 1, 
+    "level": 26, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        130000
+      ], 
+      [
+        1200001, 
+        2600
+      ]
+    ]
+  }, 
+  "27": {
+    "needStart": 1, 
+    "level": 27, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        135000
+      ], 
+      [
+        1200001, 
+        2700
+      ]
+    ]
+  }, 
+  "28": {
+    "needStart": 1, 
+    "level": 28, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        140000
+      ], 
+      [
+        1200001, 
+        2800
+      ]
+    ]
+  }, 
+  "29": {
+    "needStart": 1, 
+    "level": 29, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        145000
+      ], 
+      [
+        1200001, 
+        2900
+      ]
+    ]
+  }, 
+  "30": {
+    "needStart": 1, 
+    "level": 30, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        150000
+      ], 
+      [
+        1200001, 
+        3000
+      ]
+    ]
+  }, 
+  "31": {
+    "needStart": 2, 
+    "level": 31, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        155000
+      ], 
+      [
+        1200001, 
+        3100
+      ]
+    ]
+  }, 
+  "32": {
+    "needStart": 2, 
+    "level": 32, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        160000
+      ], 
+      [
+        1200001, 
+        3200
+      ]
+    ]
+  }, 
+  "33": {
+    "needStart": 2, 
+    "level": 33, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        165000
+      ], 
+      [
+        1200001, 
+        3300
+      ]
+    ]
+  }, 
+  "34": {
+    "needStart": 2, 
+    "level": 34, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        170000
+      ], 
+      [
+        1200001, 
+        3400
+      ]
+    ]
+  }, 
+  "35": {
+    "needStart": 2, 
+    "level": 35, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        175000
+      ], 
+      [
+        1200001, 
+        3500
+      ]
+    ]
+  }, 
+  "36": {
+    "needStart": 2, 
+    "level": 36, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        180000
+      ], 
+      [
+        1200001, 
+        3600
+      ]
+    ]
+  }, 
+  "37": {
+    "needStart": 2, 
+    "level": 37, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        185000
+      ], 
+      [
+        1200001, 
+        3700
+      ]
+    ]
+  }, 
+  "38": {
+    "needStart": 2, 
+    "level": 38, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        190000
+      ], 
+      [
+        1200001, 
+        3800
+      ]
+    ]
+  }, 
+  "39": {
+    "needStart": 2, 
+    "level": 39, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        195000
+      ], 
+      [
+        1200001, 
+        3900
+      ]
+    ]
+  }, 
+  "40": {
+    "needStart": 2, 
+    "level": 40, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        200000
+      ], 
+      [
+        1200001, 
+        4000
+      ]
+    ]
+  }, 
+  "41": {
+    "needStart": 2, 
+    "level": 41, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        210000
+      ], 
+      [
+        1200001, 
+        4200
+      ]
+    ]
+  }, 
+  "42": {
+    "needStart": 2, 
+    "level": 42, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        220000
+      ], 
+      [
+        1200001, 
+        4400
+      ]
+    ]
+  }, 
+  "43": {
+    "needStart": 2, 
+    "level": 43, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        230000
+      ], 
+      [
+        1200001, 
+        4600
+      ]
+    ]
+  }, 
+  "44": {
+    "needStart": 2, 
+    "level": 44, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        240000
+      ], 
+      [
+        1200001, 
+        4800
+      ]
+    ]
+  }, 
+  "45": {
+    "needStart": 2, 
+    "level": 45, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        250000
+      ], 
+      [
+        1200001, 
+        5000
+      ]
+    ]
+  }, 
+  "46": {
+    "needStart": 3, 
+    "level": 46, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        260000
+      ], 
+      [
+        1200001, 
+        5200
+      ]
+    ]
+  }, 
+  "47": {
+    "needStart": 3, 
+    "level": 47, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        270000
+      ], 
+      [
+        1200001, 
+        5400
+      ]
+    ]
+  }, 
+  "48": {
+    "needStart": 3, 
+    "level": 48, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        280000
+      ], 
+      [
+        1200001, 
+        5600
+      ]
+    ]
+  }, 
+  "49": {
+    "needStart": 3, 
+    "level": 49, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        290000
+      ], 
+      [
+        1200001, 
+        5800
+      ]
+    ]
+  }, 
+  "50": {
+    "needStart": 3, 
+    "level": 50, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        300000
+      ], 
+      [
+        1200001, 
+        6000
+      ]
+    ]
+  }, 
+  "51": {
+    "needStart": 3, 
+    "level": 51, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        310000
+      ], 
+      [
+        1200001, 
+        6200
+      ]
+    ]
+  }, 
+  "52": {
+    "needStart": 3, 
+    "level": 52, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        320000
+      ], 
+      [
+        1200001, 
+        6400
+      ]
+    ]
+  }, 
+  "53": {
+    "needStart": 3, 
+    "level": 53, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        330000
+      ], 
+      [
+        1200001, 
+        6600
+      ]
+    ]
+  }, 
+  "54": {
+    "needStart": 3, 
+    "level": 54, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        340000
+      ], 
+      [
+        1200001, 
+        6800
+      ]
+    ]
+  }, 
+  "55": {
+    "needStart": 3, 
+    "level": 55, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        350000
+      ], 
+      [
+        1200001, 
+        7000
+      ]
+    ]
+  }, 
+  "56": {
+    "needStart": 3, 
+    "level": 56, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        360000
+      ], 
+      [
+        1200001, 
+        7200
+      ]
+    ]
+  }, 
+  "57": {
+    "needStart": 3, 
+    "level": 57, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        370000
+      ], 
+      [
+        1200001, 
+        7400
+      ]
+    ]
+  }, 
+  "58": {
+    "needStart": 3, 
+    "level": 58, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        380000
+      ], 
+      [
+        1200001, 
+        7600
+      ]
+    ]
+  }, 
+  "59": {
+    "needStart": 3, 
+    "level": 59, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        390000
+      ], 
+      [
+        1200001, 
+        7800
+      ]
+    ]
+  }, 
+  "60": {
+    "needStart": 3, 
+    "level": 60, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        400000
+      ], 
+      [
+        1200001, 
+        8000
+      ]
+    ]
+  }, 
+  "61": {
+    "needStart": 4, 
+    "level": 61, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        410000
+      ], 
+      [
+        1200001, 
+        8200
+      ]
+    ]
+  }, 
+  "62": {
+    "needStart": 4, 
+    "level": 62, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        420000
+      ], 
+      [
+        1200001, 
+        8400
+      ]
+    ]
+  }, 
+  "63": {
+    "needStart": 4, 
+    "level": 63, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        430000
+      ], 
+      [
+        1200001, 
+        8600
+      ]
+    ]
+  }, 
+  "64": {
+    "needStart": 4, 
+    "level": 64, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        440000
+      ], 
+      [
+        1200001, 
+        8800
+      ]
+    ]
+  }, 
+  "65": {
+    "needStart": 4, 
+    "level": 65, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        450000
+      ], 
+      [
+        1200001, 
+        9000
+      ]
+    ]
+  }, 
+  "66": {
+    "needStart": 4, 
+    "level": 66, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        460000
+      ], 
+      [
+        1200001, 
+        9200
+      ]
+    ]
+  }, 
+  "67": {
+    "needStart": 4, 
+    "level": 67, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        470000
+      ], 
+      [
+        1200001, 
+        9400
+      ]
+    ]
+  }, 
+  "68": {
+    "needStart": 4, 
+    "level": 68, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        480000
+      ], 
+      [
+        1200001, 
+        9600
+      ]
+    ]
+  }, 
+  "69": {
+    "needStart": 4, 
+    "level": 69, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        490000
+      ], 
+      [
+        1200001, 
+        9800
+      ]
+    ]
+  }, 
+  "70": {
+    "needStart": 4, 
+    "level": 70, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        500000
+      ], 
+      [
+        1200001, 
+        10000
+      ]
+    ]
+  }, 
+  "71": {
+    "needStart": 4, 
+    "level": 71, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        510000
+      ], 
+      [
+        1200001, 
+        10200
+      ]
+    ]
+  }, 
+  "72": {
+    "needStart": 4, 
+    "level": 72, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        520000
+      ], 
+      [
+        1200001, 
+        10400
+      ]
+    ]
+  }, 
+  "73": {
+    "needStart": 4, 
+    "level": 73, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        530000
+      ], 
+      [
+        1200001, 
+        10600
+      ]
+    ]
+  }, 
+  "74": {
+    "needStart": 4, 
+    "level": 74, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        540000
+      ], 
+      [
+        1200001, 
+        10800
+      ]
+    ]
+  }, 
+  "75": {
+    "needStart": 4, 
+    "level": 75, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        550000
+      ], 
+      [
+        1200001, 
+        11000
+      ]
+    ]
+  }, 
+  "76": {
+    "needStart": 4, 
+    "level": 76, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        560000
+      ], 
+      [
+        1200001, 
+        11200
+      ]
+    ]
+  }, 
+  "77": {
+    "needStart": 4, 
+    "level": 77, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        570000
+      ], 
+      [
+        1200001, 
+        11400
+      ]
+    ]
+  }, 
+  "78": {
+    "needStart": 4, 
+    "level": 78, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        580000
+      ], 
+      [
+        1200001, 
+        11600
+      ]
+    ]
+  }, 
+  "79": {
+    "needStart": 4, 
+    "level": 79, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        590000
+      ], 
+      [
+        1200001, 
+        11800
+      ]
+    ]
+  }, 
+  "80": {
+    "needStart": 4, 
+    "level": 80, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        600000
+      ], 
+      [
+        1200001, 
+        12000
+      ]
+    ]
+  }, 
+  "81": {
+    "needStart": 5, 
+    "level": 81, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        610000
+      ], 
+      [
+        1200001, 
+        12300
+      ]
+    ]
+  }, 
+  "82": {
+    "needStart": 5, 
+    "level": 82, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        620000
+      ], 
+      [
+        1200001, 
+        12600
+      ]
+    ]
+  }, 
+  "83": {
+    "needStart": 5, 
+    "level": 83, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        630000
+      ], 
+      [
+        1200001, 
+        12900
+      ]
+    ]
+  }, 
+  "84": {
+    "needStart": 5, 
+    "level": 84, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        640000
+      ], 
+      [
+        1200001, 
+        13200
+      ]
+    ]
+  }, 
+  "85": {
+    "needStart": 5, 
+    "level": 85, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        650000
+      ], 
+      [
+        1200001, 
+        13500
+      ]
+    ]
+  }, 
+  "86": {
+    "needStart": 5, 
+    "level": 86, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        660000
+      ], 
+      [
+        1200001, 
+        13800
+      ]
+    ]
+  }, 
+  "87": {
+    "needStart": 5, 
+    "level": 87, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        670000
+      ], 
+      [
+        1200001, 
+        14100
+      ]
+    ]
+  }, 
+  "88": {
+    "needStart": 5, 
+    "level": 88, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        680000
+      ], 
+      [
+        1200001, 
+        14400
+      ]
+    ]
+  }, 
+  "89": {
+    "needStart": 5, 
+    "level": 89, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        690000
+      ], 
+      [
+        1200001, 
+        14700
+      ]
+    ]
+  }, 
+  "90": {
+    "needStart": 5, 
+    "level": 90, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        700000
+      ], 
+      [
+        1200001, 
+        15000
+      ]
+    ]
+  }, 
+  "91": {
+    "needStart": 5, 
+    "level": 91, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        720000
+      ], 
+      [
+        1200001, 
+        15300
+      ]
+    ]
+  }, 
+  "92": {
+    "needStart": 5, 
+    "level": 92, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        740000
+      ], 
+      [
+        1200001, 
+        15600
+      ]
+    ]
+  }, 
+  "93": {
+    "needStart": 5, 
+    "level": 93, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        760000
+      ], 
+      [
+        1200001, 
+        15900
+      ]
+    ]
+  }, 
+  "94": {
+    "needStart": 5, 
+    "level": 94, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        780000
+      ], 
+      [
+        1200001, 
+        16200
+      ]
+    ]
+  }, 
+  "95": {
+    "needStart": 5, 
+    "level": 95, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        800000
+      ], 
+      [
+        1200001, 
+        16500
+      ]
+    ]
+  }, 
+  "96": {
+    "needStart": 5, 
+    "level": 96, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        820000
+      ], 
+      [
+        1200001, 
+        16800
+      ]
+    ]
+  }, 
+  "97": {
+    "needStart": 5, 
+    "level": 97, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        840000
+      ], 
+      [
+        1200001, 
+        17100
+      ]
+    ]
+  }, 
+  "98": {
+    "needStart": 5, 
+    "level": 98, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        860000
+      ], 
+      [
+        1200001, 
+        17400
+      ]
+    ]
+  }, 
+  "99": {
+    "needStart": 5, 
+    "level": 99, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": [
+      [
+        2, 
+        880000
+      ], 
+      [
+        1200001, 
+        17700
+      ]
+    ]
+  }, 
+  "100": {
+    "needStart": 5, 
+    "level": 100, 
+    "addvalue1": 20.0, 
+    "attId1": 1, 
+    "attId2": 2, 
+    "addvalue2": 100.0, 
+    "cost": []
+  }
+}

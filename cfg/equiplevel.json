@@ -1,0 +1,802 @@
+{
+  "1": {
+    "blueprint": 1, 
+    "cost": 1000, 
+    "level": 1
+  }, 
+  "2": {
+    "blueprint": 1, 
+    "cost": 2000, 
+    "level": 2
+  }, 
+  "3": {
+    "blueprint": 2, 
+    "cost": 3000, 
+    "level": 3
+  }, 
+  "4": {
+    "blueprint": 2, 
+    "cost": 4000, 
+    "level": 4
+  }, 
+  "5": {
+    "blueprint": 2, 
+    "cost": 5000, 
+    "level": 5
+  }, 
+  "6": {
+    "blueprint": 3, 
+    "cost": 5000, 
+    "level": 6
+  }, 
+  "7": {
+    "blueprint": 3, 
+    "cost": 5000, 
+    "level": 7
+  }, 
+  "8": {
+    "blueprint": 3, 
+    "cost": 5000, 
+    "level": 8
+  }, 
+  "9": {
+    "blueprint": 4, 
+    "cost": 5000, 
+    "level": 9
+  }, 
+  "10": {
+    "blueprint": 4, 
+    "cost": 5000, 
+    "level": 10
+  }, 
+  "11": {
+    "blueprint": 4, 
+    "cost": 8000, 
+    "level": 11
+  }, 
+  "12": {
+    "blueprint": 5, 
+    "cost": 8000, 
+    "level": 12
+  }, 
+  "13": {
+    "blueprint": 5, 
+    "cost": 8000, 
+    "level": 13
+  }, 
+  "14": {
+    "blueprint": 5, 
+    "cost": 8000, 
+    "level": 14
+  }, 
+  "15": {
+    "blueprint": 10, 
+    "cost": 8000, 
+    "level": 15
+  }, 
+  "16": {
+    "blueprint": 10, 
+    "cost": 8000, 
+    "level": 16
+  }, 
+  "17": {
+    "blueprint": 10, 
+    "cost": 8000, 
+    "level": 17
+  }, 
+  "18": {
+    "blueprint": 10, 
+    "cost": 8000, 
+    "level": 18
+  }, 
+  "19": {
+    "blueprint": 10, 
+    "cost": 8000, 
+    "level": 19
+  }, 
+  "20": {
+    "blueprint": 10, 
+    "cost": 8000, 
+    "level": 20
+  }, 
+  "21": {
+    "blueprint": 15, 
+    "cost": 30000, 
+    "level": 21
+  }, 
+  "22": {
+    "blueprint": 15, 
+    "cost": 30000, 
+    "level": 22
+  }, 
+  "23": {
+    "blueprint": 15, 
+    "cost": 30000, 
+    "level": 23
+  }, 
+  "24": {
+    "blueprint": 15, 
+    "cost": 30000, 
+    "level": 24
+  }, 
+  "25": {
+    "blueprint": 15, 
+    "cost": 30000, 
+    "level": 25
+  }, 
+  "26": {
+    "blueprint": 15, 
+    "cost": 30000, 
+    "level": 26
+  }, 
+  "27": {
+    "blueprint": 15, 
+    "cost": 30000, 
+    "level": 27
+  }, 
+  "28": {
+    "blueprint": 15, 
+    "cost": 30000, 
+    "level": 28
+  }, 
+  "29": {
+    "blueprint": 15, 
+    "cost": 30000, 
+    "level": 29
+  }, 
+  "30": {
+    "blueprint": 15, 
+    "cost": 30000, 
+    "level": 30
+  }, 
+  "31": {
+    "blueprint": 20, 
+    "cost": 50000, 
+    "level": 31
+  }, 
+  "32": {
+    "blueprint": 20, 
+    "cost": 50000, 
+    "level": 32
+  }, 
+  "33": {
+    "blueprint": 20, 
+    "cost": 50000, 
+    "level": 33
+  }, 
+  "34": {
+    "blueprint": 20, 
+    "cost": 50000, 
+    "level": 34
+  }, 
+  "35": {
+    "blueprint": 20, 
+    "cost": 50000, 
+    "level": 35
+  }, 
+  "36": {
+    "blueprint": 20, 
+    "cost": 50000, 
+    "level": 36
+  }, 
+  "37": {
+    "blueprint": 20, 
+    "cost": 50000, 
+    "level": 37
+  }, 
+  "38": {
+    "blueprint": 20, 
+    "cost": 50000, 
+    "level": 38
+  }, 
+  "39": {
+    "blueprint": 20, 
+    "cost": 50000, 
+    "level": 39
+  }, 
+  "40": {
+    "blueprint": 20, 
+    "cost": 50000, 
+    "level": 40
+  }, 
+  "41": {
+    "blueprint": 25, 
+    "cost": 80000, 
+    "level": 41
+  }, 
+  "42": {
+    "blueprint": 25, 
+    "cost": 80000, 
+    "level": 42
+  }, 
+  "43": {
+    "blueprint": 25, 
+    "cost": 80000, 
+    "level": 43
+  }, 
+  "44": {
+    "blueprint": 25, 
+    "cost": 80000, 
+    "level": 44
+  }, 
+  "45": {
+    "blueprint": 25, 
+    "cost": 80000, 
+    "level": 45
+  }, 
+  "46": {
+    "blueprint": 25, 
+    "cost": 80000, 
+    "level": 46
+  }, 
+  "47": {
+    "blueprint": 25, 
+    "cost": 80000, 
+    "level": 47
+  }, 
+  "48": {
+    "blueprint": 25, 
+    "cost": 80000, 
+    "level": 48
+  }, 
+  "49": {
+    "blueprint": 25, 
+    "cost": 80000, 
+    "level": 49
+  }, 
+  "50": {
+    "blueprint": 25, 
+    "cost": 80000, 
+    "level": 50
+  }, 
+  "51": {
+    "blueprint": 30, 
+    "cost": 120000, 
+    "level": 51
+  }, 
+  "52": {
+    "blueprint": 30, 
+    "cost": 120000, 
+    "level": 52
+  }, 
+  "53": {
+    "blueprint": 30, 
+    "cost": 120000, 
+    "level": 53
+  }, 
+  "54": {
+    "blueprint": 30, 
+    "cost": 120000, 
+    "level": 54
+  }, 
+  "55": {
+    "blueprint": 30, 
+    "cost": 120000, 
+    "level": 55
+  }, 
+  "56": {
+    "blueprint": 30, 
+    "cost": 120000, 
+    "level": 56
+  }, 
+  "57": {
+    "blueprint": 30, 
+    "cost": 120000, 
+    "level": 57
+  }, 
+  "58": {
+    "blueprint": 30, 
+    "cost": 120000, 
+    "level": 58
+  }, 
+  "59": {
+    "blueprint": 30, 
+    "cost": 120000, 
+    "level": 59
+  }, 
+  "60": {
+    "blueprint": 30, 
+    "cost": 120000, 
+    "level": 60
+  }, 
+  "61": {
+    "blueprint": 35, 
+    "cost": 150000, 
+    "level": 61
+  }, 
+  "62": {
+    "blueprint": 35, 
+    "cost": 150000, 
+    "level": 62
+  }, 
+  "63": {
+    "blueprint": 35, 
+    "cost": 150000, 
+    "level": 63
+  }, 
+  "64": {
+    "blueprint": 35, 
+    "cost": 150000, 
+    "level": 64
+  }, 
+  "65": {
+    "blueprint": 35, 
+    "cost": 150000, 
+    "level": 65
+  }, 
+  "66": {
+    "blueprint": 35, 
+    "cost": 150000, 
+    "level": 66
+  }, 
+  "67": {
+    "blueprint": 35, 
+    "cost": 150000, 
+    "level": 67
+  }, 
+  "68": {
+    "blueprint": 35, 
+    "cost": 150000, 
+    "level": 68
+  }, 
+  "69": {
+    "blueprint": 35, 
+    "cost": 150000, 
+    "level": 69
+  }, 
+  "70": {
+    "blueprint": 35, 
+    "cost": 150000, 
+    "level": 70
+  }, 
+  "71": {
+    "blueprint": 40, 
+    "cost": 200000, 
+    "level": 71
+  }, 
+  "72": {
+    "blueprint": 40, 
+    "cost": 200000, 
+    "level": 72
+  }, 
+  "73": {
+    "blueprint": 40, 
+    "cost": 200000, 
+    "level": 73
+  }, 
+  "74": {
+    "blueprint": 40, 
+    "cost": 200000, 
+    "level": 74
+  }, 
+  "75": {
+    "blueprint": 40, 
+    "cost": 200000, 
+    "level": 75
+  }, 
+  "76": {
+    "blueprint": 40, 
+    "cost": 200000, 
+    "level": 76
+  }, 
+  "77": {
+    "blueprint": 40, 
+    "cost": 200000, 
+    "level": 77
+  }, 
+  "78": {
+    "blueprint": 40, 
+    "cost": 200000, 
+    "level": 78
+  }, 
+  "79": {
+    "blueprint": 40, 
+    "cost": 200000, 
+    "level": 79
+  }, 
+  "80": {
+    "blueprint": 40, 
+    "cost": 200000, 
+    "level": 80
+  }, 
+  "81": {
+    "blueprint": 45, 
+    "cost": 250000, 
+    "level": 81
+  }, 
+  "82": {
+    "blueprint": 45, 
+    "cost": 250000, 
+    "level": 82
+  }, 
+  "83": {
+    "blueprint": 45, 
+    "cost": 250000, 
+    "level": 83
+  }, 
+  "84": {
+    "blueprint": 45, 
+    "cost": 250000, 
+    "level": 84
+  }, 
+  "85": {
+    "blueprint": 45, 
+    "cost": 250000, 
+    "level": 85
+  }, 
+  "86": {
+    "blueprint": 45, 
+    "cost": 250000, 
+    "level": 86
+  }, 
+  "87": {
+    "blueprint": 45, 
+    "cost": 250000, 
+    "level": 87
+  }, 
+  "88": {
+    "blueprint": 45, 
+    "cost": 250000, 
+    "level": 88
+  }, 
+  "89": {
+    "blueprint": 45, 
+    "cost": 250000, 
+    "level": 89
+  }, 
+  "90": {
+    "blueprint": 45, 
+    "cost": 250000, 
+    "level": 90
+  }, 
+  "91": {
+    "blueprint": 50, 
+    "cost": 300000, 
+    "level": 91
+  }, 
+  "92": {
+    "blueprint": 50, 
+    "cost": 300000, 
+    "level": 92
+  }, 
+  "93": {
+    "blueprint": 50, 
+    "cost": 300000, 
+    "level": 93
+  }, 
+  "94": {
+    "blueprint": 50, 
+    "cost": 300000, 
+    "level": 94
+  }, 
+  "95": {
+    "blueprint": 50, 
+    "cost": 300000, 
+    "level": 95
+  }, 
+  "96": {
+    "blueprint": 50, 
+    "cost": 300000, 
+    "level": 96
+  }, 
+  "97": {
+    "blueprint": 50, 
+    "cost": 300000, 
+    "level": 97
+  }, 
+  "98": {
+    "blueprint": 50, 
+    "cost": 300000, 
+    "level": 98
+  }, 
+  "99": {
+    "blueprint": 50, 
+    "cost": 300000, 
+    "level": 99
+  }, 
+  "100": {
+    "blueprint": 50, 
+    "cost": 300000, 
+    "level": 100
+  }, 
+  "101": {
+    "blueprint": 55, 
+    "cost": 400000, 
+    "level": 101
+  }, 
+  "102": {
+    "blueprint": 55, 
+    "cost": 400000, 
+    "level": 102
+  }, 
+  "103": {
+    "blueprint": 55, 
+    "cost": 400000, 
+    "level": 103
+  }, 
+  "104": {
+    "blueprint": 55, 
+    "cost": 400000, 
+    "level": 104
+  }, 
+  "105": {
+    "blueprint": 55, 
+    "cost": 400000, 
+    "level": 105
+  }, 
+  "106": {
+    "blueprint": 60, 
+    "cost": 400000, 
+    "level": 106
+  }, 
+  "107": {
+    "blueprint": 60, 
+    "cost": 400000, 
+    "level": 107
+  }, 
+  "108": {
+    "blueprint": 60, 
+    "cost": 400000, 
+    "level": 108
+  }, 
+  "109": {
+    "blueprint": 60, 
+    "cost": 400000, 
+    "level": 109
+  }, 
+  "110": {
+    "blueprint": 60, 
+    "cost": 400000, 
+    "level": 110
+  }, 
+  "111": {
+    "blueprint": 65, 
+    "cost": 500000, 
+    "level": 111
+  }, 
+  "112": {
+    "blueprint": 65, 
+    "cost": 500000, 
+    "level": 112
+  }, 
+  "113": {
+    "blueprint": 65, 
+    "cost": 500000, 
+    "level": 113
+  }, 
+  "114": {
+    "blueprint": 65, 
+    "cost": 500000, 
+    "level": 114
+  }, 
+  "115": {
+    "blueprint": 65, 
+    "cost": 500000, 
+    "level": 115
+  }, 
+  "116": {
+    "blueprint": 70, 
+    "cost": 500000, 
+    "level": 116
+  }, 
+  "117": {
+    "blueprint": 70, 
+    "cost": 500000, 
+    "level": 117
+  }, 
+  "118": {
+    "blueprint": 70, 
+    "cost": 500000, 
+    "level": 118
+  }, 
+  "119": {
+    "blueprint": 70, 
+    "cost": 500000, 
+    "level": 119
+  }, 
+  "120": {
+    "blueprint": 70, 
+    "cost": 500000, 
+    "level": 120
+  }, 
+  "121": {
+    "blueprint": 75, 
+    "cost": 600000, 
+    "level": 121
+  }, 
+  "122": {
+    "blueprint": 75, 
+    "cost": 600000, 
+    "level": 122
+  }, 
+  "123": {
+    "blueprint": 75, 
+    "cost": 600000, 
+    "level": 123
+  }, 
+  "124": {
+    "blueprint": 75, 
+    "cost": 600000, 
+    "level": 124
+  }, 
+  "125": {
+    "blueprint": 75, 
+    "cost": 600000, 
+    "level": 125
+  }, 
+  "126": {
+    "blueprint": 80, 
+    "cost": 600000, 
+    "level": 126
+  }, 
+  "127": {
+    "blueprint": 80, 
+    "cost": 600000, 
+    "level": 127
+  }, 
+  "128": {
+    "blueprint": 80, 
+    "cost": 600000, 
+    "level": 128
+  }, 
+  "129": {
+    "blueprint": 80, 
+    "cost": 600000, 
+    "level": 129
+  }, 
+  "130": {
+    "blueprint": 80, 
+    "cost": 600000, 
+    "level": 130
+  }, 
+  "131": {
+    "blueprint": 85, 
+    "cost": 700000, 
+    "level": 131
+  }, 
+  "132": {
+    "blueprint": 85, 
+    "cost": 700000, 
+    "level": 132
+  }, 
+  "133": {
+    "blueprint": 85, 
+    "cost": 700000, 
+    "level": 133
+  }, 
+  "134": {
+    "blueprint": 85, 
+    "cost": 700000, 
+    "level": 134
+  }, 
+  "135": {
+    "blueprint": 85, 
+    "cost": 700000, 
+    "level": 135
+  }, 
+  "136": {
+    "blueprint": 90, 
+    "cost": 700000, 
+    "level": 136
+  }, 
+  "137": {
+    "blueprint": 90, 
+    "cost": 700000, 
+    "level": 137
+  }, 
+  "138": {
+    "blueprint": 90, 
+    "cost": 700000, 
+    "level": 138
+  }, 
+  "139": {
+    "blueprint": 90, 
+    "cost": 700000, 
+    "level": 139
+  }, 
+  "140": {
+    "blueprint": 90, 
+    "cost": 700000, 
+    "level": 140
+  }, 
+  "141": {
+    "blueprint": 95, 
+    "cost": 800000, 
+    "level": 141
+  }, 
+  "142": {
+    "blueprint": 95, 
+    "cost": 800000, 
+    "level": 142
+  }, 
+  "143": {
+    "blueprint": 95, 
+    "cost": 800000, 
+    "level": 143
+  }, 
+  "144": {
+    "blueprint": 95, 
+    "cost": 800000, 
+    "level": 144
+  }, 
+  "145": {
+    "blueprint": 95, 
+    "cost": 800000, 
+    "level": 145
+  }, 
+  "146": {
+    "blueprint": 100, 
+    "cost": 800000, 
+    "level": 146
+  }, 
+  "147": {
+    "blueprint": 100, 
+    "cost": 800000, 
+    "level": 147
+  }, 
+  "148": {
+    "blueprint": 100, 
+    "cost": 800000, 
+    "level": 148
+  }, 
+  "149": {
+    "blueprint": 100, 
+    "cost": 800000, 
+    "level": 149
+  }, 
+  "150": {
+    "blueprint": 100, 
+    "cost": 800000, 
+    "level": 150
+  }, 
+  "151": {
+    "blueprint": 105, 
+    "cost": 900000, 
+    "level": 151
+  }, 
+  "152": {
+    "blueprint": 105, 
+    "cost": 900000, 
+    "level": 152
+  }, 
+  "153": {
+    "blueprint": 105, 
+    "cost": 900000, 
+    "level": 153
+  }, 
+  "154": {
+    "blueprint": 105, 
+    "cost": 900000, 
+    "level": 154
+  }, 
+  "155": {
+    "blueprint": 105, 
+    "cost": 900000, 
+    "level": 155
+  }, 
+  "156": {
+    "blueprint": 110, 
+    "cost": 900000, 
+    "level": 156
+  }, 
+  "157": {
+    "blueprint": 110, 
+    "cost": 900000, 
+    "level": 157
+  }, 
+  "158": {
+    "blueprint": 110, 
+    "cost": 900000, 
+    "level": 158
+  }, 
+  "159": {
+    "blueprint": 110, 
+    "cost": 900000, 
+    "level": 159
+  }, 
+  "160": {
+    "blueprint": 0, 
+    "cost": 0, 
+    "level": 160
+  }
+}

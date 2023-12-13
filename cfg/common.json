@@ -1,0 +1,162 @@
+{
+  "quickBattleVim": 15, 
+  "adGetVimNum": 3, 
+  "activeMapVimCost": [
+    [
+      1, 
+      20, 
+      5
+    ], 
+    [
+      2, 
+      20, 
+      5
+    ], 
+    [
+      3, 
+      20, 
+      5
+    ], 
+    [
+      4, 
+      20, 
+      5
+    ]
+  ], 
+  "buyVimcost": [
+    [
+      1, 
+      100
+    ], 
+    [
+      1, 
+      150
+    ], 
+    [
+      1, 
+      200
+    ]
+  ], 
+  "equipCostList": [
+    400001, 
+    400002, 
+    400003, 
+    400004, 
+    400005, 
+    400006
+  ], 
+  "InitialItem": [
+    [
+      2, 
+      5000
+    ], 
+    [
+      3, 
+      5000
+    ], 
+    [
+      800001, 
+      1
+    ], 
+    [
+      1000001, 
+      1
+    ], 
+    [
+      15001, 
+      1
+    ], 
+    [
+      15002, 
+      1
+    ], 
+    [
+      15003, 
+      1
+    ], 
+    [
+      15004, 
+      1
+    ], 
+    [
+      15006, 
+      1
+    ], 
+    [
+      15007, 
+      1
+    ]
+  ], 
+  "quickBattleTime": 300, 
+  "addVimTime": 360, 
+  "adGetVimValue": 5, 
+  "initialTechnologyId": 1001, 
+  "buyVimNum": 3, 
+  "masterUpAddVim2": [
+    1, 
+    100
+  ], 
+  "shopRefreshfree": 1, 
+  "equipDownList4": [
+    700001, 
+    700002, 
+    700003, 
+    700004, 
+    700005, 
+    700006
+  ], 
+  "equipDownList6": [
+    720001, 
+    720002, 
+    720003, 
+    720004, 
+    720005, 
+    720006
+  ], 
+  "ptMapVimCost": 1, 
+  "quickBattleMaxTime": 1440, 
+  "equipDownList5": [
+    710001, 
+    710002, 
+    710003, 
+    710004, 
+    710005, 
+    710006
+  ], 
+  "InitialVimValue": 30, 
+  "buyVimValue": 15, 
+  "fristChargeReward": [
+    [
+      1, 
+      200
+    ], 
+    [
+      2, 
+      10000
+    ], 
+    [
+      344003, 
+      1
+    ]
+  ], 
+  "quickBattleNum": 3, 
+  "masterUpAddVim": 5, 
+  "fristOpenGerrnBoxReward": [
+    311001, 
+    1
+  ], 
+  "maxVimValue": 50, 
+  "equipCostCode": 2, 
+  "BattleHero": [
+    12, 
+    16
+  ], 
+  "shopRefresh": [
+    5, 
+    10, 
+    20
+  ], 
+  "initialTechnologyId2": 5001, 
+  "shopRefreshnumb": 10, 
+  "adQuickBattleNum": 1
+}

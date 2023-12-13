@@ -1,0 +1,50 @@
+{
+  "1": {
+    "addvalue9": 9, 
+    "addvalue8": 9, 
+    "addvalue1": 3, 
+    "addvalue3": 5, 
+    "addvalue2": 4, 
+    "addvalue5": 7, 
+    "addvalue4": 5, 
+    "addvalue7": 7, 
+    "addvalue6": 7, 
+    "addvalue16": 12, 
+    "equipType": [
+      1, 
+      2, 
+      3
+    ], 
+    "addvalue11": 9, 
+    "addvalue10": 9, 
+    "addvalue13": 12, 
+    "addvalue12": 12, 
+    "addvalue15": 12, 
+    "id": 1, 
+    "addvalue14": 12
+  }, 
+  "2": {
+    "addvalue9": 35, 
+    "addvalue8": 35, 
+    "addvalue1": 10, 
+    "addvalue3": 20, 
+    "addvalue2": 15, 
+    "addvalue5": 20, 
+    "addvalue4": 20, 
+    "addvalue7": 25, 
+    "addvalue6": 25, 
+    "addvalue16": 45, 
+    "equipType": [
+      4, 
+      5, 
+      6
+    ], 
+    "addvalue11": 35, 
+    "addvalue10": 35, 
+    "addvalue13": 45, 
+    "addvalue12": 45, 
+    "addvalue15": 45, 
+    "id": 2, 
+    "addvalue14": 45
+  }
+}
