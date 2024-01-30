@@ -776,167 +776,6 @@
     "id": 3002, 
     "firsttimes": 0
   }, 
-  "7101": {
-    "reward1": [
-      [
-        15005, 
-        1
-      ], 
-      [
-        1, 
-        5000
-      ], 
-      [
-        1200001, 
-        2000
-      ]
-    ], 
-    "fistgive": [], 
-    "dailyreward": [], 
-    "charge": 6800, 
-    "chargeType": 8, 
-    "reward": [], 
-    "id": 7101, 
-    "firsttimes": 0
-  }, 
-  "7102": {
-    "reward1": [
-      [
-        15012, 
-        1
-      ], 
-      [
-        1, 
-        5000
-      ], 
-      [
-        1200001, 
-        2000
-      ]
-    ], 
-    "fistgive": [], 
-    "dailyreward": [], 
-    "charge": 6800, 
-    "chargeType": 8, 
-    "reward": [], 
-    "id": 7102, 
-    "firsttimes": 0
-  }, 
-  "7103": {
-    "reward1": [
-      [
-        15015, 
-        1
-      ], 
-      [
-        1, 
-        5000
-      ], 
-      [
-        1200001, 
-        2000
-      ]
-    ], 
-    "fistgive": [], 
-    "dailyreward": [], 
-    "charge": 6800, 
-    "chargeType": 8, 
-    "reward": [], 
-    "id": 7103, 
-    "firsttimes": 0
-  }, 
-  "7104": {
-    "reward1": [
-      [
-        15016, 
-        1
-      ], 
-      [
-        1, 
-        5000
-      ], 
-      [
-        1200001, 
-        2000
-      ]
-    ], 
-    "fistgive": [], 
-    "dailyreward": [], 
-    "charge": 6800, 
-    "chargeType": 8, 
-    "reward": [], 
-    "id": 7104, 
-    "firsttimes": 0
-  }, 
-  "7105": {
-    "reward1": [
-      [
-        15017, 
-        1
-      ], 
-      [
-        1, 
-        5000
-      ], 
-      [
-        1200001, 
-        2000
-      ]
-    ], 
-    "fistgive": [], 
-    "dailyreward": [], 
-    "charge": 6800, 
-    "chargeType": 8, 
-    "reward": [], 
-    "id": 7105, 
-    "firsttimes": 0
-  }, 
-  "7106": {
-    "reward1": [
-      [
-        15018, 
-        1
-      ], 
-      [
-        1, 
-        5000
-      ], 
-      [
-        1200001, 
-        2000
-      ]
-    ], 
-    "fistgive": [], 
-    "dailyreward": [], 
-    "charge": 6800, 
-    "chargeType": 8, 
-    "reward": [], 
-    "id": 7106, 
-    "firsttimes": 0
-  }, 
-  "7107": {
-    "reward1": [
-      [
-        15019, 
-        1
-      ], 
-      [
-        1, 
-        5000
-      ], 
-      [
-        1200001, 
-        2000
-      ]
-    ], 
-    "fistgive": [], 
-    "dailyreward": [], 
-    "charge": 6800, 
-    "chargeType": 8, 
-    "reward": [], 
-    "id": 7107, 
-    "firsttimes": 0
-  }, 
   "2001": {
     "reward1": [], 
     "fistgive": [], 
@@ -968,7 +807,12 @@
     "firsttimes": 0
   }, 
   "7001": {
-    "reward1": [
+    "reward1": [], 
+    "fistgive": [], 
+    "dailyreward": [], 
+    "charge": 3000, 
+    "chargeType": 8, 
+    "reward": [
       [
         15005, 
         1
@@ -982,16 +826,16 @@
         500
       ]
     ], 
-    "fistgive": [], 
-    "dailyreward": [], 
-    "charge": 3000, 
-    "chargeType": 8, 
-    "reward": [], 
     "id": 7001, 
     "firsttimes": 0
   }, 
   "7002": {
-    "reward1": [
+    "reward1": [], 
+    "fistgive": [], 
+    "dailyreward": [], 
+    "charge": 3000, 
+    "chargeType": 8, 
+    "reward": [
       [
         15012, 
         1
@@ -1005,16 +849,16 @@
         500
       ]
     ], 
-    "fistgive": [], 
-    "dailyreward": [], 
-    "charge": 3000, 
-    "chargeType": 8, 
-    "reward": [], 
     "id": 7002, 
     "firsttimes": 0
   }, 
   "7003": {
-    "reward1": [
+    "reward1": [], 
+    "fistgive": [], 
+    "dailyreward": [], 
+    "charge": 3000, 
+    "chargeType": 8, 
+    "reward": [
       [
         15015, 
         1
@@ -1028,16 +872,16 @@
         500
       ]
     ], 
-    "fistgive": [], 
-    "dailyreward": [], 
-    "charge": 3000, 
-    "chargeType": 8, 
-    "reward": [], 
     "id": 7003, 
     "firsttimes": 0
   }, 
   "7004": {
-    "reward1": [
+    "reward1": [], 
+    "fistgive": [], 
+    "dailyreward": [], 
+    "charge": 3000, 
+    "chargeType": 8, 
+    "reward": [
       [
         15016, 
         1
@@ -1051,16 +895,16 @@
         500
       ]
     ], 
-    "fistgive": [], 
-    "dailyreward": [], 
-    "charge": 3000, 
-    "chargeType": 8, 
-    "reward": [], 
     "id": 7004, 
     "firsttimes": 0
   }, 
   "7005": {
-    "reward1": [
+    "reward1": [], 
+    "fistgive": [], 
+    "dailyreward": [], 
+    "charge": 3000, 
+    "chargeType": 8, 
+    "reward": [
       [
         15017, 
         1
@@ -1074,16 +918,16 @@
         500
       ]
     ], 
-    "fistgive": [], 
-    "dailyreward": [], 
-    "charge": 3000, 
-    "chargeType": 8, 
-    "reward": [], 
     "id": 7005, 
     "firsttimes": 0
   }, 
   "7006": {
-    "reward1": [
+    "reward1": [], 
+    "fistgive": [], 
+    "dailyreward": [], 
+    "charge": 3000, 
+    "chargeType": 8, 
+    "reward": [
       [
         15018, 
         1
@@ -1097,16 +941,16 @@
         500
       ]
     ], 
-    "fistgive": [], 
-    "dailyreward": [], 
-    "charge": 3000, 
-    "chargeType": 8, 
-    "reward": [], 
     "id": 7006, 
     "firsttimes": 0
   }, 
   "7007": {
-    "reward1": [
+    "reward1": [], 
+    "fistgive": [], 
+    "dailyreward": [], 
+    "charge": 3000, 
+    "chargeType": 8, 
+    "reward": [
       [
         15019, 
         1
@@ -1120,11 +964,6 @@
         500
       ]
     ], 
-    "fistgive": [], 
-    "dailyreward": [], 
-    "charge": 3000, 
-    "chargeType": 8, 
-    "reward": [], 
     "id": 7007, 
     "firsttimes": 0
   }, 
